@@ -1,0 +1,2287 @@
+,Film,Year_Num,Category,NO,YES,Nominee
+0,Biutiful,2010,Actor -- Leading Role,1.0,0.0,Javier Bardem
+1,True Grit,2010,Actor -- Leading Role,1.0,0.0,Jeff Bridges
+2,The Social Network,2010,Actor -- Leading Role,1.0,0.0,Jesse Eisenberg
+3,The King's Speech,2010,Actor -- Leading Role,0.0,1.0,Colin Firth
+4,127 Hours,2010,Actor -- Leading Role,1.0,0.0,James Franco
+5,The Kids Are All Right,2010,Actress -- Leading Role,1.0,0.0,Annette Bening
+6,Rabbit Hole,2010,Actress -- Leading Role,1.0,0.0,Nicole Kidman
+7,Winter's Bone,2010,Actress -- Leading Role,1.0,0.0,Jennifer Lawrence
+8,Black Swan,2010,Actress -- Leading Role,0.0,1.0,Natalie Portman
+9,Blue Valentine,2010,Actress -- Leading Role,1.0,0.0,Michelle Williams
+10,Black Swan,2010,Cinematography,1.0,0.0,Black Swan
+11,Inception,2010,Cinematography,0.0,1.0,Inception
+12,The King's Speech,2010,Cinematography,1.0,0.0,The King's Speech
+13,The Social Network,2010,Cinematography,1.0,0.0,The Social Network
+14,True Grit,2010,Cinematography,1.0,0.0,True Grit
+15,Black Swan,2010,Directing,1.0,0.0,Black Swan
+16,The Fighter,2010,Directing,1.0,0.0,The Fighter
+17,The King's Speech,2010,Directing,0.0,1.0,The King's Speech
+18,The Social Network,2010,Directing,1.0,0.0,The Social Network
+19,True Grit,2010,Directing,1.0,0.0,True Grit
+20,Black Swan,2010,Best Picture,1.0,0.0,Black Swan
+21,The Fighter,2010,Best Picture,1.0,0.0,The Fighter
+22,Inception,2010,Best Picture,1.0,0.0,Inception
+23,The Kids Are All Right,2010,Best Picture,1.0,0.0,The Kids Are All Right
+24,The King's Speech,2010,Best Picture,0.0,1.0,The King's Speech
+25,127 Hours,2010,Best Picture,1.0,0.0,127 Hours
+26,The Social Network,2010,Best Picture,1.0,0.0,The Social Network
+27,Toy Story 3,2010,Best Picture,1.0,0.0,Toy Story 3
+28,True Grit,2010,Best Picture,1.0,0.0,True Grit
+29,Winter's Bone,2010,Best Picture,1.0,0.0,Winter's Bone
+30,Crazy Heart,2009,Actor -- Leading Role,0.0,1.0,Jeff Bridges
+31,Up in the Air,2009,Actor -- Leading Role,1.0,0.0,George Clooney
+32,A Single Man,2009,Actor -- Leading Role,1.0,0.0,Colin Firth
+33,Invictus,2009,Actor -- Leading Role,1.0,0.0,Morgan Freeman
+34,The Hurt Locker,2009,Actor -- Leading Role,1.0,0.0,Jeremy Renner
+35,The Blind Side,2009,Actress -- Leading Role,0.0,1.0,Sandra Bullock
+36,The Last Station,2009,Actress -- Leading Role,1.0,0.0,Helen Mirren
+37,An Education,2009,Actress -- Leading Role,1.0,0.0,Carey Mulligan
+38,Precious: Based on the Novel 'Push' by Sapphire,2009,Actress -- Leading Role,1.0,0.0,Gabourey Sidibe
+39,Julie & Julia,2009,Actress -- Leading Role,1.0,0.0,Meryl Streep
+40,Avatar,2009,Cinematography,0.0,1.0,Avatar
+41,Harry Potter and the Half-Blood Prince,2009,Cinematography,1.0,0.0,Harry Potter and the Half-Blood Prince
+42,The Hurt Locker,2009,Cinematography,1.0,0.0,The Hurt Locker
+43,Inglourious Basterds,2009,Cinematography,1.0,0.0,Inglourious Basterds
+44,The White Ribbon,2009,Cinematography,1.0,0.0,The White Ribbon
+45,Avatar,2009,Directing,1.0,0.0,Avatar
+46,The Hurt Locker,2009,Directing,0.0,1.0,The Hurt Locker
+47,Inglourious Basterds,2009,Directing,1.0,0.0,Inglourious Basterds
+48,Precious: Based on the Novel 'Push' by Sapphire,2009,Directing,1.0,0.0,Precious: Based on the Novel 'Push' by Sapphire
+49,Up in the Air,2009,Directing,1.0,0.0,Up in the Air
+50,Avatar,2009,Best Picture,1.0,0.0,Avatar
+51,The Blind Side,2009,Best Picture,1.0,0.0,The Blind Side
+52,District 9,2009,Best Picture,1.0,0.0,District 9
+53,An Education,2009,Best Picture,1.0,0.0,An Education
+54,The Hurt Locker,2009,Best Picture,0.0,1.0,The Hurt Locker
+55,Inglourious Basterds,2009,Best Picture,1.0,0.0,Inglourious Basterds
+56,Precious: Based on the Novel 'Push' by Sapphire,2009,Best Picture,1.0,0.0,Precious: Based on the Novel 'Push' by Sapphire
+57,A Serious Man,2009,Best Picture,1.0,0.0,A Serious Man
+58,Up,2009,Best Picture,1.0,0.0,Up
+59,Up in the Air,2009,Best Picture,1.0,0.0,Up in the Air
+60,The Visitor,2008,Actor -- Leading Role,1.0,0.0,Richard Jenkins
+61,Frost/Nixon,2008,Actor -- Leading Role,1.0,0.0,Frank Langella
+62,Milk,2008,Actor -- Leading Role,0.0,1.0,Sean Penn
+63,The Curious Case of Benjamin Button,2008,Actor -- Leading Role,1.0,0.0,Brad Pitt
+64,The Wrestler,2008,Actor -- Leading Role,1.0,0.0,Mickey Rourke
+65,Rachel Getting Married,2008,Actress -- Leading Role,1.0,0.0,Anne Hathaway
+66,Changeling,2008,Actress -- Leading Role,1.0,0.0,Angelina Jolie
+67,Frozen River,2008,Actress -- Leading Role,1.0,0.0,Melissa Leo
+68,Doubt,2008,Actress -- Leading Role,1.0,0.0,Meryl Streep
+69,The Reader,2008,Actress -- Leading Role,0.0,1.0,Kate Winslet
+70,Changeling,2008,Cinematography,1.0,0.0,Changeling
+71,The Curious Case of Benjamin Button,2008,Cinematography,1.0,0.0,The Curious Case of Benjamin Button
+72,The Dark Knight,2008,Cinematography,1.0,0.0,The Dark Knight
+73,The Reader,2008,Cinematography,1.0,0.0,The Reader
+74,Slumdog Millionaire,2008,Cinematography,0.0,1.0,Slumdog Millionaire
+75,The Curious Case of Benjamin Button,2008,Directing,1.0,0.0,The Curious Case of Benjamin Button
+76,Frost/Nixon,2008,Directing,1.0,0.0,Frost/Nixon
+77,Milk,2008,Directing,1.0,0.0,Milk
+78,The Reader,2008,Directing,1.0,0.0,The Reader
+79,Slumdog Millionaire,2008,Directing,0.0,1.0,Slumdog Millionaire
+80,The Curious Case of Benjamin Button,2008,Best Picture,1.0,0.0,The Curious Case of Benjamin Button
+81,Frost/Nixon,2008,Best Picture,1.0,0.0,Frost/Nixon
+82,Milk,2008,Best Picture,1.0,0.0,Milk
+83,The Reader,2008,Best Picture,1.0,0.0,The Reader
+84,Slumdog Millionaire,2008,Best Picture,0.0,1.0,Slumdog Millionaire
+85,Michael Clayton,2007,Actor -- Leading Role,1.0,0.0,George Clooney
+86,There Will Be Blood,2007,Actor -- Leading Role,0.0,1.0,Daniel Day-Lewis
+87,Sweeney Todd The Demon Barber of Fleet Street,2007,Actor -- Leading Role,1.0,0.0,Johnny Depp
+88,In the Valley of Elah,2007,Actor -- Leading Role,1.0,0.0,Tommy Lee Jones
+89,Eastern Promises,2007,Actor -- Leading Role,1.0,0.0,Viggo Mortensen
+90,Elizabeth: The Golden Age,2007,Actress -- Leading Role,1.0,0.0,Cate Blanchett
+91,Away from Her,2007,Actress -- Leading Role,1.0,0.0,Julie Christie
+92,La Vie en Rose,2007,Actress -- Leading Role,0.0,1.0,Marion Cotillard
+93,The Savages,2007,Actress -- Leading Role,1.0,0.0,Laura Linney
+94,Juno,2007,Actress -- Leading Role,1.0,0.0,Ellen Page
+95,The Assassination of Jesse James by the Coward Robert Ford,2007,Cinematography,1.0,0.0,The Assassination of Jesse James by the Coward Robert Ford
+96,Atonement,2007,Cinematography,1.0,0.0,Atonement
+97,The Diving Bell and the Butterfly,2007,Cinematography,1.0,0.0,The Diving Bell and the Butterfly
+98,No Country for Old Men,2007,Cinematography,1.0,0.0,No Country for Old Men
+99,There Will Be Blood,2007,Cinematography,0.0,1.0,There Will Be Blood
+100,The Diving Bell and the Butterfly,2007,Directing,1.0,0.0,The Diving Bell and the Butterfly
+101,Juno,2007,Directing,1.0,0.0,Juno
+102,Michael Clayton,2007,Directing,1.0,0.0,Michael Clayton
+103,No Country for Old Men,2007,Directing,0.0,1.0,No Country for Old Men
+104,There Will Be Blood,2007,Directing,1.0,0.0,There Will Be Blood
+105,Atonement,2007,Best Picture,1.0,0.0,Atonement
+106,Juno,2007,Best Picture,1.0,0.0,Juno
+107,Michael Clayton,2007,Best Picture,1.0,0.0,Michael Clayton
+108,No Country for Old Men,2007,Best Picture,0.0,1.0,No Country for Old Men
+109,There Will Be Blood,2007,Best Picture,1.0,0.0,There Will Be Blood
+110,Blood Diamond,2006,Actor -- Leading Role,1.0,0.0,Leonardo DiCaprio
+111,Half Nelson,2006,Actor -- Leading Role,1.0,0.0,Ryan Gosling
+112,Venus,2006,Actor -- Leading Role,1.0,0.0,Peter O'Toole
+113,The Pursuit of Happyness,2006,Actor -- Leading Role,1.0,0.0,Will Smith
+114,The Last King of Scotland,2006,Actor -- Leading Role,0.0,1.0,Forest Whitaker
+115,Volver,2006,Actress -- Leading Role,1.0,0.0,Penélope Cruz
+116,Notes on a Scandal,2006,Actress -- Leading Role,1.0,0.0,Judi Dench
+117,The Queen,2006,Actress -- Leading Role,0.0,1.0,Helen Mirren
+118,The Devil Wears Prada,2006,Actress -- Leading Role,1.0,0.0,Meryl Streep
+119,Little Children,2006,Actress -- Leading Role,1.0,0.0,Kate Winslet
+120,The Black Dahlia,2006,Cinematography,1.0,0.0,The Black Dahlia
+121,Children of Men,2006,Cinematography,1.0,0.0,Children of Men
+122,The Illusionist,2006,Cinematography,1.0,0.0,The Illusionist
+123,Pan's Labyrinth,2006,Cinematography,0.0,1.0,Pan's Labyrinth
+124,The Prestige,2006,Cinematography,1.0,0.0,The Prestige
+125,Babel,2006,Directing,1.0,0.0,Babel
+126,The Departed,2006,Directing,0.0,1.0,The Departed
+127,Letters from Iwo Jima,2006,Directing,1.0,0.0,Letters from Iwo Jima
+128,The Queen,2006,Directing,1.0,0.0,The Queen
+129,United 93,2006,Directing,1.0,0.0,United 93
+130,Babel,2006,Best Picture,1.0,0.0,Babel
+131,The Departed,2006,Best Picture,0.0,1.0,The Departed
+132,Letters from Iwo Jima,2006,Best Picture,1.0,0.0,Letters from Iwo Jima
+133,Little Miss Sunshine,2006,Best Picture,1.0,0.0,Little Miss Sunshine
+134,The Queen,2006,Best Picture,1.0,0.0,The Queen
+135,Capote,2005,Actor -- Leading Role,0.0,1.0,Philip Seymour Hoffman
+136,Hustle & Flow,2005,Actor -- Leading Role,1.0,0.0,Terrence Howard
+137,Brokeback Mountain,2005,Actor -- Leading Role,1.0,0.0,Heath Ledger
+138,Walk the Line,2005,Actor -- Leading Role,1.0,0.0,Joaquin Phoenix
+139,"Good Night, and Good Luck.",2005,Actor -- Leading Role,1.0,0.0,David Strathairn
+140,Mrs. Henderson Presents,2005,Actress -- Leading Role,1.0,0.0,Judi Dench
+141,Transamerica,2005,Actress -- Leading Role,1.0,0.0,Felicity Huffman
+142,Pride & Prejudice,2005,Actress -- Leading Role,1.0,0.0,Keira Knightley
+143,North Country,2005,Actress -- Leading Role,1.0,0.0,Charlize Theron
+144,Walk the Line,2005,Actress -- Leading Role,0.0,1.0,Reese Witherspoon
+145,Batman Begins,2005,Cinematography,1.0,0.0,Batman Begins
+146,Brokeback Mountain,2005,Cinematography,1.0,0.0,Brokeback Mountain
+147,"Good Night, and Good Luck.",2005,Cinematography,1.0,0.0,"Good Night, and Good Luck."
+148,Memoirs of a Geisha,2005,Cinematography,0.0,1.0,Memoirs of a Geisha
+149,The New World,2005,Cinematography,1.0,0.0,The New World
+150,Brokeback Mountain,2005,Directing,0.0,1.0,Brokeback Mountain
+151,Capote,2005,Directing,1.0,0.0,Capote
+152,Crash,2005,Directing,1.0,0.0,Crash
+153,"Good Night, and Good Luck.",2005,Directing,1.0,0.0,"Good Night, and Good Luck."
+154,Munich,2005,Directing,1.0,0.0,Munich
+155,Brokeback Mountain,2005,Best Picture,1.0,0.0,Brokeback Mountain
+156,Capote,2005,Best Picture,1.0,0.0,Capote
+157,Crash,2005,Best Picture,0.0,1.0,Crash
+158,"Good Night, and Good Luck.",2005,Best Picture,1.0,0.0,"Good Night, and Good Luck."
+159,Munich,2005,Best Picture,1.0,0.0,Munich
+160,Hotel Rwanda,2004,Actor -- Leading Role,1.0,0.0,Don Cheadle
+161,Finding Neverland,2004,Actor -- Leading Role,1.0,0.0,Johnny Depp
+162,The Aviator,2004,Actor -- Leading Role,1.0,0.0,Leonardo DiCaprio
+163,Million Dollar Baby,2004,Actor -- Leading Role,1.0,0.0,Clint Eastwood
+164,Ray,2004,Actor -- Leading Role,0.0,1.0,Jamie Foxx
+165,Being Julia,2004,Actress -- Leading Role,1.0,0.0,Annette Bening
+166,Maria Full of Grace,2004,Actress -- Leading Role,1.0,0.0,Catalina Sandino Moreno
+167,Vera Drake,2004,Actress -- Leading Role,1.0,0.0,Imelda Staunton
+168,Million Dollar Baby,2004,Actress -- Leading Role,0.0,1.0,Hilary Swank
+169,Eternal Sunshine of the Spotless Mind,2004,Actress -- Leading Role,1.0,0.0,Kate Winslet
+170,The Aviator,2004,Cinematography,0.0,1.0,The Aviator
+171,House of Flying Daggers,2004,Cinematography,1.0,0.0,House of Flying Daggers
+172,The Passion of the Christ,2004,Cinematography,1.0,0.0,The Passion of the Christ
+173,The Phantom of the Opera,2004,Cinematography,1.0,0.0,The Phantom of the Opera
+174,A Very Long Engagement,2004,Cinematography,1.0,0.0,A Very Long Engagement
+175,The Aviator,2004,Directing,1.0,0.0,The Aviator
+176,Million Dollar Baby,2004,Directing,0.0,1.0,Million Dollar Baby
+177,Ray,2004,Directing,1.0,0.0,Ray
+178,Sideways,2004,Directing,1.0,0.0,Sideways
+179,Vera Drake,2004,Directing,1.0,0.0,Vera Drake
+180,The Aviator,2004,Best Picture,1.0,0.0,The Aviator
+181,Finding Neverland,2004,Best Picture,1.0,0.0,Finding Neverland
+182,Million Dollar Baby,2004,Best Picture,0.0,1.0,Million Dollar Baby
+183,Ray,2004,Best Picture,1.0,0.0,Ray
+184,Sideways,2004,Best Picture,1.0,0.0,Sideways
+185,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Actor -- Leading Role,1.0,0.0,Johnny Depp
+186,House of Sand and Fog,2003,Actor -- Leading Role,1.0,0.0,Ben Kingsley
+187,Cold Mountain,2003,Actor -- Leading Role,1.0,0.0,Jude Law
+188,Lost in Translation,2003,Actor -- Leading Role,1.0,0.0,Bill Murray
+189,Mystic River,2003,Actor -- Leading Role,0.0,1.0,Sean Penn
+190,Whale Rider,2003,Actress -- Leading Role,1.0,0.0,Keisha Castle-Hughes
+191,Something's Gotta Give,2003,Actress -- Leading Role,1.0,0.0,Diane Keaton
+192,In America,2003,Actress -- Leading Role,1.0,0.0,Samantha Morton
+193,Monster,2003,Actress -- Leading Role,0.0,1.0,Charlize Theron
+194,21 Grams,2003,Actress -- Leading Role,1.0,0.0,Naomi Watts
+195,City of God,2003,Cinematography,1.0,0.0,City of God
+196,Cold Mountain,2003,Cinematography,1.0,0.0,Cold Mountain
+197,Girl with a Pearl Earring,2003,Cinematography,1.0,0.0,Girl with a Pearl Earring
+198,Master and Commander: The Far Side of the World,2003,Cinematography,0.0,1.0,Master and Commander: The Far Side of the World
+199,Seabiscuit,2003,Cinematography,1.0,0.0,Seabiscuit
+200,City of God,2003,Directing,1.0,0.0,City of God
+201,The Lord of the Rings: The Return of the King,2003,Directing,0.0,1.0,The Lord of the Rings: The Return of the King
+202,Lost in Translation,2003,Directing,1.0,0.0,Lost in Translation
+203,Master and Commander: The Far Side of the World,2003,Directing,1.0,0.0,Master and Commander: The Far Side of the World
+204,Mystic River,2003,Directing,1.0,0.0,Mystic River
+205,The Lord of the Rings: The Return of the King,2003,Best Picture,0.0,1.0,The Lord of the Rings: The Return of the King
+206,Lost in Translation,2003,Best Picture,1.0,0.0,Lost in Translation
+207,Master and Commander: The Far Side of the World,2003,Best Picture,1.0,0.0,Master and Commander: The Far Side of the World
+208,Mystic River,2003,Best Picture,1.0,0.0,Mystic River
+209,Seabiscuit,2003,Best Picture,1.0,0.0,Seabiscuit
+210,The Pianist,2002,Actor -- Leading Role,0.0,1.0,Adrien Brody
+211,Adaptation,2002,Actor -- Leading Role,1.0,0.0,Nicolas Cage
+212,The Quiet American,2002,Actor -- Leading Role,1.0,0.0,Michael Caine
+213,Gangs of New York,2002,Actor -- Leading Role,1.0,0.0,Daniel Day-Lewis
+214,About Schmidt,2002,Actor -- Leading Role,1.0,0.0,Jack Nicholson
+215,Frida,2002,Actress -- Leading Role,1.0,0.0,Salma Hayek
+216,The Hours,2002,Actress -- Leading Role,0.0,1.0,Nicole Kidman
+217,Unfaithful,2002,Actress -- Leading Role,1.0,0.0,Diane Lane
+218,Far from Heaven,2002,Actress -- Leading Role,1.0,0.0,Julianne Moore
+219,Chicago,2002,Actress -- Leading Role,1.0,0.0,Renée Zellweger
+220,Chicago,2002,Cinematography,1.0,0.0,Chicago
+221,Far from Heaven,2002,Cinematography,1.0,0.0,Far from Heaven
+222,Gangs of New York,2002,Cinematography,1.0,0.0,Gangs of New York
+223,The Pianist,2002,Cinematography,1.0,0.0,The Pianist
+224,Road to Perdition,2002,Cinematography,0.0,1.0,Road to Perdition
+225,Chicago,2002,Directing,1.0,0.0,Chicago
+226,Gangs of New York,2002,Directing,1.0,0.0,Gangs of New York
+227,The Hours,2002,Directing,1.0,0.0,The Hours
+228,The Pianist,2002,Directing,0.0,1.0,The Pianist
+229,Talk to Her,2002,Directing,1.0,0.0,Talk to Her
+230,Chicago,2002,Best Picture,0.0,1.0,Chicago
+231,Gangs of New York,2002,Best Picture,1.0,0.0,Gangs of New York
+232,The Hours,2002,Best Picture,1.0,0.0,The Hours
+233,The Lord of the Rings: The Two Towers,2002,Best Picture,1.0,0.0,The Lord of the Rings: The Two Towers
+234,The Pianist,2002,Best Picture,1.0,0.0,The Pianist
+235,A Beautiful Mind,2001,Actor -- Leading Role,1.0,0.0,Russell Crowe
+236,I Am Sam,2001,Actor -- Leading Role,1.0,0.0,Sean Penn
+237,Ali,2001,Actor -- Leading Role,1.0,0.0,Will Smith
+238,Training Day,2001,Actor -- Leading Role,0.0,1.0,Denzel Washington
+239,In the Bedroom,2001,Actor -- Leading Role,1.0,0.0,Tom Wilkinson
+240,Monster's Ball,2001,Actress -- Leading Role,0.0,1.0,Halle Berry
+241,Iris,2001,Actress -- Leading Role,1.0,0.0,Judi Dench
+242,Moulin Rouge,2001,Actress -- Leading Role,1.0,0.0,Nicole Kidman
+243,In the Bedroom,2001,Actress -- Leading Role,1.0,0.0,Sissy Spacek
+244,Bridget Jones's Diary,2001,Actress -- Leading Role,1.0,0.0,Renée Zellweger
+245,Amélie,2001,Cinematography,1.0,0.0,Amélie
+246,Black Hawk Down,2001,Cinematography,1.0,0.0,Black Hawk Down
+247,The Lord of the Rings: The Fellowship of the Ring,2001,Cinematography,0.0,1.0,The Lord of the Rings: The Fellowship of the Ring
+248,The Man Who Wasn't There,2001,Cinematography,1.0,0.0,The Man Who Wasn't There
+249,Moulin Rouge,2001,Cinematography,1.0,0.0,Moulin Rouge
+250,A Beautiful Mind,2001,Directing,0.0,1.0,A Beautiful Mind
+251,Black Hawk Down,2001,Directing,1.0,0.0,Black Hawk Down
+252,Gosford Park,2001,Directing,1.0,0.0,Gosford Park
+253,The Lord of the Rings: The Fellowship of the Ring,2001,Directing,1.0,0.0,The Lord of the Rings: The Fellowship of the Ring
+254,Mulholland Drive,2001,Directing,1.0,0.0,Mulholland Drive
+255,A Beautiful Mind,2001,Best Picture,0.0,1.0,A Beautiful Mind
+256,Gosford Park,2001,Best Picture,1.0,0.0,Gosford Park
+257,In the Bedroom,2001,Best Picture,1.0,0.0,In the Bedroom
+258,The Lord of the Rings: The Fellowship of the Ring,2001,Best Picture,1.0,0.0,The Lord of the Rings: The Fellowship of the Ring
+259,Moulin Rouge,2001,Best Picture,1.0,0.0,Moulin Rouge
+260,Before Night Falls,2000,Actor -- Leading Role,1.0,0.0,Javier Bardem
+261,Gladiator,2000,Actor -- Leading Role,0.0,1.0,Russell Crowe
+262,Cast Away,2000,Actor -- Leading Role,1.0,0.0,Tom Hanks
+263,Pollock,2000,Actor -- Leading Role,1.0,0.0,Ed Harris
+264,Quills,2000,Actor -- Leading Role,1.0,0.0,Geoffrey Rush
+265,The Contender,2000,Actress -- Leading Role,1.0,0.0,Joan Allen
+266,Chocolat,2000,Actress -- Leading Role,1.0,0.0,Juliette Binoche
+267,Requiem for a Dream,2000,Actress -- Leading Role,1.0,0.0,Ellen Burstyn
+268,You Can Count on Me,2000,Actress -- Leading Role,1.0,0.0,Laura Linney
+269,Erin Brockovich,2000,Actress -- Leading Role,0.0,1.0,Julia Roberts
+270,"Crouching Tiger, Hidden Dragon",2000,Cinematography,0.0,1.0,"Crouching Tiger, Hidden Dragon"
+271,Gladiator,2000,Cinematography,1.0,0.0,Gladiator
+272,Malèna,2000,Cinematography,1.0,0.0,Malèna
+273,"O Brother, Where Art Thou?",2000,Cinematography,1.0,0.0,"O Brother, Where Art Thou?"
+274,The Patriot,2000,Cinematography,1.0,0.0,The Patriot
+275,Billy Elliot,2000,Directing,1.0,0.0,Billy Elliot
+276,"Crouching Tiger, Hidden Dragon",2000,Directing,1.0,0.0,"Crouching Tiger, Hidden Dragon"
+277,Erin Brockovich,2000,Directing,1.0,0.0,Erin Brockovich
+278,Gladiator,2000,Directing,1.0,0.0,Gladiator
+279,Traffic,2000,Directing,0.0,1.0,Traffic
+280,Chocolat,2000,Best Picture,1.0,0.0,Chocolat
+281,"Crouching Tiger, Hidden Dragon",2000,Best Picture,1.0,0.0,"Crouching Tiger, Hidden Dragon"
+282,Erin Brockovich,2000,Best Picture,1.0,0.0,Erin Brockovich
+283,Gladiator,2000,Best Picture,0.0,1.0,Gladiator
+284,Traffic,2000,Best Picture,1.0,0.0,Traffic
+285,The Insider,1999,Actor -- Leading Role,1.0,0.0,Russell Crowe
+286,The Straight Story,1999,Actor -- Leading Role,1.0,0.0,Richard Farnsworth
+287,Sweet and Lowdown,1999,Actor -- Leading Role,1.0,0.0,Sean Penn
+288,American Beauty,1999,Actor -- Leading Role,0.0,1.0,Kevin Spacey
+289,The Hurricane,1999,Actor -- Leading Role,1.0,0.0,Denzel Washington
+290,American Beauty,1999,Actress -- Leading Role,1.0,0.0,Annette Bening
+291,Tumbleweeds,1999,Actress -- Leading Role,1.0,0.0,Janet McTeer
+292,The End of the Affair,1999,Actress -- Leading Role,1.0,0.0,Julianne Moore
+293,Music of the Heart,1999,Actress -- Leading Role,1.0,0.0,Meryl Streep
+294,Boys Don't Cry,1999,Actress -- Leading Role,0.0,1.0,Hilary Swank
+295,American Beauty,1999,Cinematography,0.0,1.0,American Beauty
+296,The End of the Affair,1999,Cinematography,1.0,0.0,The End of the Affair
+297,The Insider,1999,Cinematography,1.0,0.0,The Insider
+298,Sleepy Hollow,1999,Cinematography,1.0,0.0,Sleepy Hollow
+299,Snow Falling on Cedars,1999,Cinematography,1.0,0.0,Snow Falling on Cedars
+300,American Beauty,1999,Directing,0.0,1.0,American Beauty
+301,Being John Malkovich,1999,Directing,1.0,0.0,Being John Malkovich
+302,The Cider House Rules,1999,Directing,1.0,0.0,The Cider House Rules
+303,The Insider,1999,Directing,1.0,0.0,The Insider
+304,The Sixth Sense,1999,Directing,1.0,0.0,The Sixth Sense
+305,American Beauty,1999,Best Picture,0.0,1.0,American Beauty
+306,The Cider House Rules,1999,Best Picture,1.0,0.0,The Cider House Rules
+307,The Green Mile,1999,Best Picture,1.0,0.0,The Green Mile
+308,The Insider,1999,Best Picture,1.0,0.0,The Insider
+309,The Sixth Sense,1999,Best Picture,1.0,0.0,The Sixth Sense
+310,Life Is Beautiful,1998,Actor -- Leading Role,0.0,1.0,Roberto Benigni
+311,Saving Private Ryan,1998,Actor -- Leading Role,1.0,0.0,Tom Hanks
+312,Gods and Monsters,1998,Actor -- Leading Role,1.0,0.0,Ian McKellen
+313,Affliction,1998,Actor -- Leading Role,1.0,0.0,Nick Nolte
+314,American History X,1998,Actor -- Leading Role,1.0,0.0,Edward Norton
+315,Elizabeth,1998,Actress -- Leading Role,1.0,0.0,Cate Blanchett
+316,Central Station,1998,Actress -- Leading Role,1.0,0.0,Fernanda Montenegro
+317,Shakespeare in Love,1998,Actress -- Leading Role,0.0,1.0,Gwyneth Paltrow
+318,One True Thing,1998,Actress -- Leading Role,1.0,0.0,Meryl Streep
+319,Hilary and Jackie,1998,Actress -- Leading Role,1.0,0.0,Emily Watson
+320,A Civil Action,1998,Cinematography,1.0,0.0,A Civil Action
+321,Elizabeth,1998,Cinematography,1.0,0.0,Elizabeth
+322,Saving Private Ryan,1998,Cinematography,0.0,1.0,Saving Private Ryan
+323,Shakespeare in Love,1998,Cinematography,1.0,0.0,Shakespeare in Love
+324,The Thin Red Line,1998,Cinematography,1.0,0.0,The Thin Red Line
+325,Life Is Beautiful,1998,Directing,1.0,0.0,Life Is Beautiful
+326,Saving Private Ryan,1998,Directing,0.0,1.0,Saving Private Ryan
+327,Shakespeare in Love,1998,Directing,1.0,0.0,Shakespeare in Love
+328,The Thin Red Line,1998,Directing,1.0,0.0,The Thin Red Line
+329,The Truman Show,1998,Directing,1.0,0.0,The Truman Show
+330,Elizabeth,1998,Best Picture,1.0,0.0,Elizabeth
+331,Life Is Beautiful,1998,Best Picture,1.0,0.0,Life Is Beautiful
+332,Saving Private Ryan,1998,Best Picture,1.0,0.0,Saving Private Ryan
+333,Shakespeare in Love,1998,Best Picture,0.0,1.0,Shakespeare in Love
+334,The Thin Red Line,1998,Best Picture,1.0,0.0,The Thin Red Line
+335,Good Will Hunting,1997,Actor -- Leading Role,1.0,0.0,Matt Damon
+336,The Apostle,1997,Actor -- Leading Role,1.0,0.0,Robert Duvall
+337,Ulee's Gold,1997,Actor -- Leading Role,1.0,0.0,Peter Fonda
+338,Wag the Dog,1997,Actor -- Leading Role,1.0,0.0,Dustin Hoffman
+339,As Good as It Gets,1997,Actor -- Leading Role,0.0,1.0,Jack Nicholson
+340,The Wings of the Dove,1997,Actress -- Leading Role,1.0,0.0,Helena Bonham Carter
+341,Afterglow,1997,Actress -- Leading Role,1.0,0.0,Julie Christie
+342,Mrs. Brown,1997,Actress -- Leading Role,1.0,0.0,Judi Dench
+343,As Good as It Gets,1997,Actress -- Leading Role,0.0,1.0,Helen Hunt
+344,Titanic,1997,Actress -- Leading Role,1.0,0.0,Kate Winslet
+345,Amistad,1997,Cinematography,1.0,0.0,Amistad
+346,Kundun,1997,Cinematography,1.0,0.0,Kundun
+347,L.A. Confidential,1997,Cinematography,1.0,0.0,L.A. Confidential
+348,Titanic,1997,Cinematography,0.0,1.0,Titanic
+349,The Wings of the Dove,1997,Cinematography,1.0,0.0,The Wings of the Dove
+350,The Full Monty,1997,Directing,1.0,0.0,The Full Monty
+351,Good Will Hunting,1997,Directing,1.0,0.0,Good Will Hunting
+352,L.A. Confidential,1997,Directing,1.0,0.0,L.A. Confidential
+353,The Sweet Hereafter,1997,Directing,1.0,0.0,The Sweet Hereafter
+354,Titanic,1997,Directing,0.0,1.0,Titanic
+355,As Good as It Gets,1997,Best Picture,1.0,0.0,As Good as It Gets
+356,The Full Monty,1997,Best Picture,1.0,0.0,The Full Monty
+357,Good Will Hunting,1997,Best Picture,1.0,0.0,Good Will Hunting
+358,L.A. Confidential,1997,Best Picture,1.0,0.0,L.A. Confidential
+359,Titanic,1997,Best Picture,0.0,1.0,Titanic
+360,Jerry Maguire,1996,Actor -- Leading Role,1.0,0.0,Tom Cruise
+361,The English Patient,1996,Actor -- Leading Role,1.0,0.0,Ralph Fiennes
+362,The People vs. Larry Flynt,1996,Actor -- Leading Role,1.0,0.0,Woody Harrelson
+363,Shine,1996,Actor -- Leading Role,0.0,1.0,Geoffrey Rush
+364,Sling Blade,1996,Actor -- Leading Role,1.0,0.0,Billy Bob Thornton
+365,Secrets & Lies,1996,Actress -- Leading Role,1.0,0.0,Brenda Blethyn
+366,Marvin's Room,1996,Actress -- Leading Role,1.0,0.0,Diane Keaton
+367,Fargo,1996,Actress -- Leading Role,0.0,1.0,Frances McDormand
+368,The English Patient,1996,Actress -- Leading Role,1.0,0.0,Kristin Scott Thomas
+369,Breaking the Waves,1996,Actress -- Leading Role,1.0,0.0,Emily Watson
+370,The English Patient,1996,Cinematography,0.0,1.0,The English Patient
+371,Evita,1996,Cinematography,1.0,0.0,Evita
+372,Fargo,1996,Cinematography,1.0,0.0,Fargo
+373,Fly Away Home,1996,Cinematography,1.0,0.0,Fly Away Home
+374,Michael Collins,1996,Cinematography,1.0,0.0,Michael Collins
+375,The English Patient,1996,Directing,0.0,1.0,The English Patient
+376,Fargo,1996,Directing,1.0,0.0,Fargo
+377,The People vs. Larry Flynt,1996,Directing,1.0,0.0,The People vs. Larry Flynt
+378,Secrets & Lies,1996,Directing,1.0,0.0,Secrets & Lies
+379,Shine,1996,Directing,1.0,0.0,Shine
+380,The English Patient,1996,Best Picture,0.0,1.0,The English Patient
+381,Fargo,1996,Best Picture,1.0,0.0,Fargo
+382,Jerry Maguire,1996,Best Picture,1.0,0.0,Jerry Maguire
+383,Secrets & Lies,1996,Best Picture,1.0,0.0,Secrets & Lies
+384,Shine,1996,Best Picture,1.0,0.0,Shine
+385,Leaving Las Vegas,1995,Actor -- Leading Role,0.0,1.0,Nicolas Cage
+386,Mr. Holland's Opus,1995,Actor -- Leading Role,1.0,0.0,Richard Dreyfuss
+387,Nixon,1995,Actor -- Leading Role,1.0,0.0,Anthony Hopkins
+388,Dead Man Walking,1995,Actor -- Leading Role,1.0,0.0,Sean Penn
+389,The Postman (Il Postino),1995,Actor -- Leading Role,1.0,0.0,Massimo Troisi
+390,Dead Man Walking,1995,Actress -- Leading Role,0.0,1.0,Susan Sarandon
+391,Leaving Las Vegas,1995,Actress -- Leading Role,1.0,0.0,Elisabeth Shue
+392,Casino,1995,Actress -- Leading Role,1.0,0.0,Sharon Stone
+393,The Bridges of Madison County,1995,Actress -- Leading Role,1.0,0.0,Meryl Streep
+394,Sense and Sensibility,1995,Actress -- Leading Role,1.0,0.0,Emma Thompson
+395,Batman Forever,1995,Cinematography,1.0,0.0,Batman Forever
+396,Braveheart,1995,Cinematography,0.0,1.0,Braveheart
+397,A Little Princess,1995,Cinematography,1.0,0.0,A Little Princess
+398,Sense and Sensibility,1995,Cinematography,1.0,0.0,Sense and Sensibility
+399,Shanghai Triad,1995,Cinematography,1.0,0.0,Shanghai Triad
+400,Babe,1995,Directing,1.0,0.0,Babe
+401,Braveheart,1995,Directing,0.0,1.0,Braveheart
+402,Dead Man Walking,1995,Directing,1.0,0.0,Dead Man Walking
+403,Leaving Las Vegas,1995,Directing,1.0,0.0,Leaving Las Vegas
+404,The Postman (Il Postino),1995,Directing,1.0,0.0,The Postman (Il Postino)
+405,Apollo 13,1995,Best Picture,1.0,0.0,Apollo 13
+406,Babe,1995,Best Picture,1.0,0.0,Babe
+407,Braveheart,1995,Best Picture,0.0,1.0,Braveheart
+408,The Postman (Il Postino),1995,Best Picture,1.0,0.0,The Postman (Il Postino)
+409,Sense and Sensibility,1995,Best Picture,1.0,0.0,Sense and Sensibility
+410,The Shawshank Redemption,1994,Actor -- Leading Role,1.0,0.0,Morgan Freeman
+411,Forrest Gump,1994,Actor -- Leading Role,0.0,1.0,Tom Hanks
+412,The Madness of King George,1994,Actor -- Leading Role,1.0,0.0,Nigel Hawthorne
+413,Nobody's Fool,1994,Actor -- Leading Role,1.0,0.0,Paul Newman
+414,Pulp Fiction,1994,Actor -- Leading Role,1.0,0.0,John Travolta
+415,Nell,1994,Actress -- Leading Role,1.0,0.0,Jodie Foster
+416,Blue Sky,1994,Actress -- Leading Role,0.0,1.0,Jessica Lange
+417,Tom & Viv,1994,Actress -- Leading Role,1.0,0.0,Miranda Richardson
+418,Little Women,1994,Actress -- Leading Role,1.0,0.0,Winona Ryder
+419,The Client,1994,Actress -- Leading Role,1.0,0.0,Susan Sarandon
+420,Forrest Gump,1994,Cinematography,1.0,0.0,Forrest Gump
+421,Legends of the Fall,1994,Cinematography,0.0,1.0,Legends of the Fall
+422,Red,1994,Cinematography,1.0,0.0,Red
+423,The Shawshank Redemption,1994,Cinematography,1.0,0.0,The Shawshank Redemption
+424,Wyatt Earp,1994,Cinematography,1.0,0.0,Wyatt Earp
+425,Bullets over Broadway,1994,Directing,1.0,0.0,Bullets over Broadway
+426,Forrest Gump,1994,Directing,0.0,1.0,Forrest Gump
+427,Pulp Fiction,1994,Directing,1.0,0.0,Pulp Fiction
+428,Quiz Show,1994,Directing,1.0,0.0,Quiz Show
+429,Red,1994,Directing,1.0,0.0,Red
+430,Forrest Gump,1994,Best Picture,0.0,1.0,Forrest Gump
+431,Four Weddings and a Funeral,1994,Best Picture,1.0,0.0,Four Weddings and a Funeral
+432,Pulp Fiction,1994,Best Picture,1.0,0.0,Pulp Fiction
+433,Quiz Show,1994,Best Picture,1.0,0.0,Quiz Show
+434,The Shawshank Redemption,1994,Best Picture,1.0,0.0,The Shawshank Redemption
+435,In the Name of the Father,1993,Actor -- Leading Role,1.0,0.0,Daniel Day-Lewis
+436,What's Love Got to Do with It,1993,Actor -- Leading Role,1.0,0.0,Laurence Fishburne
+437,Philadelphia,1993,Actor -- Leading Role,0.0,1.0,Tom Hanks
+438,The Remains of the Day,1993,Actor -- Leading Role,1.0,0.0,Anthony Hopkins
+439,Schindler's List,1993,Actor -- Leading Role,1.0,0.0,Liam Neeson
+440,What's Love Got to Do with It,1993,Actress -- Leading Role,1.0,0.0,Angela Bassett
+441,Six Degrees of Separation,1993,Actress -- Leading Role,1.0,0.0,Stockard Channing
+442,The Piano,1993,Actress -- Leading Role,0.0,1.0,Holly Hunter
+443,The Remains of the Day,1993,Actress -- Leading Role,1.0,0.0,Emma Thompson
+444,Shadowlands,1993,Actress -- Leading Role,1.0,0.0,Debra Winger
+445,Farewell My Concubine,1993,Cinematography,1.0,0.0,Farewell My Concubine
+446,The Fugitive,1993,Cinematography,1.0,0.0,The Fugitive
+447,The Piano,1993,Cinematography,1.0,0.0,The Piano
+448,Schindler's List,1993,Cinematography,0.0,1.0,Schindler's List
+449,Searching for Bobby Fischer,1993,Cinematography,1.0,0.0,Searching for Bobby Fischer
+450,In the Name of the Father,1993,Directing,1.0,0.0,In the Name of the Father
+451,The Piano,1993,Directing,1.0,0.0,The Piano
+452,The Remains of the Day,1993,Directing,1.0,0.0,The Remains of the Day
+453,Schindler's List,1993,Directing,0.0,1.0,Schindler's List
+454,Short Cuts,1993,Directing,1.0,0.0,Short Cuts
+455,The Fugitive,1993,Best Picture,1.0,0.0,The Fugitive
+456,In the Name of the Father,1993,Best Picture,1.0,0.0,In the Name of the Father
+457,The Piano,1993,Best Picture,1.0,0.0,The Piano
+458,The Remains of the Day,1993,Best Picture,1.0,0.0,The Remains of the Day
+459,Schindler's List,1993,Best Picture,0.0,1.0,Schindler's List
+460,Chaplin,1992,Actor -- Leading Role,1.0,0.0,"Robert Downey, Jr."
+461,Unforgiven,1992,Actor -- Leading Role,1.0,0.0,Clint Eastwood
+462,Scent of a Woman,1992,Actor -- Leading Role,0.0,1.0,Al Pacino
+463,The Crying Game,1992,Actor -- Leading Role,1.0,0.0,Stephen Rea
+464,Malcolm X,1992,Actor -- Leading Role,1.0,0.0,Denzel Washington
+465,Indochine,1992,Actress -- Leading Role,1.0,0.0,Catherine Deneuve
+466,Passion Fish,1992,Actress -- Leading Role,1.0,0.0,Mary McDonnell
+467,Love Field,1992,Actress -- Leading Role,1.0,0.0,Michelle Pfeiffer
+468,Lorenzo's Oil,1992,Actress -- Leading Role,1.0,0.0,Susan Sarandon
+469,Howards End,1992,Actress -- Leading Role,0.0,1.0,Emma Thompson
+470,Hoffa,1992,Cinematography,1.0,0.0,Hoffa
+471,Howards End,1992,Cinematography,1.0,0.0,Howards End
+472,The Lover,1992,Cinematography,1.0,0.0,The Lover
+473,A River Runs through It,1992,Cinematography,0.0,1.0,A River Runs through It
+474,Unforgiven,1992,Cinematography,1.0,0.0,Unforgiven
+475,The Crying Game,1992,Directing,1.0,0.0,The Crying Game
+476,Howards End,1992,Directing,1.0,0.0,Howards End
+477,The Player,1992,Directing,1.0,0.0,The Player
+478,Scent of a Woman,1992,Directing,1.0,0.0,Scent of a Woman
+479,Unforgiven,1992,Directing,0.0,1.0,Unforgiven
+480,The Crying Game,1992,Best Picture,1.0,0.0,The Crying Game
+481,A Few Good Men,1992,Best Picture,1.0,0.0,A Few Good Men
+482,Howards End,1992,Best Picture,1.0,0.0,Howards End
+483,Scent of a Woman,1992,Best Picture,1.0,0.0,Scent of a Woman
+484,Unforgiven,1992,Best Picture,0.0,1.0,Unforgiven
+485,Bugsy,1991,Actor -- Leading Role,1.0,0.0,Warren Beatty
+486,Cape Fear,1991,Actor -- Leading Role,1.0,0.0,Robert De Niro
+487,The Silence of the Lambs,1991,Actor -- Leading Role,0.0,1.0,Anthony Hopkins
+488,The Prince of Tides,1991,Actor -- Leading Role,1.0,0.0,Nick Nolte
+489,The Fisher King,1991,Actor -- Leading Role,1.0,0.0,Robin Williams
+490,Thelma & Louise,1991,Actress -- Leading Role,1.0,0.0,Geena Davis
+491,Rambling Rose,1991,Actress -- Leading Role,1.0,0.0,Laura Dern
+492,The Silence of the Lambs,1991,Actress -- Leading Role,0.0,1.0,Jodie Foster
+493,For the Boys,1991,Actress -- Leading Role,1.0,0.0,Bette Midler
+494,Thelma & Louise,1991,Actress -- Leading Role,1.0,0.0,Susan Sarandon
+495,Bugsy,1991,Cinematography,1.0,0.0,Bugsy
+496,JFK,1991,Cinematography,0.0,1.0,JFK
+497,The Prince of Tides,1991,Cinematography,1.0,0.0,The Prince of Tides
+498,Terminator 2: Judgment Day,1991,Cinematography,1.0,0.0,Terminator 2: Judgment Day
+499,Thelma & Louise,1991,Cinematography,1.0,0.0,Thelma & Louise
+500,Boyz N the Hood,1991,Directing,1.0,0.0,Boyz N the Hood
+501,Bugsy,1991,Directing,1.0,0.0,Bugsy
+502,JFK,1991,Directing,1.0,0.0,JFK
+503,The Silence of the Lambs,1991,Directing,0.0,1.0,The Silence of the Lambs
+504,Thelma & Louise,1991,Directing,1.0,0.0,Thelma & Louise
+505,Beauty and the Beast,1991,Best Picture,1.0,0.0,Beauty and the Beast
+506,Bugsy,1991,Best Picture,1.0,0.0,Bugsy
+507,JFK,1991,Best Picture,1.0,0.0,JFK
+508,The Prince of Tides,1991,Best Picture,1.0,0.0,The Prince of Tides
+509,The Silence of the Lambs,1991,Best Picture,0.0,1.0,The Silence of the Lambs
+510,Dances With Wolves,1990,Actor -- Leading Role,1.0,0.0,Kevin Costner
+511,Awakenings,1990,Actor -- Leading Role,1.0,0.0,Robert De Niro
+512,Cyrano de Bergerac,1990,Actor -- Leading Role,1.0,0.0,Gerard Depardieu
+513,The Field,1990,Actor -- Leading Role,1.0,0.0,Richard Harris
+514,Reversal of Fortune,1990,Actor -- Leading Role,0.0,1.0,Jeremy Irons
+515,Misery,1990,Actress -- Leading Role,0.0,1.0,Kathy Bates
+516,The Grifters,1990,Actress -- Leading Role,1.0,0.0,Anjelica Huston
+517,Pretty Woman,1990,Actress -- Leading Role,1.0,0.0,Julia Roberts
+518,Postcards from the Edge,1990,Actress -- Leading Role,1.0,0.0,Meryl Streep
+519,Mr. & Mrs. Bridge,1990,Actress -- Leading Role,1.0,0.0,Joanne Woodward
+520,Avalon,1990,Cinematography,1.0,0.0,Avalon
+521,Dances With Wolves,1990,Cinematography,0.0,1.0,Dances With Wolves
+522,Dick Tracy,1990,Cinematography,1.0,0.0,Dick Tracy
+523,"The Godfather, Part III",1990,Cinematography,1.0,0.0,"The Godfather, Part III"
+524,Henry & June,1990,Cinematography,1.0,0.0,Henry & June
+525,Dances With Wolves,1990,Directing,0.0,1.0,Dances With Wolves
+526,"The Godfather, Part III",1990,Directing,1.0,0.0,"The Godfather, Part III"
+527,Good Fellas,1990,Directing,1.0,0.0,Good Fellas
+528,The Grifters,1990,Directing,1.0,0.0,The Grifters
+529,Reversal of Fortune,1990,Directing,1.0,0.0,Reversal of Fortune
+530,Awakenings,1990,Best Picture,1.0,0.0,Awakenings
+531,Dances With Wolves,1990,Best Picture,0.0,1.0,Dances With Wolves
+532,Ghost,1990,Best Picture,1.0,0.0,Ghost
+533,"The Godfather, Part III",1990,Best Picture,1.0,0.0,"The Godfather, Part III"
+534,Good Fellas,1990,Best Picture,1.0,0.0,Good Fellas
+535,Henry V,1989,Actor -- Leading Role,1.0,0.0,Kenneth Branagh
+536,Born on the Fourth of July,1989,Actor -- Leading Role,1.0,0.0,Tom Cruise
+537,My Left Foot,1989,Actor -- Leading Role,0.0,1.0,Daniel Day Lewis
+538,Driving Miss Daisy,1989,Actor -- Leading Role,1.0,0.0,Morgan Freeman
+539,Dead Poets Society,1989,Actor -- Leading Role,1.0,0.0,Robin Williams
+540,Camille Claudel,1989,Actress -- Leading Role,1.0,0.0,Isabelle Adjani
+541,Shirley Valentine,1989,Actress -- Leading Role,1.0,0.0,Pauline Collins
+542,Music Box,1989,Actress -- Leading Role,1.0,0.0,Jessica Lange
+543,The Fabulous Baker Boys,1989,Actress -- Leading Role,1.0,0.0,Michelle Pfeiffer
+544,Driving Miss Daisy,1989,Actress -- Leading Role,0.0,1.0,Jessica Tandy
+545,The Abyss,1989,Cinematography,1.0,0.0,The Abyss
+546,Blaze,1989,Cinematography,1.0,0.0,Blaze
+547,Born on the Fourth of July,1989,Cinematography,1.0,0.0,Born on the Fourth of July
+548,The Fabulous Baker Boys,1989,Cinematography,1.0,0.0,The Fabulous Baker Boys
+549,Glory,1989,Cinematography,0.0,1.0,Glory
+550,Born on the Fourth of July,1989,Directing,0.0,1.0,Born on the Fourth of July
+551,Crimes and Misdemeanors,1989,Directing,1.0,0.0,Crimes and Misdemeanors
+552,Dead Poets Society,1989,Directing,1.0,0.0,Dead Poets Society
+553,Henry V,1989,Directing,1.0,0.0,Henry V
+554,My Left Foot,1989,Directing,1.0,0.0,My Left Foot
+555,Born on the Fourth of July,1989,Best Picture,1.0,0.0,Born on the Fourth of July
+556,Dead Poets Society,1989,Best Picture,1.0,0.0,Dead Poets Society
+557,Driving Miss Daisy,1989,Best Picture,0.0,1.0,Driving Miss Daisy
+558,Field of Dreams,1989,Best Picture,1.0,0.0,Field of Dreams
+559,My Left Foot,1989,Best Picture,1.0,0.0,My Left Foot
+560,Mississippi Burning,1988,Actor -- Leading Role,1.0,0.0,Gene Hackman
+561,Big,1988,Actor -- Leading Role,1.0,0.0,Tom Hanks
+562,Rain Man,1988,Actor -- Leading Role,0.0,1.0,Dustin Hoffman
+563,Stand and Deliver,1988,Actor -- Leading Role,1.0,0.0,Edward James Olmos
+564,Pelle the Conqueror,1988,Actor -- Leading Role,1.0,0.0,Max Von Sydow
+565,Dangerous Liaisons,1988,Actress -- Leading Role,1.0,0.0,Glenn Close
+566,The Accused,1988,Actress -- Leading Role,0.0,1.0,Jodie Foster
+567,Working Girl,1988,Actress -- Leading Role,1.0,0.0,Melanie Griffith
+568,A Cry in the Dark,1988,Actress -- Leading Role,1.0,0.0,Meryl Streep
+569,Gorillas in the Mist,1988,Actress -- Leading Role,1.0,0.0,Sigourney Weaver
+570,Mississippi Burning,1988,Cinematography,0.0,1.0,Mississippi Burning
+571,Rain Man,1988,Cinematography,1.0,0.0,Rain Man
+572,Tequila Sunrise,1988,Cinematography,1.0,0.0,Tequila Sunrise
+573,The Unbearable Lightness of Being,1988,Cinematography,1.0,0.0,The Unbearable Lightness of Being
+574,Who Framed Roger Rabbit,1988,Cinematography,1.0,0.0,Who Framed Roger Rabbit
+575,A Fish Called Wanda,1988,Directing,1.0,0.0,A Fish Called Wanda
+576,The Last Temptation of Christ,1988,Directing,1.0,0.0,The Last Temptation of Christ
+577,Mississippi Burning,1988,Directing,1.0,0.0,Mississippi Burning
+578,Rain Man,1988,Directing,0.0,1.0,Rain Man
+579,Working Girl,1988,Directing,1.0,0.0,Working Girl
+580,The Accidental Tourist,1988,Best Picture,1.0,0.0,The Accidental Tourist
+581,Dangerous Liaisons,1988,Best Picture,1.0,0.0,Dangerous Liaisons
+582,Mississippi Burning,1988,Best Picture,1.0,0.0,Mississippi Burning
+583,Rain Man,1988,Best Picture,0.0,1.0,Rain Man
+584,Working Girl,1988,Best Picture,1.0,0.0,Working Girl
+585,Wall Street,1987,Actor -- Leading Role,0.0,1.0,Michael Douglas
+586,Broadcast News,1987,Actor -- Leading Role,1.0,0.0,William Hurt
+587,Dark Eyes,1987,Actor -- Leading Role,1.0,0.0,Marcello Mastroianni
+588,Ironweed,1987,Actor -- Leading Role,1.0,0.0,Jack Nicholson
+589,"Good Morning, Vietnam",1987,Actor -- Leading Role,1.0,0.0,Robin Williams
+590,Moonstruck,1987,Actress -- Leading Role,0.0,1.0,Cher
+591,Fatal Attraction,1987,Actress -- Leading Role,1.0,0.0,Glenn Close
+592,Broadcast News,1987,Actress -- Leading Role,1.0,0.0,Holly Hunter
+593,Anna,1987,Actress -- Leading Role,1.0,0.0,Sally Kirkland
+594,Ironweed,1987,Actress -- Leading Role,1.0,0.0,Meryl Streep
+595,Broadcast News,1987,Cinematography,1.0,0.0,Broadcast News
+596,Empire of the Sun,1987,Cinematography,1.0,0.0,Empire of the Sun
+597,Hope and Glory,1987,Cinematography,1.0,0.0,Hope and Glory
+598,The Last Emperor,1987,Cinematography,0.0,1.0,The Last Emperor
+599,Matewan,1987,Cinematography,1.0,0.0,Matewan
+600,Fatal Attraction,1987,Directing,1.0,0.0,Fatal Attraction
+601,Hope and Glory,1987,Directing,1.0,0.0,Hope and Glory
+602,The Last Emperor,1987,Directing,0.0,1.0,The Last Emperor
+603,Moonstruck,1987,Directing,1.0,0.0,Moonstruck
+604,My Life as a Dog,1987,Directing,1.0,0.0,My Life as a Dog
+605,Broadcast News,1987,Best Picture,1.0,0.0,Broadcast News
+606,Fatal Attraction,1987,Best Picture,1.0,0.0,Fatal Attraction
+607,Hope and Glory,1987,Best Picture,1.0,0.0,Hope and Glory
+608,The Last Emperor,1987,Best Picture,0.0,1.0,The Last Emperor
+609,Moonstruck,1987,Best Picture,1.0,0.0,Moonstruck
+610,'Round Midnight,1986,Actor -- Leading Role,1.0,0.0,Dexter Gordon
+611,Mona Lisa,1986,Actor -- Leading Role,1.0,0.0,Bob Hoskins
+612,Children of a Lesser God,1986,Actor -- Leading Role,1.0,0.0,William Hurt
+613,The Color of Money,1986,Actor -- Leading Role,0.0,1.0,Paul Newman
+614,Salvador,1986,Actor -- Leading Role,1.0,0.0,James Woods
+615,The Morning After,1986,Actress -- Leading Role,1.0,0.0,Jane Fonda
+616,Children of a Lesser God,1986,Actress -- Leading Role,0.0,1.0,Marlee Matlin
+617,Crimes of the Heart,1986,Actress -- Leading Role,1.0,0.0,Sissy Spacek
+618,Peggy Sue Got Married,1986,Actress -- Leading Role,1.0,0.0,Kathleen Turner
+619,Aliens,1986,Actress -- Leading Role,1.0,0.0,Sigourney Weaver
+620,The Mission,1986,Cinematography,0.0,1.0,The Mission
+621,Peggy Sue Got Married,1986,Cinematography,1.0,0.0,Peggy Sue Got Married
+622,Platoon,1986,Cinematography,1.0,0.0,Platoon
+623,A Room with a View,1986,Cinematography,1.0,0.0,A Room with a View
+624,Star Trek IV: The Voyage Home,1986,Cinematography,1.0,0.0,Star Trek IV: The Voyage Home
+625,Blue Velvet,1986,Directing,1.0,0.0,Blue Velvet
+626,Hannah and Her Sisters,1986,Directing,1.0,0.0,Hannah and Her Sisters
+627,The Mission,1986,Directing,1.0,0.0,The Mission
+628,Platoon,1986,Directing,0.0,1.0,Platoon
+629,A Room with a View,1986,Directing,1.0,0.0,A Room with a View
+630,Children of a Lesser God,1986,Best Picture,1.0,0.0,Children of a Lesser God
+631,Hannah and Her Sisters,1986,Best Picture,1.0,0.0,Hannah and Her Sisters
+632,The Mission,1986,Best Picture,1.0,0.0,The Mission
+633,Platoon,1986,Best Picture,0.0,1.0,Platoon
+634,A Room with a View,1986,Best Picture,1.0,0.0,A Room with a View
+635,Witness,1985,Actor -- Leading Role,1.0,0.0,Harrison Ford
+636,Murphy's Romance,1985,Actor -- Leading Role,1.0,0.0,James Garner
+637,Kiss of the Spider Woman,1985,Actor -- Leading Role,0.0,1.0,William Hurt
+638,Prizzi's Honor,1985,Actor -- Leading Role,1.0,0.0,Jack Nicholson
+639,Runaway Train,1985,Actor -- Leading Role,1.0,0.0,Jon Voight
+640,Agnes of God,1985,Actress -- Leading Role,1.0,0.0,Anne Bancroft
+641,The Color Purple,1985,Actress -- Leading Role,1.0,0.0,Whoopi Goldberg
+642,Sweet Dreams,1985,Actress -- Leading Role,1.0,0.0,Jessica Lange
+643,The Trip to Bountiful,1985,Actress -- Leading Role,0.0,1.0,Geraldine Page
+644,Out of Africa,1985,Actress -- Leading Role,1.0,0.0,Meryl Streep
+645,The Color Purple,1985,Cinematography,1.0,0.0,The Color Purple
+646,Murphy's Romance,1985,Cinematography,1.0,0.0,Murphy's Romance
+647,Out of Africa,1985,Cinematography,0.0,1.0,Out of Africa
+648,Ran,1985,Cinematography,1.0,0.0,Ran
+649,Witness,1985,Cinematography,1.0,0.0,Witness
+650,Kiss of the Spider Woman,1985,Directing,1.0,0.0,Kiss of the Spider Woman
+651,Out of Africa,1985,Directing,0.0,1.0,Out of Africa
+652,Prizzi's Honor,1985,Directing,1.0,0.0,Prizzi's Honor
+653,Ran,1985,Directing,1.0,0.0,Ran
+654,Witness,1985,Directing,1.0,0.0,Witness
+655,The Color Purple,1985,Best Picture,1.0,0.0,The Color Purple
+656,Kiss of the Spider Woman,1985,Best Picture,1.0,0.0,Kiss of the Spider Woman
+657,Out of Africa,1985,Best Picture,0.0,1.0,Out of Africa
+658,Prizzi's Honor,1985,Best Picture,1.0,0.0,Prizzi's Honor
+659,Witness,1985,Best Picture,1.0,0.0,Witness
+660,Amadeus,1984,Actor -- Leading Role,0.0,1.0,F. Murray Abraham
+661,Starman,1984,Actor -- Leading Role,1.0,0.0,Jeff Bridges
+662,Under the Volcano,1984,Actor -- Leading Role,1.0,0.0,Albert Finney
+663,Amadeus,1984,Actor -- Leading Role,1.0,0.0,Tom Hulce
+664,The Killing Fields,1984,Actor -- Leading Role,1.0,0.0,Sam Waterston
+665,A Passage to India,1984,Actress -- Leading Role,1.0,0.0,Judy Davis
+666,Places in the Heart,1984,Actress -- Leading Role,0.0,1.0,Sally Field
+667,Country,1984,Actress -- Leading Role,1.0,0.0,Jessica Lange
+668,The Bostonians,1984,Actress -- Leading Role,1.0,0.0,Vanessa Redgrave
+669,The River,1984,Actress -- Leading Role,1.0,0.0,Sissy Spacek
+670,Amadeus,1984,Cinematography,1.0,0.0,Amadeus
+671,The Killing Fields,1984,Cinematography,0.0,1.0,The Killing Fields
+672,The Natural,1984,Cinematography,1.0,0.0,The Natural
+673,A Passage to India,1984,Cinematography,1.0,0.0,A Passage to India
+674,The River,1984,Cinematography,1.0,0.0,The River
+675,Amadeus,1984,Directing,0.0,1.0,Amadeus
+676,Broadway Danny Rose,1984,Directing,1.0,0.0,Broadway Danny Rose
+677,The Killing Fields,1984,Directing,1.0,0.0,The Killing Fields
+678,A Passage to India,1984,Directing,1.0,0.0,A Passage to India
+679,Places in the Heart,1984,Directing,1.0,0.0,Places in the Heart
+680,Amadeus,1984,Best Picture,0.0,1.0,Amadeus
+681,The Killing Fields,1984,Best Picture,1.0,0.0,The Killing Fields
+682,A Passage to India,1984,Best Picture,1.0,0.0,A Passage to India
+683,Places in the Heart,1984,Best Picture,1.0,0.0,Places in the Heart
+684,A Soldier's Story,1984,Best Picture,1.0,0.0,A Soldier's Story
+685,Educating Rita,1983,Actor -- Leading Role,1.0,0.0,Michael Caine
+686,"Reuben, Reuben",1983,Actor -- Leading Role,1.0,0.0,Tom Conti
+687,The Dresser,1983,Actor -- Leading Role,1.0,0.0,Tom Courtenay
+688,Tender Mercies,1983,Actor -- Leading Role,0.0,1.0,Robert Duvall
+689,The Dresser,1983,Actor -- Leading Role,1.0,0.0,Albert Finney
+690,Testament,1983,Actress -- Leading Role,1.0,0.0,Jane Alexander
+691,Terms of Endearment,1983,Actress -- Leading Role,0.0,1.0,Shirley MacLaine
+692,Silkwood,1983,Actress -- Leading Role,1.0,0.0,Meryl Streep
+693,Educating Rita,1983,Actress -- Leading Role,1.0,0.0,Julie Walters
+694,Terms of Endearment,1983,Actress -- Leading Role,1.0,0.0,Debra Winger
+695,Fanny & Alexander,1983,Cinematography,0.0,1.0,Fanny & Alexander
+696,Flashdance,1983,Cinematography,1.0,0.0,Flashdance
+697,The Right Stuff,1983,Cinematography,1.0,0.0,The Right Stuff
+698,WarGames,1983,Cinematography,1.0,0.0,WarGames
+699,Zelig,1983,Cinematography,1.0,0.0,Zelig
+700,The Dresser,1983,Directing,1.0,0.0,The Dresser
+701,Fanny & Alexander,1983,Directing,1.0,0.0,Fanny & Alexander
+702,Silkwood,1983,Directing,1.0,0.0,Silkwood
+703,Tender Mercies,1983,Directing,1.0,0.0,Tender Mercies
+704,Terms of Endearment,1983,Directing,0.0,1.0,Terms of Endearment
+705,The Big Chill,1983,Best Picture,1.0,0.0,The Big Chill
+706,The Dresser,1983,Best Picture,1.0,0.0,The Dresser
+707,The Right Stuff,1983,Best Picture,1.0,0.0,The Right Stuff
+708,Tender Mercies,1983,Best Picture,1.0,0.0,Tender Mercies
+709,Terms of Endearment,1983,Best Picture,0.0,1.0,Terms of Endearment
+710,Tootsie,1982,Actor -- Leading Role,1.0,0.0,Dustin Hoffman
+711,Gandhi,1982,Actor -- Leading Role,0.0,1.0,Ben Kingsley
+712,Missing,1982,Actor -- Leading Role,1.0,0.0,Jack Lemmon
+713,The Verdict,1982,Actor -- Leading Role,1.0,0.0,Paul Newman
+714,My Favorite Year,1982,Actor -- Leading Role,1.0,0.0,Peter O'Toole
+715,Victor/Victoria,1982,Actress -- Leading Role,1.0,0.0,Julie Andrews
+716,Frances,1982,Actress -- Leading Role,1.0,0.0,Jessica Lange
+717,Missing,1982,Actress -- Leading Role,1.0,0.0,Sissy Spacek
+718,Sophie's Choice,1982,Actress -- Leading Role,0.0,1.0,Meryl Streep
+719,An Officer and a Gentleman,1982,Actress -- Leading Role,1.0,0.0,Debra Winger
+720,Das Boot,1982,Cinematography,1.0,0.0,Das Boot
+721,E.T. The Extra-Terrestrial,1982,Cinematography,1.0,0.0,E.T. The Extra-Terrestrial
+722,Gandhi,1982,Cinematography,0.0,1.0,Gandhi
+723,Sophie's Choice,1982,Cinematography,1.0,0.0,Sophie's Choice
+724,Tootsie,1982,Cinematography,1.0,0.0,Tootsie
+725,Das Boot,1982,Directing,1.0,0.0,Das Boot
+726,E.T. The Extra-Terrestrial,1982,Directing,1.0,0.0,E.T. The Extra-Terrestrial
+727,Gandhi,1982,Directing,0.0,1.0,Gandhi
+728,Tootsie,1982,Directing,1.0,0.0,Tootsie
+729,The Verdict,1982,Directing,1.0,0.0,The Verdict
+730,E.T. The Extra-Terrestrial,1982,Best Picture,1.0,0.0,E.T. The Extra-Terrestrial
+731,Gandhi,1982,Best Picture,0.0,1.0,Gandhi
+732,Missing,1982,Best Picture,1.0,0.0,Missing
+733,Tootsie,1982,Best Picture,1.0,0.0,Tootsie
+734,The Verdict,1982,Best Picture,1.0,0.0,The Verdict
+735,Reds,1981,Actor -- Leading Role,1.0,0.0,Warren Beatty
+736,On Golden Pond,1981,Actor -- Leading Role,0.0,1.0,Henry Fonda
+737,Atlantic City,1981,Actor -- Leading Role,1.0,0.0,Burt Lancaster
+738,Arthur,1981,Actor -- Leading Role,1.0,0.0,Dudley Moore
+739,Absence of Malice,1981,Actor -- Leading Role,1.0,0.0,Paul Newman
+740,On Golden Pond,1981,Actress -- Leading Role,0.0,1.0,Katharine Hepburn
+741,Reds,1981,Actress -- Leading Role,1.0,0.0,Diane Keaton
+742,Only When I Laugh,1981,Actress -- Leading Role,1.0,0.0,Marsha Mason
+743,Atlantic City,1981,Actress -- Leading Role,1.0,0.0,Susan Sarandon
+744,The French Lieutenant's Woman,1981,Actress -- Leading Role,1.0,0.0,Meryl Streep
+745,Excalibur,1981,Cinematography,1.0,0.0,Excalibur
+746,On Golden Pond,1981,Cinematography,1.0,0.0,On Golden Pond
+747,Ragtime,1981,Cinematography,1.0,0.0,Ragtime
+748,Raiders of the Lost Ark,1981,Cinematography,1.0,0.0,Raiders of the Lost Ark
+749,Reds,1981,Cinematography,0.0,1.0,Reds
+750,Atlantic City,1981,Directing,1.0,0.0,Atlantic City
+751,Chariots of Fire,1981,Directing,1.0,0.0,Chariots of Fire
+752,On Golden Pond,1981,Directing,1.0,0.0,On Golden Pond
+753,Raiders of the Lost Ark,1981,Directing,1.0,0.0,Raiders of the Lost Ark
+754,Reds,1981,Directing,0.0,1.0,Reds
+755,Atlantic City,1981,Best Picture,1.0,0.0,Atlantic City
+756,Chariots of Fire,1981,Best Picture,0.0,1.0,Chariots of Fire
+757,On Golden Pond,1981,Best Picture,1.0,0.0,On Golden Pond
+758,Raiders of the Lost Ark,1981,Best Picture,1.0,0.0,Raiders of the Lost Ark
+759,Reds,1981,Best Picture,1.0,0.0,Reds
+760,Raging Bull,1980,Actor -- Leading Role,0.0,1.0,Robert De Niro
+761,The Great Santini,1980,Actor -- Leading Role,1.0,0.0,Robert Duvall
+762,The Elephant Man,1980,Actor -- Leading Role,1.0,0.0,John Hurt
+763,Tribute,1980,Actor -- Leading Role,1.0,0.0,Jack Lemmon
+764,The Stunt Man,1980,Actor -- Leading Role,1.0,0.0,Peter O'Toole
+765,Resurrection,1980,Actress -- Leading Role,1.0,0.0,Ellen Burstyn
+766,Private Benjamin,1980,Actress -- Leading Role,1.0,0.0,Goldie Hawn
+767,Ordinary People,1980,Actress -- Leading Role,1.0,0.0,Mary Tyler Moore
+768,Gloria,1980,Actress -- Leading Role,1.0,0.0,Gena Rowlands
+769,Coal Miner's Daughter,1980,Actress -- Leading Role,0.0,1.0,Sissy Spacek
+770,The Blue Lagoon,1980,Cinematography,1.0,0.0,The Blue Lagoon
+771,Coal Miner's Daughter,1980,Cinematography,1.0,0.0,Coal Miner's Daughter
+772,The Formula,1980,Cinematography,1.0,0.0,The Formula
+773,Raging Bull,1980,Cinematography,1.0,0.0,Raging Bull
+774,Tess,1980,Cinematography,0.0,1.0,Tess
+775,The Elephant Man,1980,Directing,1.0,0.0,The Elephant Man
+776,Ordinary People,1980,Directing,0.0,1.0,Ordinary People
+777,Raging Bull,1980,Directing,1.0,0.0,Raging Bull
+778,The Stunt Man,1980,Directing,1.0,0.0,The Stunt Man
+779,Tess,1980,Directing,1.0,0.0,Tess
+780,Coal Miner's Daughter,1980,Best Picture,1.0,0.0,Coal Miner's Daughter
+781,The Elephant Man,1980,Best Picture,1.0,0.0,The Elephant Man
+782,Ordinary People,1980,Best Picture,0.0,1.0,Ordinary People
+783,Raging Bull,1980,Best Picture,1.0,0.0,Raging Bull
+784,Tess,1980,Best Picture,1.0,0.0,Tess
+785,Kramer vs. Kramer,1979,Actor -- Leading Role,0.0,1.0,Dustin Hoffman
+786,The China Syndrome,1979,Actor -- Leading Role,1.0,0.0,Jack Lemmon
+787,...And Justice for All,1979,Actor -- Leading Role,1.0,0.0,Al Pacino
+788,All That Jazz,1979,Actor -- Leading Role,1.0,0.0,Roy Scheider
+789,Being There,1979,Actor -- Leading Role,1.0,0.0,Peter Sellers
+790,Starting Over,1979,Actress -- Leading Role,1.0,0.0,Jill Clayburgh
+791,Norma Rae,1979,Actress -- Leading Role,0.0,1.0,Sally Field
+792,The China Syndrome,1979,Actress -- Leading Role,1.0,0.0,Jane Fonda
+793,Chapter Two,1979,Actress -- Leading Role,1.0,0.0,Marsha Mason
+794,The Rose,1979,Actress -- Leading Role,1.0,0.0,Bette Midler
+795,All That Jazz,1979,Cinematography,1.0,0.0,All That Jazz
+796,Apocalypse Now,1979,Cinematography,0.0,1.0,Apocalypse Now
+797,The Black Hole,1979,Cinematography,1.0,0.0,The Black Hole
+798,Kramer vs. Kramer,1979,Cinematography,1.0,0.0,Kramer vs. Kramer
+799,1941,1979,Cinematography,1.0,0.0,1941
+800,All That Jazz,1979,Directing,1.0,0.0,All That Jazz
+801,Apocalypse Now,1979,Directing,1.0,0.0,Apocalypse Now
+802,Breaking Away,1979,Directing,1.0,0.0,Breaking Away
+803,Kramer vs. Kramer,1979,Directing,0.0,1.0,Kramer vs. Kramer
+804,La Cage aux Folles,1979,Directing,1.0,0.0,La Cage aux Folles
+805,All That Jazz,1979,Best Picture,1.0,0.0,All That Jazz
+806,Apocalypse Now,1979,Best Picture,1.0,0.0,Apocalypse Now
+807,Breaking Away,1979,Best Picture,1.0,0.0,Breaking Away
+808,Kramer vs. Kramer,1979,Best Picture,0.0,1.0,Kramer vs. Kramer
+809,Norma Rae,1979,Best Picture,1.0,0.0,Norma Rae
+810,Heaven Can Wait,1978,Actor -- Leading Role,1.0,0.0,Warren Beatty
+811,The Buddy Holly Story,1978,Actor -- Leading Role,1.0,0.0,Gary Busey
+812,The Deer Hunter,1978,Actor -- Leading Role,1.0,0.0,Robert De Niro
+813,The Boys from Brazil,1978,Actor -- Leading Role,1.0,0.0,Laurence Olivier
+814,Coming Home,1978,Actor -- Leading Role,0.0,1.0,Jon Voight
+815,Autumn Sonata,1978,Actress -- Leading Role,1.0,0.0,Ingrid Bergman
+816,"Same Time, Next Year",1978,Actress -- Leading Role,1.0,0.0,Ellen Burstyn
+817,An Unmarried Woman,1978,Actress -- Leading Role,1.0,0.0,Jill Clayburgh
+818,Coming Home,1978,Actress -- Leading Role,0.0,1.0,Jane Fonda
+819,Interiors,1978,Actress -- Leading Role,1.0,0.0,Geraldine Page
+820,Days of Heaven,1978,Cinematography,0.0,1.0,Days of Heaven
+821,The Deer Hunter,1978,Cinematography,1.0,0.0,The Deer Hunter
+822,Heaven Can Wait,1978,Cinematography,1.0,0.0,Heaven Can Wait
+823,"Same Time, Next Year",1978,Cinematography,1.0,0.0,"Same Time, Next Year"
+824,The Wiz,1978,Cinematography,1.0,0.0,The Wiz
+825,Coming Home,1978,Directing,1.0,0.0,Coming Home
+826,The Deer Hunter,1978,Directing,0.0,1.0,The Deer Hunter
+827,Heaven Can Wait,1978,Directing,1.0,0.0,Heaven Can Wait
+828,Interiors,1978,Directing,1.0,0.0,Interiors
+829,Midnight Express,1978,Directing,1.0,0.0,Midnight Express
+830,Coming Home,1978,Best Picture,1.0,0.0,Coming Home
+831,The Deer Hunter,1978,Best Picture,0.0,1.0,The Deer Hunter
+832,Heaven Can Wait,1978,Best Picture,1.0,0.0,Heaven Can Wait
+833,Midnight Express,1978,Best Picture,1.0,0.0,Midnight Express
+834,An Unmarried Woman,1978,Best Picture,1.0,0.0,An Unmarried Woman
+835,Annie Hall,1977,Actor -- Leading Role,1.0,0.0,Woody Allen
+836,Equus,1977,Actor -- Leading Role,1.0,0.0,Richard Burton
+837,The Goodbye Girl,1977,Actor -- Leading Role,0.0,1.0,Richard Dreyfuss
+838,A Special Day,1977,Actor -- Leading Role,1.0,0.0,Marcello Mastroianni
+839,Saturday Night Fever,1977,Actor -- Leading Role,1.0,0.0,John Travolta
+840,The Turning Point,1977,Actress -- Leading Role,1.0,0.0,Anne Bancroft
+841,Julia,1977,Actress -- Leading Role,1.0,0.0,Jane Fonda
+842,Annie Hall,1977,Actress -- Leading Role,0.0,1.0,Diane Keaton
+843,The Turning Point,1977,Actress -- Leading Role,1.0,0.0,Shirley MacLaine
+844,The Goodbye Girl,1977,Actress -- Leading Role,1.0,0.0,Marsha Mason
+845,Close Encounters of the Third Kind,1977,Cinematography,0.0,1.0,Close Encounters of the Third Kind
+846,Islands in the Stream,1977,Cinematography,1.0,0.0,Islands in the Stream
+847,Julia,1977,Cinematography,1.0,0.0,Julia
+848,Looking for Mr. Goodbar,1977,Cinematography,1.0,0.0,Looking for Mr. Goodbar
+849,The Turning Point,1977,Cinematography,1.0,0.0,The Turning Point
+850,Annie Hall,1977,Directing,0.0,1.0,Annie Hall
+851,Close Encounters of the Third Kind,1977,Directing,1.0,0.0,Close Encounters of the Third Kind
+852,Julia,1977,Directing,1.0,0.0,Julia
+853,Star Wars,1977,Directing,1.0,0.0,Star Wars
+854,The Turning Point,1977,Directing,1.0,0.0,The Turning Point
+855,Annie Hall,1977,Best Picture,0.0,1.0,Annie Hall
+856,The Goodbye Girl,1977,Best Picture,1.0,0.0,The Goodbye Girl
+857,Julia,1977,Best Picture,1.0,0.0,Julia
+858,Star Wars,1977,Best Picture,1.0,0.0,Star Wars
+859,The Turning Point,1977,Best Picture,1.0,0.0,The Turning Point
+860,Taxi Driver,1976,Actor -- Leading Role,1.0,0.0,Robert De Niro
+861,Network,1976,Actor -- Leading Role,0.0,1.0,Peter Finch
+862,Seven Beauties,1976,Actor -- Leading Role,1.0,0.0,Giancarlo Giannini
+863,Network,1976,Actor -- Leading Role,1.0,0.0,William Holden
+864,Rocky,1976,Actor -- Leading Role,1.0,0.0,Sylvester Stallone
+865,"Cousin, Cousine",1976,Actress -- Leading Role,1.0,0.0,Marie-Christine Barrault
+866,Network,1976,Actress -- Leading Role,0.0,1.0,Faye Dunaway
+867,Rocky,1976,Actress -- Leading Role,1.0,0.0,Talia Shire
+868,Carrie,1976,Actress -- Leading Role,1.0,0.0,Sissy Spacek
+869,Face to Face,1976,Actress -- Leading Role,1.0,0.0,Liv Ullmann
+870,Bound for Glory,1976,Cinematography,0.0,1.0,Bound for Glory
+871,King Kong,1976,Cinematography,1.0,0.0,King Kong
+872,Logan's Run,1976,Cinematography,1.0,0.0,Logan's Run
+873,Network,1976,Cinematography,1.0,0.0,Network
+874,A Star Is Born,1976,Cinematography,1.0,0.0,A Star Is Born
+875,All the President's Men,1976,Directing,1.0,0.0,All the President's Men
+876,Face to Face,1976,Directing,1.0,0.0,Face to Face
+877,Network,1976,Directing,1.0,0.0,Network
+878,Rocky,1976,Directing,0.0,1.0,Rocky
+879,Seven Beauties,1976,Directing,1.0,0.0,Seven Beauties
+880,All the President's Men,1976,Best Picture,1.0,0.0,All the President's Men
+881,Bound for Glory,1976,Best Picture,1.0,0.0,Bound for Glory
+882,Network,1976,Best Picture,1.0,0.0,Network
+883,Rocky,1976,Best Picture,0.0,1.0,Rocky
+884,Taxi Driver,1976,Best Picture,1.0,0.0,Taxi Driver
+885,The Sunshine Boys,1975,Actor -- Leading Role,1.0,0.0,Walter Matthau
+886,One Flew over the Cuckoo's Nest,1975,Actor -- Leading Role,0.0,1.0,Jack Nicholson
+887,Dog Day Afternoon,1975,Actor -- Leading Role,1.0,0.0,Al Pacino
+888,The Man in the Glass Booth,1975,Actor -- Leading Role,1.0,0.0,Maximilian Schell
+889,"Give 'em Hell, Harry!",1975,Actor -- Leading Role,1.0,0.0,James Whitmore
+890,The Story of Adele H.,1975,Actress -- Leading Role,1.0,0.0,Isabelle Adjani
+891,Tommy,1975,Actress -- Leading Role,1.0,0.0,Ann-Margret
+892,One Flew over the Cuckoo's Nest,1975,Actress -- Leading Role,0.0,1.0,Louise Fletcher
+893,Hedda,1975,Actress -- Leading Role,1.0,0.0,Glenda Jackson
+894,Hester Street,1975,Actress -- Leading Role,1.0,0.0,Carol Kane
+895,Barry Lyndon,1975,Cinematography,0.0,1.0,Barry Lyndon
+896,The Day of the Locust,1975,Cinematography,1.0,0.0,The Day of the Locust
+897,Funny Lady,1975,Cinematography,1.0,0.0,Funny Lady
+898,The Hindenburg,1975,Cinematography,1.0,0.0,The Hindenburg
+899,One Flew over the Cuckoo's Nest,1975,Cinematography,1.0,0.0,One Flew over the Cuckoo's Nest
+900,Amarcord,1975,Directing,1.0,0.0,Amarcord
+901,Barry Lyndon,1975,Directing,1.0,0.0,Barry Lyndon
+902,Dog Day Afternoon,1975,Directing,1.0,0.0,Dog Day Afternoon
+903,Nashville,1975,Directing,1.0,0.0,Nashville
+904,One Flew over the Cuckoo's Nest,1975,Directing,0.0,1.0,One Flew over the Cuckoo's Nest
+905,Barry Lyndon,1975,Best Picture,1.0,0.0,Barry Lyndon
+906,Dog Day Afternoon,1975,Best Picture,1.0,0.0,Dog Day Afternoon
+907,Jaws,1975,Best Picture,1.0,0.0,Jaws
+908,Nashville,1975,Best Picture,1.0,0.0,Nashville
+909,One Flew over the Cuckoo's Nest,1975,Best Picture,0.0,1.0,One Flew over the Cuckoo's Nest
+910,Harry and Tonto,1974,Actor -- Leading Role,0.0,1.0,Art Carney
+911,Murder on the Orient Express,1974,Actor -- Leading Role,1.0,0.0,Albert Finney
+912,Lenny,1974,Actor -- Leading Role,1.0,0.0,Dustin Hoffman
+913,Chinatown,1974,Actor -- Leading Role,1.0,0.0,Jack Nicholson
+914,The Godfather Part II,1974,Actor -- Leading Role,1.0,0.0,Al Pacino
+915,Alice Doesn't Live Here Anymore,1974,Actress -- Leading Role,0.0,1.0,Ellen Burstyn
+916,Claudine,1974,Actress -- Leading Role,1.0,0.0,Diahann Carroll
+917,Chinatown,1974,Actress -- Leading Role,1.0,0.0,Faye Dunaway
+918,Lenny,1974,Actress -- Leading Role,1.0,0.0,Valerie Perrine
+919,A Woman under the Influence,1974,Actress -- Leading Role,1.0,0.0,Gena Rowlands
+920,Chinatown,1974,Cinematography,1.0,0.0,Chinatown
+921,Earthquake,1974,Cinematography,1.0,0.0,Earthquake
+922,Lenny,1974,Cinematography,1.0,0.0,Lenny
+923,Murder on the Orient Express,1974,Cinematography,1.0,0.0,Murder on the Orient Express
+924,The Towering Inferno,1974,Cinematography,0.0,1.0,The Towering Inferno
+925,Chinatown,1974,Directing,1.0,0.0,Chinatown
+926,Day for Night,1974,Directing,1.0,0.0,Day for Night
+927,The Godfather Part II,1974,Directing,0.0,1.0,The Godfather Part II
+928,Lenny,1974,Directing,1.0,0.0,Lenny
+929,A Woman under the Influence,1974,Directing,1.0,0.0,A Woman under the Influence
+930,Chinatown,1974,Best Picture,1.0,0.0,Chinatown
+931,The Conversation,1974,Best Picture,1.0,0.0,The Conversation
+932,The Godfather Part II,1974,Best Picture,0.0,1.0,The Godfather Part II
+933,Lenny,1974,Best Picture,1.0,0.0,Lenny
+934,The Towering Inferno,1974,Best Picture,1.0,0.0,The Towering Inferno
+935,Last Tango in Paris,1973,Actor -- Leading Role,1.0,0.0,Marlon Brando
+936,Save the Tiger,1973,Actor -- Leading Role,0.0,1.0,Jack Lemmon
+937,The Last Detail,1973,Actor -- Leading Role,1.0,0.0,Jack Nicholson
+938,Serpico,1973,Actor -- Leading Role,1.0,0.0,Al Pacino
+939,The Sting,1973,Actor -- Leading Role,1.0,0.0,Robert Redford
+940,The Exorcist,1973,Actress -- Leading Role,1.0,0.0,Ellen Burstyn
+941,A Touch of Class,1973,Actress -- Leading Role,0.0,1.0,Glenda Jackson
+942,Cinderella Liberty,1973,Actress -- Leading Role,1.0,0.0,Marsha Mason
+943,The Way We Were,1973,Actress -- Leading Role,1.0,0.0,Barbra Streisand
+944,"Summer Wishes, Winter Dreams",1973,Actress -- Leading Role,1.0,0.0,Joanne Woodward
+945,Cries and Whispers,1973,Cinematography,0.0,1.0,Cries and Whispers
+946,The Exorcist,1973,Cinematography,1.0,0.0,The Exorcist
+947,Jonathan Livingston Seagull,1973,Cinematography,1.0,0.0,Jonathan Livingston Seagull
+948,The Sting,1973,Cinematography,1.0,0.0,The Sting
+949,The Way We Were,1973,Cinematography,1.0,0.0,The Way We Were
+950,American Graffiti,1973,Directing,1.0,0.0,American Graffiti
+951,Cries and Whispers,1973,Directing,1.0,0.0,Cries and Whispers
+952,The Exorcist,1973,Directing,1.0,0.0,The Exorcist
+953,Last Tango in Paris,1973,Directing,1.0,0.0,Last Tango in Paris
+954,The Sting,1973,Directing,0.0,1.0,The Sting
+955,American Graffiti,1973,Best Picture,1.0,0.0,American Graffiti
+956,Cries and Whispers,1973,Best Picture,1.0,0.0,Cries and Whispers
+957,The Exorcist,1973,Best Picture,1.0,0.0,The Exorcist
+958,The Sting,1973,Best Picture,0.0,1.0,The Sting
+959,A Touch of Class,1973,Best Picture,1.0,0.0,A Touch of Class
+960,The Godfather,1972,Actor -- Leading Role,0.0,1.0,Marlon Brando
+961,Sleuth,1972,Actor -- Leading Role,1.0,0.0,Michael Caine
+962,Sleuth,1972,Actor -- Leading Role,1.0,0.0,Laurence Olivier
+963,The Ruling Class,1972,Actor -- Leading Role,1.0,0.0,Peter O'Toole
+964,Sounder,1972,Actor -- Leading Role,1.0,0.0,Paul Winfield
+965,Cabaret,1972,Actress -- Leading Role,0.0,1.0,Liza Minnelli
+966,Lady Sings the Blues,1972,Actress -- Leading Role,1.0,0.0,Diana Ross
+967,Travels with My Aunt,1972,Actress -- Leading Role,1.0,0.0,Maggie Smith
+968,Sounder,1972,Actress -- Leading Role,1.0,0.0,Cicely Tyson
+969,The Emigrants,1972,Actress -- Leading Role,1.0,0.0,Liv Ullmann
+970,Butterflies Are Free,1972,Cinematography,1.0,0.0,Butterflies Are Free
+971,Cabaret,1972,Cinematography,0.0,1.0,Cabaret
+972,The Poseidon Adventure,1972,Cinematography,1.0,0.0,The Poseidon Adventure
+973,1776,1972,Cinematography,1.0,0.0,1776
+974,Travels with My Aunt,1972,Cinematography,1.0,0.0,Travels with My Aunt
+975,Cabaret,1972,Directing,0.0,1.0,Cabaret
+976,Deliverance,1972,Directing,1.0,0.0,Deliverance
+977,The Emigrants,1972,Directing,1.0,0.0,The Emigrants
+978,The Godfather,1972,Directing,1.0,0.0,The Godfather
+979,Sleuth,1972,Directing,1.0,0.0,Sleuth
+980,Cabaret,1972,Best Picture,1.0,0.0,Cabaret
+981,Deliverance,1972,Best Picture,1.0,0.0,Deliverance
+982,The Emigrants,1972,Best Picture,1.0,0.0,The Emigrants
+983,The Godfather,1972,Best Picture,0.0,1.0,The Godfather
+984,Sounder,1972,Best Picture,1.0,0.0,Sounder
+985,Sunday Bloody Sunday,1971,Actor -- Leading Role,1.0,0.0,Peter Finch
+986,The French Connection,1971,Actor -- Leading Role,0.0,1.0,Gene Hackman
+987,Kotch,1971,Actor -- Leading Role,1.0,0.0,Walter Matthau
+988,The Hospital,1971,Actor -- Leading Role,1.0,0.0,George C. Scott
+989,Fiddler on the Roof,1971,Actor -- Leading Role,1.0,0.0,Topol
+990,McCabe & Mrs. Miller,1971,Actress -- Leading Role,1.0,0.0,Julie Christie
+991,Klute,1971,Actress -- Leading Role,0.0,1.0,Jane Fonda
+992,Sunday Bloody Sunday,1971,Actress -- Leading Role,1.0,0.0,Glenda Jackson
+993,"Mary, Queen of Scots",1971,Actress -- Leading Role,1.0,0.0,Vanessa Redgrave
+994,Nicholas and Alexandra,1971,Actress -- Leading Role,1.0,0.0,Janet Suzman
+995,Fiddler on the Roof,1971,Cinematography,0.0,1.0,Fiddler on the Roof
+996,The French Connection,1971,Cinematography,1.0,0.0,The French Connection
+997,The Last Picture Show,1971,Cinematography,1.0,0.0,The Last Picture Show
+998,Nicholas and Alexandra,1971,Cinematography,1.0,0.0,Nicholas and Alexandra
+999,Summer of '42,1971,Cinematography,1.0,0.0,Summer of '42
+1000,A Clockwork Orange,1971,Directing,1.0,0.0,A Clockwork Orange
+1001,Fiddler on the Roof,1971,Directing,1.0,0.0,Fiddler on the Roof
+1002,The French Connection,1971,Directing,0.0,1.0,The French Connection
+1003,The Last Picture Show,1971,Directing,1.0,0.0,The Last Picture Show
+1004,Sunday Bloody Sunday,1971,Directing,1.0,0.0,Sunday Bloody Sunday
+1005,A Clockwork Orange,1971,Best Picture,1.0,0.0,A Clockwork Orange
+1006,Fiddler on the Roof,1971,Best Picture,1.0,0.0,Fiddler on the Roof
+1007,The French Connection,1971,Best Picture,0.0,1.0,The French Connection
+1008,The Last Picture Show,1971,Best Picture,1.0,0.0,The Last Picture Show
+1009,Nicholas and Alexandra,1971,Best Picture,1.0,0.0,Nicholas and Alexandra
+1010,I Never Sang for My Father,1970,Actor -- Leading Role,1.0,0.0,Melvyn Douglas
+1011,The Great White Hope,1970,Actor -- Leading Role,1.0,0.0,James Earl Jones
+1012,Five Easy Pieces,1970,Actor -- Leading Role,1.0,0.0,Jack Nicholson
+1013,Love Story,1970,Actor -- Leading Role,1.0,0.0,Ryan O'Neal
+1014,Patton,1970,Actor -- Leading Role,0.0,1.0,George C. Scott
+1015,The Great White Hope,1970,Actress -- Leading Role,1.0,0.0,Jane Alexander
+1016,Women in Love,1970,Actress -- Leading Role,0.0,1.0,Glenda Jackson
+1017,Love Story,1970,Actress -- Leading Role,1.0,0.0,Ali MacGraw
+1018,Ryan's Daughter,1970,Actress -- Leading Role,1.0,0.0,Sarah Miles
+1019,Diary of a Mad Housewife,1970,Actress -- Leading Role,1.0,0.0,Carrie Snodgress
+1020,Airport,1970,Cinematography,1.0,0.0,Airport
+1021,Patton,1970,Cinematography,1.0,0.0,Patton
+1022,Ryan's Daughter,1970,Cinematography,0.0,1.0,Ryan's Daughter
+1023,Tora! Tora! Tora!,1970,Cinematography,1.0,0.0,Tora! Tora! Tora!
+1024,Women in Love,1970,Cinematography,1.0,0.0,Women in Love
+1025,Fellini Satyricon,1970,Directing,1.0,0.0,Fellini Satyricon
+1026,Love Story,1970,Directing,1.0,0.0,Love Story
+1027,M*A*S*H,1970,Directing,1.0,0.0,M*A*S*H
+1028,Patton,1970,Directing,0.0,1.0,Patton
+1029,Women in Love,1970,Directing,1.0,0.0,Women in Love
+1030,Airport,1970,Best Picture,1.0,0.0,Airport
+1031,Five Easy Pieces,1970,Best Picture,1.0,0.0,Five Easy Pieces
+1032,Love Story,1970,Best Picture,1.0,0.0,Love Story
+1033,M*A*S*H,1970,Best Picture,1.0,0.0,M*A*S*H
+1034,Patton,1970,Best Picture,0.0,1.0,Patton
+1035,Anne of the Thousand Days,1969,Actor -- Leading Role,1.0,0.0,Richard Burton
+1036,Midnight Cowboy,1969,Actor -- Leading Role,1.0,0.0,Dustin Hoffman
+1037,"Goodbye, Mr. Chips",1969,Actor -- Leading Role,1.0,0.0,Peter O'Toole
+1038,Midnight Cowboy,1969,Actor -- Leading Role,1.0,0.0,Jon Voight
+1039,True Grit,1969,Actor -- Leading Role,0.0,1.0,John Wayne
+1040,Anne of the Thousand Days,1969,Actress -- Leading Role,1.0,0.0,Genevieve Bujold
+1041,"They Shoot Horses, Don't They?",1969,Actress -- Leading Role,1.0,0.0,Jane Fonda
+1042,The Sterile Cuckoo,1969,Actress -- Leading Role,1.0,0.0,Liza Minnelli
+1043,The Happy Ending,1969,Actress -- Leading Role,1.0,0.0,Jean Simmons
+1044,The Prime of Miss Jean Brodie,1969,Actress -- Leading Role,0.0,1.0,Maggie Smith
+1045,Anne of the Thousand Days,1969,Cinematography,1.0,0.0,Anne of the Thousand Days
+1046,Bob & Carol & Ted & Alice,1969,Cinematography,1.0,0.0,Bob & Carol & Ted & Alice
+1047,Butch Cassidy and the Sundance Kid,1969,Cinematography,0.0,1.0,Butch Cassidy and the Sundance Kid
+1048,"Hello, Dolly!",1969,Cinematography,1.0,0.0,"Hello, Dolly!"
+1049,Marooned,1969,Cinematography,1.0,0.0,Marooned
+1050,Alice's Restaurant,1969,Directing,1.0,0.0,Alice's Restaurant
+1051,Butch Cassidy and the Sundance Kid,1969,Directing,1.0,0.0,Butch Cassidy and the Sundance Kid
+1052,Midnight Cowboy,1969,Directing,0.0,1.0,Midnight Cowboy
+1053,"They Shoot Horses, Don't They?",1969,Directing,1.0,0.0,"They Shoot Horses, Don't They?"
+1054,Z,1969,Directing,1.0,0.0,Z
+1055,Anne of the Thousand Days,1969,Best Picture,1.0,0.0,Anne of the Thousand Days
+1056,Butch Cassidy and the Sundance Kid,1969,Best Picture,1.0,0.0,Butch Cassidy and the Sundance Kid
+1057,"Hello, Dolly!",1969,Best Picture,1.0,0.0,"Hello, Dolly!"
+1058,Midnight Cowboy,1969,Best Picture,0.0,1.0,Midnight Cowboy
+1059,Z,1969,Best Picture,1.0,0.0,Z
+1060,The Heart Is a Lonely Hunter,1968,Actor -- Leading Role,1.0,0.0,Alan Arkin
+1061,The Fixer,1968,Actor -- Leading Role,1.0,0.0,Alan Bates
+1062,Oliver!,1968,Actor -- Leading Role,1.0,0.0,Ron Moody
+1063,The Lion in Winter,1968,Actor -- Leading Role,1.0,0.0,Peter O'Toole
+1064,Charly,1968,Actor -- Leading Role,0.0,1.0,Cliff Robertson
+1065,The Lion in Winter,1968,Actress -- Leading Role,0.0,1.0,Katharine Hepburn
+1066,The Subject Was Roses,1968,Actress -- Leading Role,1.0,0.0,Patricia Neal
+1067,Isadora,1968,Actress -- Leading Role,1.0,0.0,Vanessa Redgrave
+1068,Funny Girl,1968,Actress -- Leading Role,0.0,1.0,Barbra Streisand
+1069,"Rachel, Rachel",1968,Actress -- Leading Role,1.0,0.0,Joanne Woodward
+1070,Funny Girl,1968,Cinematography,1.0,0.0,Funny Girl
+1071,Ice Station Zebra,1968,Cinematography,1.0,0.0,Ice Station Zebra
+1072,Oliver!,1968,Cinematography,1.0,0.0,Oliver!
+1073,Romeo and Juliet,1968,Cinematography,0.0,1.0,Romeo and Juliet
+1074,Star!,1968,Cinematography,1.0,0.0,Star!
+1075,The Battle of Algiers,1968,Directing,1.0,0.0,The Battle of Algiers
+1076,The Lion in Winter,1968,Directing,1.0,0.0,The Lion in Winter
+1077,Oliver!,1968,Directing,0.0,1.0,Oliver!
+1078,Romeo and Juliet,1968,Directing,1.0,0.0,Romeo and Juliet
+1079,2001: A Space Odyssey,1968,Directing,1.0,0.0,2001: A Space Odyssey
+1080,Funny Girl,1968,Best Picture,1.0,0.0,Funny Girl
+1081,The Lion in Winter,1968,Best Picture,1.0,0.0,The Lion in Winter
+1082,Oliver!,1968,Best Picture,0.0,1.0,Oliver!
+1083,"Rachel, Rachel",1968,Best Picture,1.0,0.0,"Rachel, Rachel"
+1084,Romeo and Juliet,1968,Best Picture,1.0,0.0,Romeo and Juliet
+1085,Bonnie and Clyde,1967,Actor -- Leading Role,1.0,0.0,Warren Beatty
+1086,The Graduate,1967,Actor -- Leading Role,1.0,0.0,Dustin Hoffman
+1087,Cool Hand Luke,1967,Actor -- Leading Role,1.0,0.0,Paul Newman
+1088,In the Heat of the Night,1967,Actor -- Leading Role,0.0,1.0,Rod Steiger
+1089,Guess Who's Coming to Dinner,1967,Actor -- Leading Role,1.0,0.0,Spencer Tracy
+1090,The Graduate,1967,Actress -- Leading Role,1.0,0.0,Anne Bancroft
+1091,Bonnie and Clyde,1967,Actress -- Leading Role,1.0,0.0,Faye Dunaway
+1092,The Whisperers,1967,Actress -- Leading Role,1.0,0.0,Dame Edith Evans
+1093,Wait until Dark,1967,Actress -- Leading Role,1.0,0.0,Audrey Hepburn
+1094,Guess Who's Coming to Dinner,1967,Actress -- Leading Role,0.0,1.0,Katharine Hepburn
+1095,Bonnie and Clyde,1967,Cinematography,0.0,1.0,Bonnie and Clyde
+1096,Camelot,1967,Cinematography,1.0,0.0,Camelot
+1097,Doctor Dolittle,1967,Cinematography,1.0,0.0,Doctor Dolittle
+1098,The Graduate,1967,Cinematography,1.0,0.0,The Graduate
+1099,In Cold Blood,1967,Cinematography,1.0,0.0,In Cold Blood
+1100,Bonnie and Clyde,1967,Directing,1.0,0.0,Bonnie and Clyde
+1101,The Graduate,1967,Directing,0.0,1.0,The Graduate
+1102,Guess Who's Coming to Dinner,1967,Directing,1.0,0.0,Guess Who's Coming to Dinner
+1103,In Cold Blood,1967,Directing,1.0,0.0,In Cold Blood
+1104,In the Heat of the Night,1967,Directing,1.0,0.0,In the Heat of the Night
+1105,Bonnie and Clyde,1967,Best Picture,1.0,0.0,Bonnie and Clyde
+1106,Doctor Dolittle,1967,Best Picture,1.0,0.0,Doctor Dolittle
+1107,The Graduate,1967,Best Picture,1.0,0.0,The Graduate
+1108,Guess Who's Coming to Dinner,1967,Best Picture,1.0,0.0,Guess Who's Coming to Dinner
+1109,In the Heat of the Night,1967,Best Picture,0.0,1.0,In the Heat of the Night
+1110,The Russians Are Coming The Russians Are Coming,1966,Actor -- Leading Role,1.0,0.0,Alan Arkin
+1111,Who's Afraid of Virginia Woolf?,1966,Actor -- Leading Role,1.0,0.0,Richard Burton
+1112,Alfie,1966,Actor -- Leading Role,1.0,0.0,Michael Caine
+1113,The Sand Pebbles,1966,Actor -- Leading Role,1.0,0.0,Steve McQueen
+1114,A Man for All Seasons,1966,Actor -- Leading Role,0.0,1.0,Paul Scofield
+1115,A Man and a Woman,1966,Actress -- Leading Role,1.0,0.0,Anouk Aimee
+1116,The Shop on Main Street,1966,Actress -- Leading Role,1.0,0.0,Ida Kaminska
+1117,Georgy Girl,1966,Actress -- Leading Role,1.0,0.0,Lynn Redgrave
+1118,Morgan!,1966,Actress -- Leading Role,1.0,0.0,Vanessa Redgrave
+1119,Who's Afraid of Virginia Woolf?,1966,Actress -- Leading Role,0.0,1.0,Elizabeth Taylor
+1120,The Fortune Cookie,1966,Cinematography,1.0,0.0,The Fortune Cookie
+1121,Georgy Girl,1966,Cinematography,1.0,0.0,Georgy Girl
+1122,Is Paris Burning?,1966,Cinematography,1.0,0.0,Is Paris Burning?
+1123,Seconds,1966,Cinematography,1.0,0.0,Seconds
+1124,Who's Afraid of Virginia Woolf?,1966,Cinematography,0.0,1.0,Who's Afraid of Virginia Woolf?
+1125,Fantastic Voyage,1966,Cinematography,1.0,0.0,Fantastic Voyage
+1126,Hawaii,1966,Cinematography,1.0,0.0,Hawaii
+1127,A Man for All Seasons,1966,Cinematography,0.0,1.0,A Man for All Seasons
+1128,The Professionals,1966,Cinematography,1.0,0.0,The Professionals
+1129,The Sand Pebbles,1966,Cinematography,1.0,0.0,The Sand Pebbles
+1130,Blow-Up,1966,Directing,1.0,0.0,Blow-Up
+1131,A Man and a Woman,1966,Directing,1.0,0.0,A Man and a Woman
+1132,A Man for All Seasons,1966,Directing,0.0,1.0,A Man for All Seasons
+1133,The Professionals,1966,Directing,1.0,0.0,The Professionals
+1134,Who's Afraid of Virginia Woolf?,1966,Directing,1.0,0.0,Who's Afraid of Virginia Woolf?
+1135,Alfie,1966,Best Picture,1.0,0.0,Alfie
+1136,A Man for All Seasons,1966,Best Picture,0.0,1.0,A Man for All Seasons
+1137,The Russians Are Coming The Russians Are Coming,1966,Best Picture,1.0,0.0,The Russians Are Coming The Russians Are Coming
+1138,The Sand Pebbles,1966,Best Picture,1.0,0.0,The Sand Pebbles
+1139,Who's Afraid of Virginia Woolf?,1966,Best Picture,1.0,0.0,Who's Afraid of Virginia Woolf?
+1140,The Spy Who Came In from the Cold,1965,Actor -- Leading Role,1.0,0.0,Richard Burton
+1141,Cat Ballou,1965,Actor -- Leading Role,0.0,1.0,Lee Marvin
+1142,Othello,1965,Actor -- Leading Role,1.0,0.0,Laurence Olivier
+1143,The Pawnbroker,1965,Actor -- Leading Role,1.0,0.0,Rod Steiger
+1144,Ship of Fools,1965,Actor -- Leading Role,1.0,0.0,Oskar Werner
+1145,The Sound of Music,1965,Actress -- Leading Role,1.0,0.0,Julie Andrews
+1146,Darling,1965,Actress -- Leading Role,0.0,1.0,Julie Christie
+1147,The Collector,1965,Actress -- Leading Role,1.0,0.0,Samantha Eggar
+1148,A Patch of Blue,1965,Actress -- Leading Role,1.0,0.0,Elizabeth Hartman
+1149,Ship of Fools,1965,Actress -- Leading Role,1.0,0.0,Simone Signoret
+1150,In Harm's Way,1965,Cinematography,1.0,0.0,In Harm's Way
+1151,King Rat,1965,Cinematography,1.0,0.0,King Rat
+1152,Morituri,1965,Cinematography,1.0,0.0,Morituri
+1153,A Patch of Blue,1965,Cinematography,1.0,0.0,A Patch of Blue
+1154,Ship of Fools,1965,Cinematography,0.0,1.0,Ship of Fools
+1155,The Agony and the Ecstasy,1965,Cinematography,1.0,0.0,The Agony and the Ecstasy
+1156,Doctor Zhivago,1965,Cinematography,0.0,1.0,Doctor Zhivago
+1157,The Great Race,1965,Cinematography,1.0,0.0,The Great Race
+1158,The Greatest Story Ever Told,1965,Cinematography,1.0,0.0,The Greatest Story Ever Told
+1159,The Sound of Music,1965,Cinematography,1.0,0.0,The Sound of Music
+1160,The Collector,1965,Directing,1.0,0.0,The Collector
+1161,Darling,1965,Directing,1.0,0.0,Darling
+1162,Doctor Zhivago,1965,Directing,1.0,0.0,Doctor Zhivago
+1163,The Sound of Music,1965,Directing,0.0,1.0,The Sound of Music
+1164,Woman in the Dunes,1965,Directing,1.0,0.0,Woman in the Dunes
+1165,Darling,1965,Best Picture,1.0,0.0,Darling
+1166,Doctor Zhivago,1965,Best Picture,1.0,0.0,Doctor Zhivago
+1167,Ship of Fools,1965,Best Picture,1.0,0.0,Ship of Fools
+1168,The Sound of Music,1965,Best Picture,0.0,1.0,The Sound of Music
+1169,A Thousand Clowns,1965,Best Picture,1.0,0.0,A Thousand Clowns
+1170,Becket,1964,Actor -- Leading Role,1.0,0.0,Richard Burton
+1171,My Fair Lady,1964,Actor -- Leading Role,0.0,1.0,Rex Harrison
+1172,Becket,1964,Actor -- Leading Role,1.0,0.0,Peter O'Toole
+1173,Zorba the Greek,1964,Actor -- Leading Role,1.0,0.0,Anthony Quinn
+1174,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Actor -- Leading Role,1.0,0.0,Peter Sellers
+1175,Mary Poppins,1964,Actress -- Leading Role,0.0,1.0,Julie Andrews
+1176,The Pumpkin Eater,1964,Actress -- Leading Role,1.0,0.0,Anne Bancroft
+1177,Marriage Italian Style,1964,Actress -- Leading Role,1.0,0.0,Sophia Loren
+1178,The Unsinkable Molly Brown,1964,Actress -- Leading Role,1.0,0.0,Debbie Reynolds
+1179,Seance on a Wet Afternoon,1964,Actress -- Leading Role,1.0,0.0,Kim Stanley
+1180,The Americanization of Emily,1964,Cinematography,1.0,0.0,The Americanization of Emily
+1181,Fate Is the Hunter,1964,Cinematography,1.0,0.0,Fate Is the Hunter
+1182,"Hush...Hush, Sweet Charlotte",1964,Cinematography,1.0,0.0,"Hush...Hush, Sweet Charlotte"
+1183,The Night of the Iguana,1964,Cinematography,1.0,0.0,The Night of the Iguana
+1184,Zorba the Greek,1964,Cinematography,0.0,1.0,Zorba the Greek
+1185,Becket,1964,Cinematography,1.0,0.0,Becket
+1186,Cheyenne Autumn,1964,Cinematography,1.0,0.0,Cheyenne Autumn
+1187,Mary Poppins,1964,Cinematography,1.0,0.0,Mary Poppins
+1188,My Fair Lady,1964,Cinematography,0.0,1.0,My Fair Lady
+1189,The Unsinkable Molly Brown,1964,Cinematography,1.0,0.0,The Unsinkable Molly Brown
+1190,Becket,1964,Directing,1.0,0.0,Becket
+1191,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Directing,1.0,0.0,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+1192,Mary Poppins,1964,Directing,1.0,0.0,Mary Poppins
+1193,My Fair Lady,1964,Directing,0.0,1.0,My Fair Lady
+1194,Zorba the Greek,1964,Directing,1.0,0.0,Zorba the Greek
+1195,Becket,1964,Best Picture,1.0,0.0,Becket
+1196,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Best Picture,1.0,0.0,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+1197,Mary Poppins,1964,Best Picture,1.0,0.0,Mary Poppins
+1198,My Fair Lady,1964,Best Picture,0.0,1.0,My Fair Lady
+1199,Zorba the Greek,1964,Best Picture,1.0,0.0,Zorba the Greek
+1200,Tom Jones,1963,Actor -- Leading Role,1.0,0.0,Albert Finney
+1201,This Sporting Life,1963,Actor -- Leading Role,1.0,0.0,Richard Harris
+1202,Cleopatra,1963,Actor -- Leading Role,1.0,0.0,Rex Harrison
+1203,Hud,1963,Actor -- Leading Role,1.0,0.0,Paul Newman
+1204,Lilies of the Field,1963,Actor -- Leading Role,0.0,1.0,Sidney Poitier
+1205,The L-Shaped Room,1963,Actress -- Leading Role,1.0,0.0,Leslie Caron
+1206,Irma La Douce,1963,Actress -- Leading Role,1.0,0.0,Shirley MacLaine
+1207,Hud,1963,Actress -- Leading Role,0.0,1.0,Patricia Neal
+1208,This Sporting Life,1963,Actress -- Leading Role,1.0,0.0,Rachel Roberts
+1209,Love with the Proper Stranger,1963,Actress -- Leading Role,1.0,0.0,Natalie Wood
+1210,The Balcony,1963,Cinematography,1.0,0.0,The Balcony
+1211,The Caretakers,1963,Cinematography,1.0,0.0,The Caretakers
+1212,Hud,1963,Cinematography,0.0,1.0,Hud
+1213,Lilies of the Field,1963,Cinematography,1.0,0.0,Lilies of the Field
+1214,Love with the Proper Stranger,1963,Cinematography,1.0,0.0,Love with the Proper Stranger
+1215,The Cardinal,1963,Cinematography,1.0,0.0,The Cardinal
+1216,Cleopatra,1963,Cinematography,0.0,1.0,Cleopatra
+1217,How the West Was Won,1963,Cinematography,1.0,0.0,How the West Was Won
+1218,Irma La Douce,1963,Cinematography,1.0,0.0,Irma La Douce
+1219,"It's a Mad, Mad, Mad, Mad World",1963,Cinematography,1.0,0.0,"It's a Mad, Mad, Mad, Mad World"
+1220,America America,1963,Directing,1.0,0.0,America America
+1221,The Cardinal,1963,Directing,1.0,0.0,The Cardinal
+1222,Federico Fellini's 8-1/2,1963,Directing,1.0,0.0,Federico Fellini's 8-1/2
+1223,Hud,1963,Directing,1.0,0.0,Hud
+1224,Tom Jones,1963,Directing,0.0,1.0,Tom Jones
+1225,America America,1963,Best Picture,1.0,0.0,America America
+1226,Cleopatra,1963,Best Picture,1.0,0.0,Cleopatra
+1227,How the West Was Won,1963,Best Picture,1.0,0.0,How the West Was Won
+1228,Lilies of the Field,1963,Best Picture,1.0,0.0,Lilies of the Field
+1229,Tom Jones,1963,Best Picture,0.0,1.0,Tom Jones
+1230,Birdman of Alcatraz,1962,Actor -- Leading Role,1.0,0.0,Burt Lancaster
+1231,Days of Wine and Roses,1962,Actor -- Leading Role,1.0,0.0,Jack Lemmon
+1232,Divorce--Italian Style,1962,Actor -- Leading Role,1.0,0.0,Marcello Mastroianni
+1233,Lawrence of Arabia,1962,Actor -- Leading Role,1.0,0.0,Peter O'Toole
+1234,To Kill a Mockingbird,1962,Actor -- Leading Role,0.0,1.0,Gregory Peck
+1235,The Miracle Worker,1962,Actress -- Leading Role,0.0,1.0,Anne Bancroft
+1236,What Ever Happened to Baby Jane?,1962,Actress -- Leading Role,1.0,0.0,Bette Davis
+1237,Long Day's Journey into Night,1962,Actress -- Leading Role,1.0,0.0,Katharine Hepburn
+1238,Sweet Bird of Youth,1962,Actress -- Leading Role,1.0,0.0,Geraldine Page
+1239,Days of Wine and Roses,1962,Actress -- Leading Role,1.0,0.0,Lee Remick
+1240,Birdman of Alcatraz,1962,Cinematography,1.0,0.0,Birdman of Alcatraz
+1241,The Longest Day,1962,Cinematography,0.0,1.0,The Longest Day
+1242,To Kill a Mockingbird,1962,Cinematography,1.0,0.0,To Kill a Mockingbird
+1243,Two for the Seesaw,1962,Cinematography,1.0,0.0,Two for the Seesaw
+1244,What Ever Happened to Baby Jane?,1962,Cinematography,1.0,0.0,What Ever Happened to Baby Jane?
+1245,Gypsy,1962,Cinematography,1.0,0.0,Gypsy
+1246,Hatari!,1962,Cinematography,1.0,0.0,Hatari!
+1247,Lawrence of Arabia,1962,Cinematography,0.0,1.0,Lawrence of Arabia
+1248,Mutiny on the Bounty,1962,Cinematography,1.0,0.0,Mutiny on the Bounty
+1249,The Wonderful World of the Brothers Grimm,1962,Cinematography,1.0,0.0,The Wonderful World of the Brothers Grimm
+1250,David and Lisa,1962,Directing,1.0,0.0,David and Lisa
+1251,Divorce--Italian Style,1962,Directing,1.0,0.0,Divorce--Italian Style
+1252,Lawrence of Arabia,1962,Directing,0.0,1.0,Lawrence of Arabia
+1253,The Miracle Worker,1962,Directing,1.0,0.0,The Miracle Worker
+1254,To Kill a Mockingbird,1962,Directing,1.0,0.0,To Kill a Mockingbird
+1255,Lawrence of Arabia,1962,Best Picture,0.0,1.0,Lawrence of Arabia
+1256,The Longest Day,1962,Best Picture,1.0,0.0,The Longest Day
+1257,Meredith Willson's The Music Man,1962,Best Picture,1.0,0.0,Meredith Willson's The Music Man
+1258,Mutiny on the Bounty,1962,Best Picture,1.0,0.0,Mutiny on the Bounty
+1259,To Kill a Mockingbird,1962,Best Picture,1.0,0.0,To Kill a Mockingbird
+1260,Fanny,1961,Actor -- Leading Role,1.0,0.0,Charles Boyer
+1261,The Hustler,1961,Actor -- Leading Role,1.0,0.0,Paul Newman
+1262,Judgment at Nuremberg,1961,Actor -- Leading Role,0.0,1.0,Maximilian Schell
+1263,Judgment at Nuremberg,1961,Actor -- Leading Role,1.0,0.0,Spencer Tracy
+1264,The Mark,1961,Actor -- Leading Role,1.0,0.0,Stuart Whitman
+1265,Breakfast at Tiffany's,1961,Actress -- Leading Role,1.0,0.0,Audrey Hepburn
+1266,The Hustler,1961,Actress -- Leading Role,1.0,0.0,Piper Laurie
+1267,Two Women,1961,Actress -- Leading Role,0.0,1.0,Sophia Loren
+1268,Summer and Smoke,1961,Actress -- Leading Role,1.0,0.0,Geraldine Page
+1269,Splendor in the Grass,1961,Actress -- Leading Role,1.0,0.0,Natalie Wood
+1270,The Absent Minded Professor,1961,Cinematography,1.0,0.0,The Absent Minded Professor
+1271,The Children's Hour,1961,Cinematography,1.0,0.0,The Children's Hour
+1272,The Hustler,1961,Cinematography,0.0,1.0,The Hustler
+1273,Judgment at Nuremberg,1961,Cinematography,1.0,0.0,Judgment at Nuremberg
+1274,"One, Two, Three",1961,Cinematography,1.0,0.0,"One, Two, Three"
+1275,Fanny,1961,Cinematography,1.0,0.0,Fanny
+1276,Flower Drum Song,1961,Cinematography,1.0,0.0,Flower Drum Song
+1277,A Majority of One,1961,Cinematography,1.0,0.0,A Majority of One
+1278,One-Eyed Jacks,1961,Cinematography,1.0,0.0,One-Eyed Jacks
+1279,West Side Story,1961,Cinematography,0.0,1.0,West Side Story
+1280,The Guns of Navarone,1961,Directing,1.0,0.0,The Guns of Navarone
+1281,The Hustler,1961,Directing,1.0,0.0,The Hustler
+1282,Judgment at Nuremberg,1961,Directing,1.0,0.0,Judgment at Nuremberg
+1283,La Dolce Vita,1961,Directing,1.0,0.0,La Dolce Vita
+1284,West Side Story,1961,Directing,0.0,1.0,West Side Story
+1285,Fanny,1961,Best Picture,1.0,0.0,Fanny
+1286,The Guns of Navarone,1961,Best Picture,1.0,0.0,The Guns of Navarone
+1287,The Hustler,1961,Best Picture,1.0,0.0,The Hustler
+1288,Judgment at Nuremberg,1961,Best Picture,1.0,0.0,Judgment at Nuremberg
+1289,West Side Story,1961,Best Picture,0.0,1.0,West Side Story
+1290,Sons and Lovers,1960,Actor -- Leading Role,1.0,0.0,Trevor Howard
+1291,Elmer Gantry,1960,Actor -- Leading Role,0.0,1.0,Burt Lancaster
+1292,The Apartment,1960,Actor -- Leading Role,1.0,0.0,Jack Lemmon
+1293,The Entertainer,1960,Actor -- Leading Role,1.0,0.0,Laurence Olivier
+1294,Inherit the Wind,1960,Actor -- Leading Role,1.0,0.0,Spencer Tracy
+1295,Sunrise at Campobello,1960,Actress -- Leading Role,1.0,0.0,Greer Garson
+1296,The Sundowners,1960,Actress -- Leading Role,1.0,0.0,Deborah Kerr
+1297,The Apartment,1960,Actress -- Leading Role,1.0,0.0,Shirley MacLaine
+1298,Never on Sunday,1960,Actress -- Leading Role,1.0,0.0,Melina Mercouri
+1299,Butterfield 8,1960,Actress -- Leading Role,0.0,1.0,Elizabeth Taylor
+1300,The Apartment,1960,Cinematography,1.0,0.0,The Apartment
+1301,The Facts of Life,1960,Cinematography,1.0,0.0,The Facts of Life
+1302,Inherit the Wind,1960,Cinematography,1.0,0.0,Inherit the Wind
+1303,Psycho,1960,Cinematography,1.0,0.0,Psycho
+1304,Sons and Lovers,1960,Cinematography,0.0,1.0,Sons and Lovers
+1305,The Alamo,1960,Cinematography,1.0,0.0,The Alamo
+1306,Butterfield 8,1960,Cinematography,1.0,0.0,Butterfield 8
+1307,Exodus,1960,Cinematography,1.0,0.0,Exodus
+1308,Pepe,1960,Cinematography,1.0,0.0,Pepe
+1309,Spartacus,1960,Cinematography,0.0,1.0,Spartacus
+1310,The Apartment,1960,Directing,0.0,1.0,The Apartment
+1311,Never on Sunday,1960,Directing,1.0,0.0,Never on Sunday
+1312,Psycho,1960,Directing,1.0,0.0,Psycho
+1313,Sons and Lovers,1960,Directing,1.0,0.0,Sons and Lovers
+1314,The Sundowners,1960,Directing,1.0,0.0,The Sundowners
+1315,The Alamo,1960,Best Picture,1.0,0.0,The Alamo
+1316,The Apartment,1960,Best Picture,0.0,1.0,The Apartment
+1317,Elmer Gantry,1960,Best Picture,1.0,0.0,Elmer Gantry
+1318,Sons and Lovers,1960,Best Picture,1.0,0.0,Sons and Lovers
+1319,The Sundowners,1960,Best Picture,1.0,0.0,The Sundowners
+1320,Room at the Top,1959,Actor -- Leading Role,1.0,0.0,Laurence Harvey
+1321,Ben-Hur,1959,Actor -- Leading Role,0.0,1.0,Charlton Heston
+1322,Some Like It Hot,1959,Actor -- Leading Role,1.0,0.0,Jack Lemmon
+1323,The Last Angry Man,1959,Actor -- Leading Role,1.0,0.0,Paul Muni
+1324,Anatomy of a Murder,1959,Actor -- Leading Role,1.0,0.0,James Stewart
+1325,Pillow Talk,1959,Actress -- Leading Role,1.0,0.0,Doris Day
+1326,The Nun's Story,1959,Actress -- Leading Role,1.0,0.0,Audrey Hepburn
+1327,"Suddenly, Last Summer",1959,Actress -- Leading Role,1.0,0.0,Katharine Hepburn
+1328,Room at the Top,1959,Actress -- Leading Role,0.0,1.0,Simone Signoret
+1329,"Suddenly, Last Summer",1959,Actress -- Leading Role,1.0,0.0,Elizabeth Taylor
+1330,Anatomy of a Murder,1959,Cinematography,1.0,0.0,Anatomy of a Murder
+1331,Career,1959,Cinematography,1.0,0.0,Career
+1332,The Diary of Anne Frank,1959,Cinematography,0.0,1.0,The Diary of Anne Frank
+1333,Some Like It Hot,1959,Cinematography,1.0,0.0,Some Like It Hot
+1334,The Young Philadelphians,1959,Cinematography,1.0,0.0,The Young Philadelphians
+1335,Ben-Hur,1959,Cinematography,0.0,1.0,Ben-Hur
+1336,The Big Fisherman,1959,Cinematography,1.0,0.0,The Big Fisherman
+1337,The Five Pennies,1959,Cinematography,1.0,0.0,The Five Pennies
+1338,The Nun's Story,1959,Cinematography,1.0,0.0,The Nun's Story
+1339,Porgy and Bess,1959,Cinematography,1.0,0.0,Porgy and Bess
+1340,Ben-Hur,1959,Directing,0.0,1.0,Ben-Hur
+1341,The Diary of Anne Frank,1959,Directing,1.0,0.0,The Diary of Anne Frank
+1342,The Nun's Story,1959,Directing,1.0,0.0,The Nun's Story
+1343,Room at the Top,1959,Directing,1.0,0.0,Room at the Top
+1344,Some Like It Hot,1959,Directing,1.0,0.0,Some Like It Hot
+1345,Anatomy of a Murder,1959,Best Picture,1.0,0.0,Anatomy of a Murder
+1346,Ben-Hur,1959,Best Picture,0.0,1.0,Ben-Hur
+1347,The Diary of Anne Frank,1959,Best Picture,1.0,0.0,The Diary of Anne Frank
+1348,The Nun's Story,1959,Best Picture,1.0,0.0,The Nun's Story
+1349,Room at the Top,1959,Best Picture,1.0,0.0,Room at the Top
+1350,The Defiant Ones,1958,Actor -- Leading Role,1.0,0.0,Tony Curtis
+1351,Cat on a Hot Tin Roof,1958,Actor -- Leading Role,1.0,0.0,Paul Newman
+1352,Separate Tables,1958,Actor -- Leading Role,0.0,1.0,David Niven
+1353,The Defiant Ones,1958,Actor -- Leading Role,1.0,0.0,Sidney Poitier
+1354,The Old Man and the Sea,1958,Actor -- Leading Role,1.0,0.0,Spencer Tracy
+1355,I Want to Live!,1958,Actress -- Leading Role,0.0,1.0,Susan Hayward
+1356,Separate Tables,1958,Actress -- Leading Role,1.0,0.0,Deborah Kerr
+1357,Some Came Running,1958,Actress -- Leading Role,1.0,0.0,Shirley MacLaine
+1358,Auntie Mame,1958,Actress -- Leading Role,1.0,0.0,Rosalind Russell
+1359,Cat on a Hot Tin Roof,1958,Actress -- Leading Role,1.0,0.0,Elizabeth Taylor
+1360,The Defiant Ones,1958,Cinematography,0.0,1.0,The Defiant Ones
+1361,Desire under the Elms,1958,Cinematography,1.0,0.0,Desire under the Elms
+1362,I Want to Live!,1958,Cinematography,1.0,0.0,I Want to Live!
+1363,Separate Tables,1958,Cinematography,1.0,0.0,Separate Tables
+1364,The Young Lions,1958,Cinematography,1.0,0.0,The Young Lions
+1365,Auntie Mame,1958,Cinematography,1.0,0.0,Auntie Mame
+1366,Cat on a Hot Tin Roof,1958,Cinematography,1.0,0.0,Cat on a Hot Tin Roof
+1367,Gigi,1958,Cinematography,0.0,1.0,Gigi
+1368,The Old Man and the Sea,1958,Cinematography,1.0,0.0,The Old Man and the Sea
+1369,South Pacific,1958,Cinematography,1.0,0.0,South Pacific
+1370,Cat on a Hot Tin Roof,1958,Directing,1.0,0.0,Cat on a Hot Tin Roof
+1371,The Defiant Ones,1958,Directing,1.0,0.0,The Defiant Ones
+1372,Gigi,1958,Directing,0.0,1.0,Gigi
+1373,I Want to Live!,1958,Directing,1.0,0.0,I Want to Live!
+1374,The Inn of the Sixth Happiness,1958,Directing,1.0,0.0,The Inn of the Sixth Happiness
+1375,Auntie Mame,1958,Best Picture,1.0,0.0,Auntie Mame
+1376,Cat on a Hot Tin Roof,1958,Best Picture,1.0,0.0,Cat on a Hot Tin Roof
+1377,The Defiant Ones,1958,Best Picture,1.0,0.0,The Defiant Ones
+1378,Gigi,1958,Best Picture,0.0,1.0,Gigi
+1379,Separate Tables,1958,Best Picture,1.0,0.0,Separate Tables
+1380,Sayonara,1957,Actor -- Leading Role,1.0,0.0,Marlon Brando
+1381,A Hatful of Rain,1957,Actor -- Leading Role,1.0,0.0,Anthony Franciosa
+1382,The Bridge on the River Kwai,1957,Actor -- Leading Role,0.0,1.0,Alec Guinness
+1383,Witness for the Prosecution,1957,Actor -- Leading Role,1.0,0.0,Charles Laughton
+1384,Wild Is the Wind,1957,Actor -- Leading Role,1.0,0.0,Anthony Quinn
+1385,"Heaven Knows, Mr. Allison",1957,Actress -- Leading Role,1.0,0.0,Deborah Kerr
+1386,Wild Is the Wind,1957,Actress -- Leading Role,1.0,0.0,Anna Magnani
+1387,Raintree County,1957,Actress -- Leading Role,1.0,0.0,Elizabeth Taylor
+1388,Peyton Place,1957,Actress -- Leading Role,1.0,0.0,Lana Turner
+1389,The Three Faces of Eve,1957,Actress -- Leading Role,0.0,1.0,Joanne Woodward
+1390,An Affair to Remember,1957,Cinematography,1.0,0.0,An Affair to Remember
+1391,The Bridge on the River Kwai,1957,Cinematography,0.0,1.0,The Bridge on the River Kwai
+1392,Funny Face,1957,Cinematography,1.0,0.0,Funny Face
+1393,Peyton Place,1957,Cinematography,1.0,0.0,Peyton Place
+1394,Sayonara,1957,Cinematography,1.0,0.0,Sayonara
+1395,The Bridge on the River Kwai,1957,Directing,0.0,1.0,The Bridge on the River Kwai
+1396,Peyton Place,1957,Directing,1.0,0.0,Peyton Place
+1397,Sayonara,1957,Directing,1.0,0.0,Sayonara
+1398,12 Angry Men,1957,Directing,1.0,0.0,12 Angry Men
+1399,Witness for the Prosecution,1957,Directing,1.0,0.0,Witness for the Prosecution
+1400,The Bridge on the River Kwai,1957,Best Picture,0.0,1.0,The Bridge on the River Kwai
+1401,Peyton Place,1957,Best Picture,1.0,0.0,Peyton Place
+1402,Sayonara,1957,Best Picture,1.0,0.0,Sayonara
+1403,12 Angry Men,1957,Best Picture,1.0,0.0,12 Angry Men
+1404,Witness for the Prosecution,1957,Best Picture,1.0,0.0,Witness for the Prosecution
+1405,The King and I,1956,Actor -- Leading Role,0.0,1.0,Yul Brynner
+1406,Giant,1956,Actor -- Leading Role,1.0,0.0,James Dean
+1407,Lust for Life,1956,Actor -- Leading Role,1.0,0.0,Kirk Douglas
+1408,Giant,1956,Actor -- Leading Role,1.0,0.0,Rock Hudson
+1409,Richard III,1956,Actor -- Leading Role,1.0,0.0,Sir Laurence Olivier
+1410,Baby Doll,1956,Actress -- Leading Role,1.0,0.0,Carroll Baker
+1411,Anastasia,1956,Actress -- Leading Role,0.0,1.0,Ingrid Bergman
+1412,The Rainmaker,1956,Actress -- Leading Role,1.0,0.0,Katharine Hepburn
+1413,The Bad Seed,1956,Actress -- Leading Role,1.0,0.0,Nancy Kelly
+1414,The King and I,1956,Actress -- Leading Role,1.0,0.0,Deborah Kerr
+1415,Baby Doll,1956,Cinematography,1.0,0.0,Baby Doll
+1416,The Bad Seed,1956,Cinematography,1.0,0.0,The Bad Seed
+1417,The Harder They Fall,1956,Cinematography,1.0,0.0,The Harder They Fall
+1418,Somebody Up There Likes Me,1956,Cinematography,0.0,1.0,Somebody Up There Likes Me
+1419,Stagecoach to Fury,1956,Cinematography,1.0,0.0,Stagecoach to Fury
+1420,Around the World in 80 Days,1956,Cinematography,0.0,1.0,Around the World in 80 Days
+1421,The Eddy Duchin Story,1956,Cinematography,1.0,0.0,The Eddy Duchin Story
+1422,The King and I,1956,Cinematography,1.0,0.0,The King and I
+1423,The Ten Commandments,1956,Cinematography,1.0,0.0,The Ten Commandments
+1424,War and Peace,1956,Cinematography,1.0,0.0,War and Peace
+1425,Around the World in 80 Days,1956,Directing,1.0,0.0,Around the World in 80 Days
+1426,Friendly Persuasion,1956,Directing,1.0,0.0,Friendly Persuasion
+1427,Giant,1956,Directing,0.0,1.0,Giant
+1428,The King and I,1956,Directing,1.0,0.0,The King and I
+1429,War and Peace,1956,Directing,1.0,0.0,War and Peace
+1430,Around the World in 80 Days,1956,Best Picture,0.0,1.0,Around the World in 80 Days
+1431,Friendly Persuasion,1956,Best Picture,1.0,0.0,Friendly Persuasion
+1432,Giant,1956,Best Picture,1.0,0.0,Giant
+1433,The King and I,1956,Best Picture,1.0,0.0,The King and I
+1434,The Ten Commandments,1956,Best Picture,1.0,0.0,The Ten Commandments
+1435,Marty,1955,Actor -- Leading Role,0.0,1.0,Ernest Borgnine
+1436,Love Me or Leave Me,1955,Actor -- Leading Role,1.0,0.0,James Cagney
+1437,East of Eden,1955,Actor -- Leading Role,1.0,0.0,James Dean
+1438,The Man with the Golden Arm,1955,Actor -- Leading Role,1.0,0.0,Frank Sinatra
+1439,Bad Day at Black Rock,1955,Actor -- Leading Role,1.0,0.0,Spencer Tracy
+1440,I'll Cry Tomorrow,1955,Actress -- Leading Role,1.0,0.0,Susan Hayward
+1441,Summertime,1955,Actress -- Leading Role,1.0,0.0,Katharine Hepburn
+1442,Love Is a Many-Splendored Thing,1955,Actress -- Leading Role,1.0,0.0,Jennifer Jones
+1443,The Rose Tattoo,1955,Actress -- Leading Role,0.0,1.0,Anna Magnani
+1444,Interrupted Melody,1955,Actress -- Leading Role,1.0,0.0,Eleanor Parker
+1445,Blackboard Jungle,1955,Cinematography,1.0,0.0,Blackboard Jungle
+1446,I'll Cry Tomorrow,1955,Cinematography,1.0,0.0,I'll Cry Tomorrow
+1447,Marty,1955,Cinematography,1.0,0.0,Marty
+1448,Queen Bee,1955,Cinematography,1.0,0.0,Queen Bee
+1449,The Rose Tattoo,1955,Cinematography,0.0,1.0,The Rose Tattoo
+1450,Guys and Dolls,1955,Cinematography,1.0,0.0,Guys and Dolls
+1451,Love Is a Many-Splendored Thing,1955,Cinematography,1.0,0.0,Love Is a Many-Splendored Thing
+1452,A Man Called Peter,1955,Cinematography,1.0,0.0,A Man Called Peter
+1453,Oklahoma!,1955,Cinematography,1.0,0.0,Oklahoma!
+1454,To Catch a Thief,1955,Cinematography,0.0,1.0,To Catch a Thief
+1455,Bad Day at Black Rock,1955,Directing,1.0,0.0,Bad Day at Black Rock
+1456,East of Eden,1955,Directing,1.0,0.0,East of Eden
+1457,Marty,1955,Directing,0.0,1.0,Marty
+1458,Picnic,1955,Directing,1.0,0.0,Picnic
+1459,Summertime,1955,Directing,1.0,0.0,Summertime
+1460,Love Is a Many-Splendored Thing,1955,Best Picture,1.0,0.0,Love Is a Many-Splendored Thing
+1461,Marty,1955,Best Picture,0.0,1.0,Marty
+1462,Mister Roberts,1955,Best Picture,1.0,0.0,Mister Roberts
+1463,Picnic,1955,Best Picture,1.0,0.0,Picnic
+1464,The Rose Tattoo,1955,Best Picture,1.0,0.0,The Rose Tattoo
+1465,The Caine Mutiny,1954,Actor -- Leading Role,1.0,0.0,Humphrey Bogart
+1466,On the Waterfront,1954,Actor -- Leading Role,0.0,1.0,Marlon Brando
+1467,The Country Girl,1954,Actor -- Leading Role,1.0,0.0,Bing Crosby
+1468,A Star Is Born,1954,Actor -- Leading Role,1.0,0.0,James Mason
+1469,Adventures of Robinson Crusoe,1954,Actor -- Leading Role,1.0,0.0,Dan O'Herlihy
+1470,Carmen Jones,1954,Actress -- Leading Role,1.0,0.0,Dorothy Dandridge
+1471,A Star Is Born,1954,Actress -- Leading Role,1.0,0.0,Judy Garland
+1472,Sabrina,1954,Actress -- Leading Role,1.0,0.0,Audrey Hepburn
+1473,The Country Girl,1954,Actress -- Leading Role,0.0,1.0,Grace Kelly
+1474,Magnificent Obsession,1954,Actress -- Leading Role,1.0,0.0,Jane Wyman
+1475,The Country Girl,1954,Cinematography,1.0,0.0,The Country Girl
+1476,Executive Suite,1954,Cinematography,1.0,0.0,Executive Suite
+1477,On the Waterfront,1954,Cinematography,0.0,1.0,On the Waterfront
+1478,Rogue Cop,1954,Cinematography,1.0,0.0,Rogue Cop
+1479,Sabrina,1954,Cinematography,1.0,0.0,Sabrina
+1480,The Egyptian,1954,Cinematography,1.0,0.0,The Egyptian
+1481,Rear Window,1954,Cinematography,1.0,0.0,Rear Window
+1482,Seven Brides for Seven Brothers,1954,Cinematography,1.0,0.0,Seven Brides for Seven Brothers
+1483,The Silver Chalice,1954,Cinematography,1.0,0.0,The Silver Chalice
+1484,Three Coins in the Fountain,1954,Cinematography,0.0,1.0,Three Coins in the Fountain
+1485,The Country Girl,1954,Directing,1.0,0.0,The Country Girl
+1486,The High and the Mighty,1954,Directing,1.0,0.0,The High and the Mighty
+1487,On the Waterfront,1954,Directing,0.0,1.0,On the Waterfront
+1488,Rear Window,1954,Directing,1.0,0.0,Rear Window
+1489,Sabrina,1954,Directing,1.0,0.0,Sabrina
+1490,The Caine Mutiny,1954,Best Picture,1.0,0.0,The Caine Mutiny
+1491,The Country Girl,1954,Best Picture,1.0,0.0,The Country Girl
+1492,On the Waterfront,1954,Best Picture,0.0,1.0,On the Waterfront
+1493,Seven Brides for Seven Brothers,1954,Best Picture,1.0,0.0,Seven Brides for Seven Brothers
+1494,Three Coins in the Fountain,1954,Best Picture,1.0,0.0,Three Coins in the Fountain
+1495,Julius Caesar,1953,Actor -- Leading Role,1.0,0.0,Marlon Brando
+1496,The Robe,1953,Actor -- Leading Role,1.0,0.0,Richard Burton
+1497,From Here to Eternity,1953,Actor -- Leading Role,1.0,0.0,Montgomery Clift
+1498,Stalag 17,1953,Actor -- Leading Role,0.0,1.0,William Holden
+1499,From Here to Eternity,1953,Actor -- Leading Role,1.0,0.0,Burt Lancaster
+1500,Lili,1953,Actress -- Leading Role,1.0,0.0,Leslie Caron
+1501,Mogambo,1953,Actress -- Leading Role,1.0,0.0,Ava Gardner
+1502,Roman Holiday,1953,Actress -- Leading Role,0.0,1.0,Audrey Hepburn
+1503,From Here to Eternity,1953,Actress -- Leading Role,1.0,0.0,Deborah Kerr
+1504,The Moon Is Blue,1953,Actress -- Leading Role,1.0,0.0,Maggie McNamara
+1505,The Four Poster,1953,Cinematography,1.0,0.0,The Four Poster
+1506,From Here to Eternity,1953,Cinematography,0.0,1.0,From Here to Eternity
+1507,Julius Caesar,1953,Cinematography,1.0,0.0,Julius Caesar
+1508,Martin Luther,1953,Cinematography,1.0,0.0,Martin Luther
+1509,Roman Holiday,1953,Cinematography,1.0,0.0,Roman Holiday
+1510,All the Brothers Were Valiant,1953,Cinematography,1.0,0.0,All the Brothers Were Valiant
+1511,Beneath the 12-Mile Reef,1953,Cinematography,1.0,0.0,Beneath the 12-Mile Reef
+1512,Lili,1953,Cinematography,1.0,0.0,Lili
+1513,The Robe,1953,Cinematography,1.0,0.0,The Robe
+1514,Shane,1953,Cinematography,0.0,1.0,Shane
+1515,From Here to Eternity,1953,Directing,0.0,1.0,From Here to Eternity
+1516,Lili,1953,Directing,1.0,0.0,Lili
+1517,Roman Holiday,1953,Directing,1.0,0.0,Roman Holiday
+1518,Shane,1953,Directing,1.0,0.0,Shane
+1519,Stalag 17,1953,Directing,1.0,0.0,Stalag 17
+1520,From Here to Eternity,1953,Best Picture,0.0,1.0,From Here to Eternity
+1521,Julius Caesar,1953,Best Picture,1.0,0.0,Julius Caesar
+1522,The Robe,1953,Best Picture,1.0,0.0,The Robe
+1523,Roman Holiday,1953,Best Picture,1.0,0.0,Roman Holiday
+1524,Shane,1953,Best Picture,1.0,0.0,Shane
+1525,Viva Zapata!,1952,Actor -- Leading Role,1.0,0.0,Marlon Brando
+1526,High Noon,1952,Actor -- Leading Role,0.0,1.0,Gary Cooper
+1527,The Bad and the Beautiful,1952,Actor -- Leading Role,1.0,0.0,Kirk Douglas
+1528,Moulin Rouge,1952,Actor -- Leading Role,1.0,0.0,José Ferrer
+1529,The Lavender Hill Mob,1952,Actor -- Leading Role,1.0,0.0,Alec Guinness
+1530,"Come Back, Little Sheba",1952,Actress -- Leading Role,0.0,1.0,Shirley Booth
+1531,Sudden Fear,1952,Actress -- Leading Role,1.0,0.0,Joan Crawford
+1532,The Star,1952,Actress -- Leading Role,1.0,0.0,Bette Davis
+1533,The Member of the Wedding,1952,Actress -- Leading Role,1.0,0.0,Julie Harris
+1534,With a Song in My Heart,1952,Actress -- Leading Role,1.0,0.0,Susan Hayward
+1535,The Bad and the Beautiful,1952,Cinematography,0.0,1.0,The Bad and the Beautiful
+1536,The Big Sky,1952,Cinematography,1.0,0.0,The Big Sky
+1537,My Cousin Rachel,1952,Cinematography,1.0,0.0,My Cousin Rachel
+1538,Navajo,1952,Cinematography,1.0,0.0,Navajo
+1539,Sudden Fear,1952,Cinematography,1.0,0.0,Sudden Fear
+1540,Hans Christian Andersen,1952,Cinematography,1.0,0.0,Hans Christian Andersen
+1541,Ivanhoe,1952,Cinematography,1.0,0.0,Ivanhoe
+1542,Million Dollar Mermaid,1952,Cinematography,1.0,0.0,Million Dollar Mermaid
+1543,The Quiet Man,1952,Cinematography,0.0,1.0,The Quiet Man
+1544,The Snows of Kilimanjaro,1952,Cinematography,1.0,0.0,The Snows of Kilimanjaro
+1545,Five Fingers,1952,Directing,1.0,0.0,Five Fingers
+1546,The Greatest Show on Earth,1952,Directing,1.0,0.0,The Greatest Show on Earth
+1547,High Noon,1952,Directing,1.0,0.0,High Noon
+1548,Moulin Rouge,1952,Directing,1.0,0.0,Moulin Rouge
+1549,The Quiet Man,1952,Directing,0.0,1.0,The Quiet Man
+1550,The Greatest Show on Earth,1952,Best Picture,0.0,1.0,The Greatest Show on Earth
+1551,High Noon,1952,Best Picture,1.0,0.0,High Noon
+1552,Ivanhoe,1952,Best Picture,1.0,0.0,Ivanhoe
+1553,Moulin Rouge,1952,Best Picture,1.0,0.0,Moulin Rouge
+1554,The Quiet Man,1952,Best Picture,1.0,0.0,The Quiet Man
+1555,The African Queen,1951,Actor -- Leading Role,0.0,1.0,Humphrey Bogart
+1556,A Streetcar Named Desire,1951,Actor -- Leading Role,1.0,0.0,Marlon Brando
+1557,A Place in the Sun,1951,Actor -- Leading Role,1.0,0.0,Montgomery Clift
+1558,Bright Victory,1951,Actor -- Leading Role,1.0,0.0,Arthur Kennedy
+1559,Death of a Salesman,1951,Actor -- Leading Role,1.0,0.0,Fredric March
+1560,The African Queen,1951,Actress -- Leading Role,1.0,0.0,Katharine Hepburn
+1561,A Streetcar Named Desire,1951,Actress -- Leading Role,0.0,1.0,Vivien Leigh
+1562,Detective Story,1951,Actress -- Leading Role,1.0,0.0,Eleanor Parker
+1563,A Place in the Sun,1951,Actress -- Leading Role,1.0,0.0,Shelley Winters
+1564,The Blue Veil,1951,Actress -- Leading Role,1.0,0.0,Jane Wyman
+1565,Death of a Salesman,1951,Cinematography,1.0,0.0,Death of a Salesman
+1566,The Frogmen,1951,Cinematography,1.0,0.0,The Frogmen
+1567,A Place in the Sun,1951,Cinematography,0.0,1.0,A Place in the Sun
+1568,Strangers on a Train,1951,Cinematography,1.0,0.0,Strangers on a Train
+1569,A Streetcar Named Desire,1951,Cinematography,1.0,0.0,A Streetcar Named Desire
+1570,An American in Paris,1951,Cinematography,0.0,1.0,An American in Paris
+1571,David and Bathsheba,1951,Cinematography,1.0,0.0,David and Bathsheba
+1572,Quo Vadis,1951,Cinematography,1.0,0.0,Quo Vadis
+1573,Show Boat,1951,Cinematography,1.0,0.0,Show Boat
+1574,When Worlds Collide,1951,Cinematography,1.0,0.0,When Worlds Collide
+1575,The African Queen,1951,Directing,1.0,0.0,The African Queen
+1576,An American in Paris,1951,Directing,1.0,0.0,An American in Paris
+1577,Detective Story,1951,Directing,1.0,0.0,Detective Story
+1578,A Place in the Sun,1951,Directing,0.0,1.0,A Place in the Sun
+1579,A Streetcar Named Desire,1951,Directing,1.0,0.0,A Streetcar Named Desire
+1580,An American in Paris,1951,Best Picture,0.0,1.0,An American in Paris
+1581,Decision before Dawn,1951,Best Picture,1.0,0.0,Decision before Dawn
+1582,A Place in the Sun,1951,Best Picture,1.0,0.0,A Place in the Sun
+1583,Quo Vadis,1951,Best Picture,1.0,0.0,Quo Vadis
+1584,A Streetcar Named Desire,1951,Best Picture,1.0,0.0,A Streetcar Named Desire
+1585,The Magnificent Yankee,1950,Actor -- Leading Role,1.0,0.0,Louis Calhern
+1586,Cyrano de Bergerac,1950,Actor -- Leading Role,0.0,1.0,José Ferrer
+1587,Sunset Blvd.,1950,Actor -- Leading Role,1.0,0.0,William Holden
+1588,Harvey,1950,Actor -- Leading Role,1.0,0.0,James Stewart
+1589,Father of the Bride,1950,Actor -- Leading Role,1.0,0.0,Spencer Tracy
+1590,All about Eve,1950,Actress -- Leading Role,1.0,0.0,Anne Baxter
+1591,All about Eve,1950,Actress -- Leading Role,1.0,0.0,Bette Davis
+1592,Born Yesterday,1950,Actress -- Leading Role,0.0,1.0,Judy Holliday
+1593,Caged,1950,Actress -- Leading Role,1.0,0.0,Eleanor Parker
+1594,Sunset Blvd.,1950,Actress -- Leading Role,1.0,0.0,Gloria Swanson
+1595,All about Eve,1950,Cinematography,1.0,0.0,All about Eve
+1596,The Asphalt Jungle,1950,Cinematography,1.0,0.0,The Asphalt Jungle
+1597,The Furies,1950,Cinematography,1.0,0.0,The Furies
+1598,Sunset Blvd.,1950,Cinematography,1.0,0.0,Sunset Blvd.
+1599,The Third Man,1950,Cinematography,0.0,1.0,The Third Man
+1600,Annie Get Your Gun,1950,Cinematography,1.0,0.0,Annie Get Your Gun
+1601,Broken Arrow,1950,Cinematography,1.0,0.0,Broken Arrow
+1602,The Flame and the Arrow,1950,Cinematography,1.0,0.0,The Flame and the Arrow
+1603,King Solomon's Mines,1950,Cinematography,0.0,1.0,King Solomon's Mines
+1604,Samson and Delilah,1950,Cinematography,1.0,0.0,Samson and Delilah
+1605,All about Eve,1950,Directing,0.0,1.0,All about Eve
+1606,The Asphalt Jungle,1950,Directing,1.0,0.0,The Asphalt Jungle
+1607,Born Yesterday,1950,Directing,1.0,0.0,Born Yesterday
+1608,Sunset Blvd.,1950,Directing,1.0,0.0,Sunset Blvd.
+1609,The Third Man,1950,Directing,1.0,0.0,The Third Man
+1610,All about Eve,1950,Best Picture,0.0,1.0,All about Eve
+1611,Born Yesterday,1950,Best Picture,1.0,0.0,Born Yesterday
+1612,Father of the Bride,1950,Best Picture,1.0,0.0,Father of the Bride
+1613,King Solomon's Mines,1950,Best Picture,1.0,0.0,King Solomon's Mines
+1614,Sunset Blvd.,1950,Best Picture,1.0,0.0,Sunset Blvd.
+1615,All the King's Men,1949,Actor -- Leading Role,0.0,1.0,Broderick Crawford
+1616,Champion,1949,Actor -- Leading Role,1.0,0.0,Kirk Douglas
+1617,Twelve O'Clock High,1949,Actor -- Leading Role,1.0,0.0,Gregory Peck
+1618,The Hasty Heart,1949,Actor -- Leading Role,1.0,0.0,Richard Todd
+1619,Sands of Iwo Jima,1949,Actor -- Leading Role,1.0,0.0,John Wayne
+1620,Pinky,1949,Actress -- Leading Role,1.0,0.0,Jeanne Crain
+1621,The Heiress,1949,Actress -- Leading Role,0.0,1.0,Olivia de Havilland
+1622,My Foolish Heart,1949,Actress -- Leading Role,1.0,0.0,Susan Hayward
+1623,"Edward, My Son",1949,Actress -- Leading Role,1.0,0.0,Deborah Kerr
+1624,Come to the Stable,1949,Actress -- Leading Role,1.0,0.0,Loretta Young
+1625,Battleground,1949,Cinematography,0.0,1.0,Battleground
+1626,Champion,1949,Cinematography,1.0,0.0,Champion
+1627,Come to the Stable,1949,Cinematography,1.0,0.0,Come to the Stable
+1628,The Heiress,1949,Cinematography,1.0,0.0,The Heiress
+1629,Prince of Foxes,1949,Cinematography,1.0,0.0,Prince of Foxes
+1630,The Barkleys of Broadway,1949,Cinematography,1.0,0.0,The Barkleys of Broadway
+1631,Jolson Sings Again,1949,Cinematography,1.0,0.0,Jolson Sings Again
+1632,Little Women,1949,Cinematography,1.0,0.0,Little Women
+1633,Sand,1949,Cinematography,1.0,0.0,Sand
+1634,She Wore a Yellow Ribbon,1949,Cinematography,0.0,1.0,She Wore a Yellow Ribbon
+1635,All the King's Men,1949,Directing,1.0,0.0,All the King's Men
+1636,Battleground,1949,Directing,1.0,0.0,Battleground
+1637,The Fallen Idol,1949,Directing,1.0,0.0,The Fallen Idol
+1638,The Heiress,1949,Directing,1.0,0.0,The Heiress
+1639,A Letter to Three Wives,1949,Directing,0.0,1.0,A Letter to Three Wives
+1640,All the King's Men,1949,Best Picture,0.0,1.0,All the King's Men
+1641,Battleground,1949,Best Picture,1.0,0.0,Battleground
+1642,The Heiress,1949,Best Picture,1.0,0.0,The Heiress
+1643,A Letter to Three Wives,1949,Best Picture,1.0,0.0,A Letter to Three Wives
+1644,Twelve O'Clock High,1949,Best Picture,1.0,0.0,Twelve O'Clock High
+1645,Johnny Belinda,1948,Actor -- Leading Role,1.0,0.0,Lew Ayres
+1646,The Search,1948,Actor -- Leading Role,1.0,0.0,Montgomery Clift
+1647,When My Baby Smiles at Me,1948,Actor -- Leading Role,1.0,0.0,Dan Dailey
+1648,Hamlet,1948,Actor -- Leading Role,0.0,1.0,Laurence Olivier
+1649,Sitting Pretty,1948,Actor -- Leading Role,1.0,0.0,Clifton Webb
+1650,Joan of Arc,1948,Actress -- Leading Role,1.0,0.0,Ingrid Bergman
+1651,The Snake Pit,1948,Actress -- Leading Role,1.0,0.0,Olivia de Havilland
+1652,I Remember Mama,1948,Actress -- Leading Role,1.0,0.0,Irene Dunne
+1653,"Sorry, Wrong Number",1948,Actress -- Leading Role,1.0,0.0,Barbara Stanwyck
+1654,Johnny Belinda,1948,Actress -- Leading Role,0.0,1.0,Jane Wyman
+1655,A Foreign Affair,1948,Cinematography,1.0,0.0,A Foreign Affair
+1656,I Remember Mama,1948,Cinematography,1.0,0.0,I Remember Mama
+1657,Johnny Belinda,1948,Cinematography,1.0,0.0,Johnny Belinda
+1658,The Naked City,1948,Cinematography,0.0,1.0,The Naked City
+1659,Portrait of Jennie,1948,Cinematography,1.0,0.0,Portrait of Jennie
+1660,Green Grass of Wyoming,1948,Cinematography,1.0,0.0,Green Grass of Wyoming
+1661,Joan of Arc,1948,Cinematography,0.0,1.0,Joan of Arc
+1662,The Loves of Carmen,1948,Cinematography,1.0,0.0,The Loves of Carmen
+1663,The Three Musketeers,1948,Cinematography,1.0,0.0,The Three Musketeers
+1664,Hamlet,1948,Directing,1.0,0.0,Hamlet
+1665,Johnny Belinda,1948,Directing,1.0,0.0,Johnny Belinda
+1666,The Search,1948,Directing,1.0,0.0,The Search
+1667,The Snake Pit,1948,Directing,1.0,0.0,The Snake Pit
+1668,The Treasure of the Sierra Madre,1948,Directing,0.0,1.0,The Treasure of the Sierra Madre
+1669,Hamlet,1948,Best Picture,0.0,1.0,Hamlet
+1670,Johnny Belinda,1948,Best Picture,1.0,0.0,Johnny Belinda
+1671,The Red Shoes,1948,Best Picture,1.0,0.0,The Red Shoes
+1672,The Snake Pit,1948,Best Picture,1.0,0.0,The Snake Pit
+1673,The Treasure of the Sierra Madre,1948,Best Picture,1.0,0.0,The Treasure of the Sierra Madre
+1674,A Double Life,1947,Actor -- Leading Role,0.0,1.0,Ronald Colman
+1675,Body and Soul,1947,Actor -- Leading Role,1.0,0.0,John Garfield
+1676,Gentleman's Agreement,1947,Actor -- Leading Role,1.0,0.0,Gregory Peck
+1677,Life with Father,1947,Actor -- Leading Role,1.0,0.0,William Powell
+1678,Mourning Becomes Electra,1947,Actor -- Leading Role,1.0,0.0,Michael Redgrave
+1679,Possessed,1947,Actress -- Leading Role,1.0,0.0,Joan Crawford
+1680,Smash-Up--The Story of a Woman,1947,Actress -- Leading Role,1.0,0.0,Susan Hayward
+1681,Gentleman's Agreement,1947,Actress -- Leading Role,1.0,0.0,Dorothy McGuire
+1682,Mourning Becomes Electra,1947,Actress -- Leading Role,1.0,0.0,Rosalind Russell
+1683,The Farmer's Daughter,1947,Actress -- Leading Role,0.0,1.0,Loretta Young
+1684,The Ghost and Mrs. Muir,1947,Cinematography,1.0,0.0,The Ghost and Mrs. Muir
+1685,Great Expectations,1947,Cinematography,0.0,1.0,Great Expectations
+1686,Green Dolphin Street,1947,Cinematography,1.0,0.0,Green Dolphin Street
+1687,Black Narcissus,1947,Cinematography,0.0,1.0,Black Narcissus
+1688,Life with Father,1947,Cinematography,1.0,0.0,Life with Father
+1689,Mother Wore Tights,1947,Cinematography,1.0,0.0,Mother Wore Tights
+1690,The Bishop's Wife,1947,Directing,1.0,0.0,The Bishop's Wife
+1691,Crossfire,1947,Directing,1.0,0.0,Crossfire
+1692,A Double Life,1947,Directing,1.0,0.0,A Double Life
+1693,Gentleman's Agreement,1947,Directing,0.0,1.0,Gentleman's Agreement
+1694,Great Expectations,1947,Directing,1.0,0.0,Great Expectations
+1695,The Bishop's Wife,1947,Best Picture,1.0,0.0,The Bishop's Wife
+1696,Crossfire,1947,Best Picture,1.0,0.0,Crossfire
+1697,Gentleman's Agreement,1947,Best Picture,0.0,1.0,Gentleman's Agreement
+1698,Great Expectations,1947,Best Picture,1.0,0.0,Great Expectations
+1699,Miracle on 34th Street,1947,Best Picture,1.0,0.0,Miracle on 34th Street
+1700,The Best Years of Our Lives,1946,Actor -- Leading Role,0.0,1.0,Fredric March
+1701,Henry V,1946,Actor -- Leading Role,1.0,0.0,Laurence Olivier
+1702,The Jolson Story,1946,Actor -- Leading Role,1.0,0.0,Larry Parks
+1703,The Yearling,1946,Actor -- Leading Role,1.0,0.0,Gregory Peck
+1704,It's a Wonderful Life,1946,Actor -- Leading Role,1.0,0.0,James Stewart
+1705,To Each His Own,1946,Actress -- Leading Role,0.0,1.0,Olivia de Havilland
+1706,Brief Encounter,1946,Actress -- Leading Role,1.0,0.0,Celia Johnson
+1707,Duel in the Sun,1946,Actress -- Leading Role,1.0,0.0,Jennifer Jones
+1708,Sister Kenny,1946,Actress -- Leading Role,1.0,0.0,Rosalind Russell
+1709,The Yearling,1946,Actress -- Leading Role,1.0,0.0,Jane Wyman
+1710,Anna and the King of Siam,1946,Cinematography,0.0,1.0,Anna and the King of Siam
+1711,The Green Years,1946,Cinematography,1.0,0.0,The Green Years
+1712,The Jolson Story,1946,Cinematography,1.0,0.0,The Jolson Story
+1713,The Yearling,1946,Cinematography,0.0,1.0,The Yearling
+1714,The Best Years of Our Lives,1946,Directing,0.0,1.0,The Best Years of Our Lives
+1715,Brief Encounter,1946,Directing,1.0,0.0,Brief Encounter
+1716,It's a Wonderful Life,1946,Directing,1.0,0.0,It's a Wonderful Life
+1717,The Killers,1946,Directing,1.0,0.0,The Killers
+1718,The Yearling,1946,Directing,1.0,0.0,The Yearling
+1719,The Best Years of Our Lives,1946,Best Picture,0.0,1.0,The Best Years of Our Lives
+1720,Henry V,1946,Best Picture,1.0,0.0,Henry V
+1721,It's a Wonderful Life,1946,Best Picture,1.0,0.0,It's a Wonderful Life
+1722,The Razor's Edge,1946,Best Picture,1.0,0.0,The Razor's Edge
+1723,The Yearling,1946,Best Picture,1.0,0.0,The Yearling
+1724,The Bells of St. Mary's,1945,Actor -- Leading Role,1.0,0.0,Bing Crosby
+1725,Anchors Aweigh,1945,Actor -- Leading Role,1.0,0.0,Gene Kelly
+1726,The Lost Weekend,1945,Actor -- Leading Role,0.0,1.0,Ray Milland
+1727,The Keys of the Kingdom,1945,Actor -- Leading Role,1.0,0.0,Gregory Peck
+1728,A Song to Remember,1945,Actor -- Leading Role,1.0,0.0,Cornel Wilde
+1729,The Bells of St. Mary's,1945,Actress -- Leading Role,1.0,0.0,Ingrid Bergman
+1730,Mildred Pierce,1945,Actress -- Leading Role,0.0,1.0,Joan Crawford
+1731,The Valley of Decision,1945,Actress -- Leading Role,1.0,0.0,Greer Garson
+1732,Love Letters,1945,Actress -- Leading Role,1.0,0.0,Jennifer Jones
+1733,Leave Her to Heaven,1945,Actress -- Leading Role,1.0,0.0,Gene Tierney
+1734,The Keys of the Kingdom,1945,Cinematography,1.0,0.0,The Keys of the Kingdom
+1735,The Lost Weekend,1945,Cinematography,1.0,0.0,The Lost Weekend
+1736,Mildred Pierce,1945,Cinematography,1.0,0.0,Mildred Pierce
+1737,The Picture of Dorian Gray,1945,Cinematography,0.0,1.0,The Picture of Dorian Gray
+1738,Spellbound,1945,Cinematography,1.0,0.0,Spellbound
+1739,Anchors Aweigh,1945,Cinematography,1.0,0.0,Anchors Aweigh
+1740,Leave Her to Heaven,1945,Cinematography,0.0,1.0,Leave Her to Heaven
+1741,National Velvet,1945,Cinematography,1.0,0.0,National Velvet
+1742,A Song to Remember,1945,Cinematography,1.0,0.0,A Song to Remember
+1743,The Spanish Main,1945,Cinematography,1.0,0.0,The Spanish Main
+1744,The Bells of St. Mary's,1945,Directing,1.0,0.0,The Bells of St. Mary's
+1745,The Lost Weekend,1945,Directing,0.0,1.0,The Lost Weekend
+1746,National Velvet,1945,Directing,1.0,0.0,National Velvet
+1747,The Southerner,1945,Directing,1.0,0.0,The Southerner
+1748,Spellbound,1945,Directing,1.0,0.0,Spellbound
+1749,Anchors Aweigh,1945,Best Picture,1.0,0.0,Anchors Aweigh
+1750,The Bells of St. Mary's,1945,Best Picture,1.0,0.0,The Bells of St. Mary's
+1751,The Lost Weekend,1945,Best Picture,0.0,1.0,The Lost Weekend
+1752,Mildred Pierce,1945,Best Picture,1.0,0.0,Mildred Pierce
+1753,Spellbound,1945,Best Picture,1.0,0.0,Spellbound
+1754,Gaslight,1944,Actor -- Leading Role,1.0,0.0,Charles Boyer
+1755,Going My Way,1944,Actor -- Leading Role,0.0,1.0,Bing Crosby
+1756,Going My Way,1944,Actor -- Leading Role,1.0,0.0,Barry Fitzgerald
+1757,None but the Lonely Heart,1944,Actor -- Leading Role,1.0,0.0,Cary Grant
+1758,Wilson,1944,Actor -- Leading Role,1.0,0.0,Alexander Knox
+1759,Gaslight,1944,Actress -- Leading Role,0.0,1.0,Ingrid Bergman
+1760,Since You Went Away,1944,Actress -- Leading Role,1.0,0.0,Claudette Colbert
+1761,Mr. Skeffington,1944,Actress -- Leading Role,1.0,0.0,Bette Davis
+1762,Mrs. Parkington,1944,Actress -- Leading Role,1.0,0.0,Greer Garson
+1763,Double Indemnity,1944,Actress -- Leading Role,1.0,0.0,Barbara Stanwyck
+1764,Double Indemnity,1944,Cinematography,1.0,0.0,Double Indemnity
+1765,Dragon Seed,1944,Cinematography,1.0,0.0,Dragon Seed
+1766,Gaslight,1944,Cinematography,1.0,0.0,Gaslight
+1767,Going My Way,1944,Cinematography,1.0,0.0,Going My Way
+1768,Laura,1944,Cinematography,0.0,1.0,Laura
+1769,Lifeboat,1944,Cinematography,1.0,0.0,Lifeboat
+1770,Since You Went Away,1944,Cinematography,1.0,0.0,Since You Went Away
+1771,Thirty Seconds over Tokyo,1944,Cinematography,1.0,0.0,Thirty Seconds over Tokyo
+1772,The Uninvited,1944,Cinematography,1.0,0.0,The Uninvited
+1773,The White Cliffs of Dover,1944,Cinematography,1.0,0.0,The White Cliffs of Dover
+1774,Cover Girl,1944,Cinematography,1.0,0.0,Cover Girl
+1775,Home in Indiana,1944,Cinematography,1.0,0.0,Home in Indiana
+1776,Kismet,1944,Cinematography,1.0,0.0,Kismet
+1777,Lady in the Dark,1944,Cinematography,1.0,0.0,Lady in the Dark
+1778,Meet Me in St. Louis,1944,Cinematography,1.0,0.0,Meet Me in St. Louis
+1779,Wilson,1944,Cinematography,0.0,1.0,Wilson
+1780,Double Indemnity,1944,Directing,1.0,0.0,Double Indemnity
+1781,Going My Way,1944,Directing,0.0,1.0,Going My Way
+1782,Laura,1944,Directing,1.0,0.0,Laura
+1783,Lifeboat,1944,Directing,1.0,0.0,Lifeboat
+1784,Wilson,1944,Directing,1.0,0.0,Wilson
+1785,Double Indemnity,1944,Best Picture,1.0,0.0,Double Indemnity
+1786,Gaslight,1944,Best Picture,1.0,0.0,Gaslight
+1787,Going My Way,1944,Best Picture,0.0,1.0,Going My Way
+1788,Since You Went Away,1944,Best Picture,1.0,0.0,Since You Went Away
+1789,Wilson,1944,Best Picture,1.0,0.0,Wilson
+1790,Casablanca,1943,Actor -- Leading Role,1.0,0.0,Humphrey Bogart
+1791,For Whom the Bell Tolls,1943,Actor -- Leading Role,1.0,0.0,Gary Cooper
+1792,Watch on the Rhine,1943,Actor -- Leading Role,0.0,1.0,Paul Lukas
+1793,Madame Curie,1943,Actor -- Leading Role,1.0,0.0,Walter Pidgeon
+1794,The Human Comedy,1943,Actor -- Leading Role,1.0,0.0,Mickey Rooney
+1795,The More the Merrier,1943,Actress -- Leading Role,1.0,0.0,Jean Arthur
+1796,For Whom the Bell Tolls,1943,Actress -- Leading Role,1.0,0.0,Ingrid Bergman
+1797,The Constant Nymph,1943,Actress -- Leading Role,1.0,0.0,Joan Fontaine
+1798,Madame Curie,1943,Actress -- Leading Role,1.0,0.0,Greer Garson
+1799,The Song of Bernadette,1943,Actress -- Leading Role,0.0,1.0,Jennifer Jones
+1800,Air Force,1943,Cinematography,1.0,0.0,Air Force
+1801,Casablanca,1943,Cinematography,1.0,0.0,Casablanca
+1802,Corvette K-225,1943,Cinematography,1.0,0.0,Corvette K-225
+1803,Five Graves to Cairo,1943,Cinematography,1.0,0.0,Five Graves to Cairo
+1804,The Human Comedy,1943,Cinematography,1.0,0.0,The Human Comedy
+1805,Madame Curie,1943,Cinematography,1.0,0.0,Madame Curie
+1806,The North Star,1943,Cinematography,1.0,0.0,The North Star
+1807,Sahara,1943,Cinematography,1.0,0.0,Sahara
+1808,So Proudly We Hail!,1943,Cinematography,1.0,0.0,So Proudly We Hail!
+1809,The Song of Bernadette,1943,Cinematography,0.0,1.0,The Song of Bernadette
+1810,For Whom the Bell Tolls,1943,Cinematography,1.0,0.0,For Whom the Bell Tolls
+1811,Heaven Can Wait,1943,Cinematography,1.0,0.0,Heaven Can Wait
+1812,"Hello, Frisco, Hello",1943,Cinematography,1.0,0.0,"Hello, Frisco, Hello"
+1813,Lassie Come Home,1943,Cinematography,1.0,0.0,Lassie Come Home
+1814,Phantom of the Opera,1943,Cinematography,0.0,1.0,Phantom of the Opera
+1815,Thousands Cheer,1943,Cinematography,1.0,0.0,Thousands Cheer
+1816,Casablanca,1943,Directing,0.0,1.0,Casablanca
+1817,Heaven Can Wait,1943,Directing,1.0,0.0,Heaven Can Wait
+1818,The Human Comedy,1943,Directing,1.0,0.0,The Human Comedy
+1819,The More the Merrier,1943,Directing,1.0,0.0,The More the Merrier
+1820,The Song of Bernadette,1943,Directing,1.0,0.0,The Song of Bernadette
+1821,Casablanca,1943,Best Picture,0.0,1.0,Casablanca
+1822,For Whom the Bell Tolls,1943,Best Picture,1.0,0.0,For Whom the Bell Tolls
+1823,Heaven Can Wait,1943,Best Picture,1.0,0.0,Heaven Can Wait
+1824,The Human Comedy,1943,Best Picture,1.0,0.0,The Human Comedy
+1825,In Which We Serve,1943,Best Picture,1.0,0.0,In Which We Serve
+1826,Madame Curie,1943,Best Picture,1.0,0.0,Madame Curie
+1827,The More the Merrier,1943,Best Picture,1.0,0.0,The More the Merrier
+1828,The Ox-Bow Incident,1943,Best Picture,1.0,0.0,The Ox-Bow Incident
+1829,The Song of Bernadette,1943,Best Picture,1.0,0.0,The Song of Bernadette
+1830,Watch on the Rhine,1943,Best Picture,1.0,0.0,Watch on the Rhine
+1831,Yankee Doodle Dandy,1942,Actor -- Leading Role,0.0,1.0,James Cagney
+1832,Random Harvest,1942,Actor -- Leading Role,1.0,0.0,Ronald Colman
+1833,The Pride of the Yankees,1942,Actor -- Leading Role,1.0,0.0,Gary Cooper
+1834,Mrs. Miniver,1942,Actor -- Leading Role,1.0,0.0,Walter Pidgeon
+1835,The Pied Piper,1942,Actor -- Leading Role,1.0,0.0,Monty Woolley
+1836,"Now, Voyager",1942,Actress -- Leading Role,1.0,0.0,Bette Davis
+1837,Mrs. Miniver,1942,Actress -- Leading Role,0.0,1.0,Greer Garson
+1838,Woman of the Year,1942,Actress -- Leading Role,1.0,0.0,Katharine Hepburn
+1839,My Sister Eileen,1942,Actress -- Leading Role,1.0,0.0,Rosalind Russell
+1840,The Pride of the Yankees,1942,Actress -- Leading Role,1.0,0.0,Teresa Wright
+1841,Kings Row,1942,Cinematography,1.0,0.0,Kings Row
+1842,The Magnificent Ambersons,1942,Cinematography,1.0,0.0,The Magnificent Ambersons
+1843,Mrs. Miniver,1942,Cinematography,0.0,1.0,Mrs. Miniver
+1844,Moontide,1942,Cinematography,1.0,0.0,Moontide
+1845,The Pied Piper,1942,Cinematography,1.0,0.0,The Pied Piper
+1846,The Pride of the Yankees,1942,Cinematography,1.0,0.0,The Pride of the Yankees
+1847,"Take a Letter, Darling",1942,Cinematography,1.0,0.0,"Take a Letter, Darling"
+1848,The Talk of the Town,1942,Cinematography,1.0,0.0,The Talk of the Town
+1849,Ten Gentlemen from West Point,1942,Cinematography,1.0,0.0,Ten Gentlemen from West Point
+1850,This above All,1942,Cinematography,1.0,0.0,This above All
+1851,Arabian Nights,1942,Cinematography,1.0,0.0,Arabian Nights
+1852,The Black Swan,1942,Cinematography,0.0,1.0,The Black Swan
+1853,Captains of the Clouds,1942,Cinematography,1.0,0.0,Captains of the Clouds
+1854,Jungle Book,1942,Cinematography,1.0,0.0,Jungle Book
+1855,Reap the Wild Wind,1942,Cinematography,1.0,0.0,Reap the Wild Wind
+1856,To the Shores of Tripoli,1942,Cinematography,1.0,0.0,To the Shores of Tripoli
+1857,Kings Row,1942,Directing,1.0,0.0,Kings Row
+1858,Mrs. Miniver,1942,Directing,0.0,1.0,Mrs. Miniver
+1859,Random Harvest,1942,Directing,1.0,0.0,Random Harvest
+1860,Wake Island,1942,Directing,1.0,0.0,Wake Island
+1861,Yankee Doodle Dandy,1942,Directing,1.0,0.0,Yankee Doodle Dandy
+1862,The Invaders,1942,Best Picture,1.0,0.0,The Invaders
+1863,Kings Row,1942,Best Picture,1.0,0.0,Kings Row
+1864,The Magnificent Ambersons,1942,Best Picture,1.0,0.0,The Magnificent Ambersons
+1865,Mrs. Miniver,1942,Best Picture,0.0,1.0,Mrs. Miniver
+1866,The Pied Piper,1942,Best Picture,1.0,0.0,The Pied Piper
+1867,The Pride of the Yankees,1942,Best Picture,1.0,0.0,The Pride of the Yankees
+1868,Random Harvest,1942,Best Picture,1.0,0.0,Random Harvest
+1869,The Talk of the Town,1942,Best Picture,1.0,0.0,The Talk of the Town
+1870,Wake Island,1942,Best Picture,1.0,0.0,Wake Island
+1871,Yankee Doodle Dandy,1942,Best Picture,1.0,0.0,Yankee Doodle Dandy
+1872,Sergeant York,1941,Actor -- Leading Role,0.0,1.0,Gary Cooper
+1873,Penny Serenade,1941,Actor -- Leading Role,1.0,0.0,Cary Grant
+1874,All That Money Can Buy,1941,Actor -- Leading Role,1.0,0.0,Walter Huston
+1875,Here Comes Mr. Jordan,1941,Actor -- Leading Role,1.0,0.0,Robert Montgomery
+1876,Citizen Kane,1941,Actor -- Leading Role,1.0,0.0,Orson Welles
+1877,The Little Foxes,1941,Actress -- Leading Role,1.0,0.0,Bette Davis
+1878,Hold Back the Dawn,1941,Actress -- Leading Role,1.0,0.0,Olivia de Havilland
+1879,Suspicion,1941,Actress -- Leading Role,0.0,1.0,Joan Fontaine
+1880,Blossoms in the Dust,1941,Actress -- Leading Role,1.0,0.0,Greer Garson
+1881,Ball of Fire,1941,Actress -- Leading Role,1.0,0.0,Barbara Stanwyck
+1882,The Chocolate Soldier,1941,Cinematography,1.0,0.0,The Chocolate Soldier
+1883,Citizen Kane,1941,Cinematography,1.0,0.0,Citizen Kane
+1884,Dr. Jekyll and Mr. Hyde,1941,Cinematography,1.0,0.0,Dr. Jekyll and Mr. Hyde
+1885,Here Comes Mr. Jordan,1941,Cinematography,1.0,0.0,Here Comes Mr. Jordan
+1886,Hold Back the Dawn,1941,Cinematography,1.0,0.0,Hold Back the Dawn
+1887,How Green Was My Valley,1941,Cinematography,0.0,1.0,How Green Was My Valley
+1888,Sergeant York,1941,Cinematography,1.0,0.0,Sergeant York
+1889,Sun Valley Serenade,1941,Cinematography,1.0,0.0,Sun Valley Serenade
+1890,Sundown,1941,Cinematography,1.0,0.0,Sundown
+1891,That Hamilton Woman,1941,Cinematography,1.0,0.0,That Hamilton Woman
+1892,Aloma of the South Seas,1941,Cinematography,1.0,0.0,Aloma of the South Seas
+1893,Billy the Kid,1941,Cinematography,1.0,0.0,Billy the Kid
+1894,Blood and Sand,1941,Cinematography,0.0,1.0,Blood and Sand
+1895,Blossoms in the Dust,1941,Cinematography,1.0,0.0,Blossoms in the Dust
+1896,Dive Bomber,1941,Cinematography,1.0,0.0,Dive Bomber
+1897,Louisiana Purchase,1941,Cinematography,1.0,0.0,Louisiana Purchase
+1898,Citizen Kane,1941,Directing,1.0,0.0,Citizen Kane
+1899,Here Comes Mr. Jordan,1941,Directing,1.0,0.0,Here Comes Mr. Jordan
+1900,How Green Was My Valley,1941,Directing,0.0,1.0,How Green Was My Valley
+1901,The Little Foxes,1941,Directing,1.0,0.0,The Little Foxes
+1902,Sergeant York,1941,Directing,1.0,0.0,Sergeant York
+1903,Blossoms in the Dust,1941,Best Picture,1.0,0.0,Blossoms in the Dust
+1904,Citizen Kane,1941,Best Picture,1.0,0.0,Citizen Kane
+1905,Here Comes Mr. Jordan,1941,Best Picture,1.0,0.0,Here Comes Mr. Jordan
+1906,Hold Back the Dawn,1941,Best Picture,1.0,0.0,Hold Back the Dawn
+1907,How Green Was My Valley,1941,Best Picture,0.0,1.0,How Green Was My Valley
+1908,The Little Foxes,1941,Best Picture,1.0,0.0,The Little Foxes
+1909,The Maltese Falcon,1941,Best Picture,1.0,0.0,The Maltese Falcon
+1910,One Foot in Heaven,1941,Best Picture,1.0,0.0,One Foot in Heaven
+1911,Sergeant York,1941,Best Picture,1.0,0.0,Sergeant York
+1912,Suspicion,1941,Best Picture,1.0,0.0,Suspicion
+1913,The Great Dictator,1940,Actor -- Leading Role,1.0,0.0,Charles Chaplin
+1914,The Grapes of Wrath,1940,Actor -- Leading Role,1.0,0.0,Henry Fonda
+1915,Abe Lincoln in Illinois,1940,Actor -- Leading Role,1.0,0.0,Raymond Massey
+1916,Rebecca,1940,Actor -- Leading Role,1.0,0.0,Laurence Olivier
+1917,The Philadelphia Story,1940,Actor -- Leading Role,0.0,1.0,James Stewart
+1918,The Letter,1940,Actress -- Leading Role,1.0,0.0,Bette Davis
+1919,Rebecca,1940,Actress -- Leading Role,1.0,0.0,Joan Fontaine
+1920,The Philadelphia Story,1940,Actress -- Leading Role,1.0,0.0,Katharine Hepburn
+1921,Kitty Foyle,1940,Actress -- Leading Role,0.0,1.0,Ginger Rogers
+1922,Our Town,1940,Actress -- Leading Role,1.0,0.0,Martha Scott
+1923,Abe Lincoln in Illinois,1940,Cinematography,1.0,0.0,Abe Lincoln in Illinois
+1924,"All This, and Heaven Too",1940,Cinematography,1.0,0.0,"All This, and Heaven Too"
+1925,"Arise, My Love",1940,Cinematography,1.0,0.0,"Arise, My Love"
+1926,Boom Town,1940,Cinematography,1.0,0.0,Boom Town
+1927,Foreign Correspondent,1940,Cinematography,1.0,0.0,Foreign Correspondent
+1928,The Letter,1940,Cinematography,1.0,0.0,The Letter
+1929,The Long Voyage Home,1940,Cinematography,1.0,0.0,The Long Voyage Home
+1930,Rebecca,1940,Cinematography,0.0,1.0,Rebecca
+1931,Spring Parade,1940,Cinematography,1.0,0.0,Spring Parade
+1932,Waterloo Bridge,1940,Cinematography,1.0,0.0,Waterloo Bridge
+1933,Bitter Sweet,1940,Cinematography,1.0,0.0,Bitter Sweet
+1934,The Blue Bird,1940,Cinematography,1.0,0.0,The Blue Bird
+1935,Down Argentine Way,1940,Cinematography,1.0,0.0,Down Argentine Way
+1936,North West Mounted Police,1940,Cinematography,1.0,0.0,North West Mounted Police
+1937,Northwest Passage,1940,Cinematography,1.0,0.0,Northwest Passage
+1938,The Thief of Bagdad,1940,Cinematography,0.0,1.0,The Thief of Bagdad
+1939,The Grapes of Wrath,1940,Directing,0.0,1.0,The Grapes of Wrath
+1940,Kitty Foyle,1940,Directing,1.0,0.0,Kitty Foyle
+1941,The Letter,1940,Directing,1.0,0.0,The Letter
+1942,The Philadelphia Story,1940,Directing,1.0,0.0,The Philadelphia Story
+1943,Rebecca,1940,Directing,1.0,0.0,Rebecca
+1944,"All This, and Heaven Too",1940,Best Picture,1.0,0.0,"All This, and Heaven Too"
+1945,Foreign Correspondent,1940,Best Picture,1.0,0.0,Foreign Correspondent
+1946,The Grapes of Wrath,1940,Best Picture,1.0,0.0,The Grapes of Wrath
+1947,The Great Dictator,1940,Best Picture,1.0,0.0,The Great Dictator
+1948,Kitty Foyle,1940,Best Picture,1.0,0.0,Kitty Foyle
+1949,The Letter,1940,Best Picture,1.0,0.0,The Letter
+1950,The Long Voyage Home,1940,Best Picture,1.0,0.0,The Long Voyage Home
+1951,Our Town,1940,Best Picture,1.0,0.0,Our Town
+1952,The Philadelphia Story,1940,Best Picture,1.0,0.0,The Philadelphia Story
+1953,Rebecca,1940,Best Picture,0.0,1.0,Rebecca
+1954,"Goodbye, Mr. Chips",1939,Actor -- Leading Role,0.0,1.0,Robert Donat
+1955,Gone with the Wind,1939,Actor -- Leading Role,1.0,0.0,Clark Gable
+1956,Wuthering Heights,1939,Actor -- Leading Role,1.0,0.0,Laurence Olivier
+1957,Babes in Arms,1939,Actor -- Leading Role,1.0,0.0,Mickey Rooney
+1958,Mr. Smith Goes to Washington,1939,Actor -- Leading Role,1.0,0.0,James Stewart
+1959,Dark Victory,1939,Actress -- Leading Role,1.0,0.0,Bette Davis
+1960,Love Affair,1939,Actress -- Leading Role,1.0,0.0,Irene Dunne
+1961,Ninotchka,1939,Actress -- Leading Role,1.0,0.0,Greta Garbo
+1962,"Goodbye, Mr. Chips",1939,Actress -- Leading Role,1.0,0.0,Greer Garson
+1963,Gone with the Wind,1939,Actress -- Leading Role,0.0,1.0,Vivien Leigh
+1964,First Love,1939,Cinematography,1.0,0.0,First Love
+1965,The Great Victor Herbert,1939,Cinematography,1.0,0.0,The Great Victor Herbert
+1966,Gunga Din,1939,Cinematography,1.0,0.0,Gunga Din
+1967,Intermezzo,1939,Cinematography,1.0,0.0,Intermezzo
+1968,Juarez,1939,Cinematography,1.0,0.0,Juarez
+1969,Lady of the Tropics,1939,Cinematography,1.0,0.0,Lady of the Tropics
+1970,Of Mice and Men,1939,Cinematography,1.0,0.0,Of Mice and Men
+1971,Only Angels Have Wings,1939,Cinematography,1.0,0.0,Only Angels Have Wings
+1972,The Rains Came,1939,Cinematography,1.0,0.0,The Rains Came
+1973,Stagecoach,1939,Cinematography,1.0,0.0,Stagecoach
+1974,Wuthering Heights,1939,Cinematography,0.0,1.0,Wuthering Heights
+1975,Drums along the Mohawk,1939,Cinematography,1.0,0.0,Drums along the Mohawk
+1976,Four Feathers,1939,Cinematography,1.0,0.0,Four Feathers
+1977,Gone with the Wind,1939,Cinematography,0.0,1.0,Gone with the Wind
+1978,The Mikado,1939,Cinematography,1.0,0.0,The Mikado
+1979,The Private Lives of Elizabeth and Essex,1939,Cinematography,1.0,0.0,The Private Lives of Elizabeth and Essex
+1980,The Wizard of Oz,1939,Cinematography,1.0,0.0,The Wizard of Oz
+1981,Gone with the Wind,1939,Directing,0.0,1.0,Gone with the Wind
+1982,"Goodbye, Mr. Chips",1939,Directing,1.0,0.0,"Goodbye, Mr. Chips"
+1983,Mr. Smith Goes to Washington,1939,Directing,1.0,0.0,Mr. Smith Goes to Washington
+1984,Stagecoach,1939,Directing,1.0,0.0,Stagecoach
+1985,Wuthering Heights,1939,Directing,1.0,0.0,Wuthering Heights
+1986,Dark Victory,1939,Best Picture,1.0,0.0,Dark Victory
+1987,Gone with the Wind,1939,Best Picture,0.0,1.0,Gone with the Wind
+1988,"Goodbye, Mr. Chips",1939,Best Picture,1.0,0.0,"Goodbye, Mr. Chips"
+1989,Love Affair,1939,Best Picture,1.0,0.0,Love Affair
+1990,Mr. Smith Goes to Washington,1939,Best Picture,1.0,0.0,Mr. Smith Goes to Washington
+1991,Ninotchka,1939,Best Picture,1.0,0.0,Ninotchka
+1992,Of Mice and Men,1939,Best Picture,1.0,0.0,Of Mice and Men
+1993,Stagecoach,1939,Best Picture,1.0,0.0,Stagecoach
+1994,The Wizard of Oz,1939,Best Picture,1.0,0.0,The Wizard of Oz
+1995,Wuthering Heights,1939,Best Picture,1.0,0.0,Wuthering Heights
+1996,Algiers,1938,Actor -- Leading Role,1.0,0.0,Charles Boyer
+1997,Angels with Dirty Faces,1938,Actor -- Leading Role,1.0,0.0,James Cagney
+1998,The Citadel,1938,Actor -- Leading Role,1.0,0.0,Robert Donat
+1999,Pygmalion,1938,Actor -- Leading Role,1.0,0.0,Leslie Howard
+2000,Boys Town,1938,Actor -- Leading Role,0.0,1.0,Spencer Tracy
+2001,White Banners,1938,Actress -- Leading Role,1.0,0.0,Fay Bainter
+2002,Jezebel,1938,Actress -- Leading Role,0.0,1.0,Bette Davis
+2003,Pygmalion,1938,Actress -- Leading Role,1.0,0.0,Wendy Hiller
+2004,Marie Antoinette,1938,Actress -- Leading Role,1.0,0.0,Norma Shearer
+2005,Three Comrades,1938,Actress -- Leading Role,1.0,0.0,Margaret Sullavan
+2006,Algiers,1938,Cinematography,1.0,0.0,Algiers
+2007,Army Girl,1938,Cinematography,1.0,0.0,Army Girl
+2008,The Buccaneer,1938,Cinematography,1.0,0.0,The Buccaneer
+2009,The Great Waltz,1938,Cinematography,0.0,1.0,The Great Waltz
+2010,Jezebel,1938,Cinematography,1.0,0.0,Jezebel
+2011,Mad about Music,1938,Cinematography,1.0,0.0,Mad about Music
+2012,Merrily We Live,1938,Cinematography,1.0,0.0,Merrily We Live
+2013,Suez,1938,Cinematography,1.0,0.0,Suez
+2014,Vivacious Lady,1938,Cinematography,1.0,0.0,Vivacious Lady
+2015,You Can't Take It with You,1938,Cinematography,1.0,0.0,You Can't Take It with You
+2016,The Young in Heart,1938,Cinematography,1.0,0.0,The Young in Heart
+2017,"To Oliver Marsh and Allen Davey for the color cinematography of the Metro-Goldwyn-Mayer production, Sweethearts.",1938,Cinematography,0.0,1.0,"To Oliver Marsh and Allen Davey for the color cinematography of the Metro-Goldwyn-Mayer production, Sweethearts."
+2018,Angels with Dirty Faces,1938,Directing,1.0,0.0,Angels with Dirty Faces
+2019,Boys Town,1938,Directing,1.0,0.0,Boys Town
+2020,The Citadel,1938,Directing,1.0,0.0,The Citadel
+2021,Four Daughters,1938,Directing,1.0,0.0,Four Daughters
+2022,You Can't Take It with You,1938,Directing,0.0,1.0,You Can't Take It with You
+2023,The Adventures of Robin Hood,1938,Best Picture,1.0,0.0,The Adventures of Robin Hood
+2024,Alexander's Ragtime Band,1938,Best Picture,1.0,0.0,Alexander's Ragtime Band
+2025,Boys Town,1938,Best Picture,1.0,0.0,Boys Town
+2026,The Citadel,1938,Best Picture,1.0,0.0,The Citadel
+2027,Four Daughters,1938,Best Picture,1.0,0.0,Four Daughters
+2028,Grand Illusion,1938,Best Picture,1.0,0.0,Grand Illusion
+2029,Jezebel,1938,Best Picture,1.0,0.0,Jezebel
+2030,Pygmalion,1938,Best Picture,1.0,0.0,Pygmalion
+2031,Test Pilot,1938,Best Picture,1.0,0.0,Test Pilot
+2032,You Can't Take It with You,1938,Best Picture,0.0,1.0,You Can't Take It with You
+2033,Conquest,1937,Actor -- Leading Role,1.0,0.0,Charles Boyer
+2034,A Star Is Born,1937,Actor -- Leading Role,1.0,0.0,Fredric March
+2035,Night Must Fall,1937,Actor -- Leading Role,1.0,0.0,Robert Montgomery
+2036,The Life of Emile Zola,1937,Actor -- Leading Role,1.0,0.0,Paul Muni
+2037,Captains Courageous,1937,Actor -- Leading Role,0.0,1.0,Spencer Tracy
+2038,The Awful Truth,1937,Actress -- Leading Role,1.0,0.0,Irene Dunne
+2039,Camille,1937,Actress -- Leading Role,1.0,0.0,Greta Garbo
+2040,A Star Is Born,1937,Actress -- Leading Role,1.0,0.0,Janet Gaynor
+2041,The Good Earth,1937,Actress -- Leading Role,0.0,1.0,Luise Rainer
+2042,Stella Dallas,1937,Actress -- Leading Role,1.0,0.0,Barbara Stanwyck
+2043,Dead End,1937,Cinematography,1.0,0.0,Dead End
+2044,The Good Earth,1937,Cinematography,0.0,1.0,The Good Earth
+2045,Wings over Honolulu,1937,Cinematography,1.0,0.0,Wings over Honolulu
+2046,To W. Howard Greene for the color photography of A Star Is Born. (This Award was recommended by a committee of leading cinematographers after viewing all the color pictures made during the year.),1937,Cinematography,0.0,1.0,To W. Howard Greene for the color photography of A Star Is Born. (This Award was recommended by a committee of leading cinematographers after viewing all the color pictures made during the year.)
+2047,The Awful Truth,1937,Directing,0.0,1.0,The Awful Truth
+2048,The Good Earth,1937,Directing,1.0,0.0,The Good Earth
+2049,The Life of Emile Zola,1937,Directing,1.0,0.0,The Life of Emile Zola
+2050,Stage Door,1937,Directing,1.0,0.0,Stage Door
+2051,A Star Is Born,1937,Directing,1.0,0.0,A Star Is Born
+2052,The Awful Truth,1937,Best Picture,1.0,0.0,The Awful Truth
+2053,Captains Courageous,1937,Best Picture,1.0,0.0,Captains Courageous
+2054,Dead End,1937,Best Picture,1.0,0.0,Dead End
+2055,The Good Earth,1937,Best Picture,1.0,0.0,The Good Earth
+2056,In Old Chicago,1937,Best Picture,1.0,0.0,In Old Chicago
+2057,The Life of Emile Zola,1937,Best Picture,0.0,1.0,The Life of Emile Zola
+2058,Lost Horizon,1937,Best Picture,1.0,0.0,Lost Horizon
+2059,One Hundred Men and a Girl,1937,Best Picture,1.0,0.0,One Hundred Men and a Girl
+2060,Stage Door,1937,Best Picture,1.0,0.0,Stage Door
+2061,A Star Is Born,1937,Best Picture,1.0,0.0,A Star Is Born
+2062,Mr. Deeds Goes to Town,1936,Actor -- Leading Role,1.0,0.0,Gary Cooper
+2063,Dodsworth,1936,Actor -- Leading Role,1.0,0.0,Walter Huston
+2064,The Story of Louis Pasteur,1936,Actor -- Leading Role,0.0,1.0,Paul Muni
+2065,My Man Godfrey,1936,Actor -- Leading Role,1.0,0.0,William Powell
+2066,San Francisco,1936,Actor -- Leading Role,1.0,0.0,Spencer Tracy
+2067,Theodora Goes Wild,1936,Actress -- Leading Role,1.0,0.0,Irene Dunne
+2068,Valiant Is the Word for Carrie,1936,Actress -- Leading Role,1.0,0.0,Gladys George
+2069,My Man Godfrey,1936,Actress -- Leading Role,1.0,0.0,Carole Lombard
+2070,The Great Ziegfeld,1936,Actress -- Leading Role,0.0,1.0,Luise Rainer
+2071,Romeo and Juliet,1936,Actress -- Leading Role,1.0,0.0,Norma Shearer
+2072,Anthony Adverse,1936,Cinematography,0.0,1.0,Anthony Adverse
+2073,The General Died at Dawn,1936,Cinematography,1.0,0.0,The General Died at Dawn
+2074,The Gorgeous Hussy,1936,Cinematography,1.0,0.0,The Gorgeous Hussy
+2075,"To W. Howard Greene and Harold Rosson for the color cinematography of the Selznick International Production, The Garden of Allah.",1936,Cinematography,0.0,1.0,"To W. Howard Greene and Harold Rosson for the color cinematography of the Selznick International Production, The Garden of Allah."
+2076,Dodsworth,1936,Directing,1.0,0.0,Dodsworth
+2077,The Great Ziegfeld,1936,Directing,1.0,0.0,The Great Ziegfeld
+2078,Mr. Deeds Goes to Town,1936,Directing,0.0,1.0,Mr. Deeds Goes to Town
+2079,My Man Godfrey,1936,Directing,1.0,0.0,My Man Godfrey
+2080,San Francisco,1936,Directing,1.0,0.0,San Francisco
+2081,Anthony Adverse,1936,Best Picture,1.0,0.0,Anthony Adverse
+2082,Dodsworth,1936,Best Picture,1.0,0.0,Dodsworth
+2083,The Great Ziegfeld,1936,Best Picture,0.0,1.0,The Great Ziegfeld
+2084,Libeled Lady,1936,Best Picture,1.0,0.0,Libeled Lady
+2085,Mr. Deeds Goes to Town,1936,Best Picture,1.0,0.0,Mr. Deeds Goes to Town
+2086,Romeo and Juliet,1936,Best Picture,1.0,0.0,Romeo and Juliet
+2087,San Francisco,1936,Best Picture,1.0,0.0,San Francisco
+2088,The Story of Louis Pasteur,1936,Best Picture,1.0,0.0,The Story of Louis Pasteur
+2089,A Tale of Two Cities,1936,Best Picture,1.0,0.0,A Tale of Two Cities
+2090,Three Smart Girls,1936,Best Picture,1.0,0.0,Three Smart Girls
+2091,Mutiny on the Bounty,1935,Actor -- Leading Role,1.0,0.0,Clark Gable
+2092,Mutiny on the Bounty,1935,Actor -- Leading Role,1.0,0.0,Charles Laughton
+2093,The Informer,1935,Actor -- Leading Role,0.0,1.0,Victor McLaglen
+2094,Black Fury,1935,Actor -- Leading Role,1.0,0.0,Paul Muni
+2095,Mutiny on the Bounty,1935,Actor -- Leading Role,1.0,0.0,Franchot Tone
+2096,Escape Me Never,1935,Actress -- Leading Role,1.0,0.0,Elisabeth Bergner
+2097,Private Worlds,1935,Actress -- Leading Role,1.0,0.0,Claudette Colbert
+2098,Dangerous,1935,Actress -- Leading Role,0.0,1.0,Bette Davis
+2099,Alice Adams,1935,Actress -- Leading Role,1.0,0.0,Katharine Hepburn
+2100,Becky Sharp,1935,Actress -- Leading Role,1.0,0.0,Miriam Hopkins
+2101,The Dark Angel,1935,Actress -- Leading Role,1.0,0.0,Merle Oberon
+2102,Barbary Coast,1935,Cinematography,1.0,0.0,Barbary Coast
+2103,The Crusades,1935,Cinematography,1.0,0.0,The Crusades
+2104,Les Miserables,1935,Cinematography,1.0,0.0,Les Miserables
+2105,A Midsummer Night's Dream,1935,Cinematography,0.0,1.0,A Midsummer Night's Dream
+2106,Captain Blood,1935,Directing,1.0,0.0,Captain Blood
+2107,The Informer,1935,Directing,0.0,1.0,The Informer
+2108,The Lives of a Bengal Lancer,1935,Directing,1.0,0.0,The Lives of a Bengal Lancer
+2109,Mutiny on the Bounty,1935,Directing,1.0,0.0,Mutiny on the Bounty
+2110,Alice Adams,1935,Best Picture,1.0,0.0,Alice Adams
+2111,Broadway Melody of 1936,1935,Best Picture,1.0,0.0,Broadway Melody of 1936
+2112,Captain Blood,1935,Best Picture,1.0,0.0,Captain Blood
+2113,David Copperfield,1935,Best Picture,1.0,0.0,David Copperfield
+2114,The Informer,1935,Best Picture,1.0,0.0,The Informer
+2115,Les Miserables,1935,Best Picture,1.0,0.0,Les Miserables
+2116,The Lives of a Bengal Lancer,1935,Best Picture,1.0,0.0,The Lives of a Bengal Lancer
+2117,A Midsummer Night's Dream,1935,Best Picture,1.0,0.0,A Midsummer Night's Dream
+2118,Mutiny on the Bounty,1935,Best Picture,0.0,1.0,Mutiny on the Bounty
+2119,Naughty Marietta,1935,Best Picture,1.0,0.0,Naughty Marietta
+2120,Ruggles of Red Gap,1935,Best Picture,1.0,0.0,Ruggles of Red Gap
+2121,Top Hat,1935,Best Picture,1.0,0.0,Top Hat
+2122,It Happened One Night,1934,Actor -- Leading Role,0.0,1.0,Clark Gable
+2123,The Affairs of Cellini,1934,Actor -- Leading Role,1.0,0.0,Frank Morgan
+2124,The Thin Man,1934,Actor -- Leading Role,1.0,0.0,William Powell
+2125,It Happened One Night,1934,Actress -- Leading Role,0.0,1.0,Claudette Colbert
+2126,Of Human Bondage,1934,Actress -- Leading Role,1.0,0.0,Bette Davis
+2127,One Night of Love,1934,Actress -- Leading Role,1.0,0.0,Grace Moore
+2128,The Barretts of Wimpole Street,1934,Actress -- Leading Role,1.0,0.0,Norma Shearer
+2129,The Affairs of Cellini,1934,Cinematography,1.0,0.0,The Affairs of Cellini
+2130,Cleopatra,1934,Cinematography,0.0,1.0,Cleopatra
+2131,Operator 13,1934,Cinematography,1.0,0.0,Operator 13
+2132,It Happened One Night,1934,Directing,0.0,1.0,It Happened One Night
+2133,One Night of Love,1934,Directing,1.0,0.0,One Night of Love
+2134,The Thin Man,1934,Directing,1.0,0.0,The Thin Man
+2135,The Barretts of Wimpole Street,1934,Best Picture,1.0,0.0,The Barretts of Wimpole Street
+2136,Cleopatra,1934,Best Picture,1.0,0.0,Cleopatra
+2137,Flirtation Walk,1934,Best Picture,1.0,0.0,Flirtation Walk
+2138,The Gay Divorcee,1934,Best Picture,1.0,0.0,The Gay Divorcee
+2139,Here Comes the Navy,1934,Best Picture,1.0,0.0,Here Comes the Navy
+2140,The House of Rothschild,1934,Best Picture,1.0,0.0,The House of Rothschild
+2141,Imitation of Life,1934,Best Picture,1.0,0.0,Imitation of Life
+2142,It Happened One Night,1934,Best Picture,0.0,1.0,It Happened One Night
+2143,One Night of Love,1934,Best Picture,1.0,0.0,One Night of Love
+2144,The Thin Man,1934,Best Picture,1.0,0.0,The Thin Man
+2145,Viva Villa!,1934,Best Picture,1.0,0.0,Viva Villa!
+2146,The White Parade,1934,Best Picture,1.0,0.0,The White Parade
+2147,Berkeley Square,1932/33,Actor -- Leading Role,1.0,0.0,Leslie Howard
+2148,The Private Life of Henry VIII,1932/33,Actor -- Leading Role,0.0,1.0,Charles Laughton
+2149,I Am a Fugitive from a Chain Gang,1932/33,Actor -- Leading Role,1.0,0.0,Paul Muni
+2150,Morning Glory,1932/33,Actress -- Leading Role,0.0,1.0,Katharine Hepburn
+2151,Lady for a Day,1932/33,Actress -- Leading Role,1.0,0.0,May Robson
+2152,Cavalcade,1932/33,Actress -- Leading Role,1.0,0.0,Diana Wynyard
+2153,A Farewell to Arms,1932/33,Cinematography,0.0,1.0,A Farewell to Arms
+2154,Reunion in Vienna,1932/33,Cinematography,1.0,0.0,Reunion in Vienna
+2155,The Sign of the Cross,1932/33,Cinematography,1.0,0.0,The Sign of the Cross
+2156,Cavalcade,1932/33,Directing,0.0,1.0,Cavalcade
+2157,Lady for a Day,1932/33,Directing,1.0,0.0,Lady for a Day
+2158,Little Women,1932/33,Directing,1.0,0.0,Little Women
+2159,Cavalcade,1932/33,Best Picture,0.0,1.0,Cavalcade
+2160,A Farewell to Arms,1932/33,Best Picture,1.0,0.0,A Farewell to Arms
+2161,42nd Street,1932/33,Best Picture,1.0,0.0,42nd Street
+2162,I Am a Fugitive from a Chain Gang,1932/33,Best Picture,1.0,0.0,I Am a Fugitive from a Chain Gang
+2163,Lady for a Day,1932/33,Best Picture,1.0,0.0,Lady for a Day
+2164,Little Women,1932/33,Best Picture,1.0,0.0,Little Women
+2165,The Private Life of Henry VIII,1932/33,Best Picture,1.0,0.0,The Private Life of Henry VIII
+2166,She Done Him Wrong,1932/33,Best Picture,1.0,0.0,She Done Him Wrong
+2167,Smilin' Through,1932/33,Best Picture,1.0,0.0,Smilin' Through
+2168,State Fair,1932/33,Best Picture,1.0,0.0,State Fair
+2169,The Champ,1931/32,Actor -- Leading Role,0.0,1.0,Wallace Beery
+2170,The Guardsman,1931/32,Actor -- Leading Role,1.0,0.0,Alfred Lunt
+2171,Dr. Jekyll and Mr. Hyde,1931/32,Actor -- Leading Role,0.0,1.0,Fredric March
+2172,Emma,1931/32,Actress -- Leading Role,1.0,0.0,Marie Dressler
+2173,The Guardsman,1931/32,Actress -- Leading Role,1.0,0.0,Lynn Fontanne
+2174,The Sin of Madelon Claudet,1931/32,Actress -- Leading Role,0.0,1.0,Helen Hayes
+2175,Arrowsmith,1931/32,Cinematography,1.0,0.0,Arrowsmith
+2176,Dr. Jekyll and Mr. Hyde,1931/32,Cinematography,1.0,0.0,Dr. Jekyll and Mr. Hyde
+2177,Shanghai Express,1931/32,Cinematography,0.0,1.0,Shanghai Express
+2178,Bad Girl,1931/32,Directing,0.0,1.0,Bad Girl
+2179,The Champ,1931/32,Directing,1.0,0.0,The Champ
+2180,Shanghai Express,1931/32,Directing,1.0,0.0,Shanghai Express
+2181,Arrowsmith,1931/32,Best Picture,1.0,0.0,Arrowsmith
+2182,Bad Girl,1931/32,Best Picture,1.0,0.0,Bad Girl
+2183,The Champ,1931/32,Best Picture,1.0,0.0,The Champ
+2184,Five Star Final,1931/32,Best Picture,1.0,0.0,Five Star Final
+2185,Grand Hotel,1931/32,Best Picture,0.0,1.0,Grand Hotel
+2186,One Hour with You,1931/32,Best Picture,1.0,0.0,One Hour with You
+2187,Shanghai Express,1931/32,Best Picture,1.0,0.0,Shanghai Express
+2188,The Smiling Lieutenant,1931/32,Best Picture,1.0,0.0,The Smiling Lieutenant
+2189,A Free Soul,1930/31,Actor -- Leading Role,0.0,1.0,Lionel Barrymore
+2190,Skippy,1930/31,Actor -- Leading Role,1.0,0.0,Jackie Cooper
+2191,Cimarron,1930/31,Actor -- Leading Role,1.0,0.0,Richard Dix
+2192,The Royal Family of Broadway,1930/31,Actor -- Leading Role,1.0,0.0,Fredric March
+2193,The Front Page,1930/31,Actor -- Leading Role,1.0,0.0,Adolphe Menjou
+2194,Morocco,1930/31,Actress -- Leading Role,1.0,0.0,Marlene Dietrich
+2195,Min and Bill,1930/31,Actress -- Leading Role,0.0,1.0,Marie Dressler
+2196,Cimarron,1930/31,Actress -- Leading Role,1.0,0.0,Irene Dunne
+2197,Holiday,1930/31,Actress -- Leading Role,1.0,0.0,Ann Harding
+2198,A Free Soul,1930/31,Actress -- Leading Role,1.0,0.0,Norma Shearer
+2199,Cimarron,1930/31,Cinematography,1.0,0.0,Cimarron
+2200,Morocco,1930/31,Cinematography,1.0,0.0,Morocco
+2201,The Right to Love,1930/31,Cinematography,1.0,0.0,The Right to Love
+2202,Svengali,1930/31,Cinematography,1.0,0.0,Svengali
+2203,Tabu,1930/31,Cinematography,0.0,1.0,Tabu
+2204,Cimarron,1930/31,Directing,1.0,0.0,Cimarron
+2205,A Free Soul,1930/31,Directing,1.0,0.0,A Free Soul
+2206,The Front Page,1930/31,Directing,1.0,0.0,The Front Page
+2207,Morocco,1930/31,Directing,1.0,0.0,Morocco
+2208,Skippy,1930/31,Directing,0.0,1.0,Skippy
+2209,Cimarron,1930/31,Best Picture,0.0,1.0,Cimarron
+2210,East Lynne,1930/31,Best Picture,1.0,0.0,East Lynne
+2211,The Front Page,1930/31,Best Picture,1.0,0.0,The Front Page
+2212,Skippy,1930/31,Best Picture,1.0,0.0,Skippy
+2213,Trader Horn,1930/31,Best Picture,1.0,0.0,Trader Horn
+2214,Disraeli,1929/30,Actor -- Leading Role,0.0,1.0,George Arliss
+2215,The Green Goddess,1929/30,Actor -- Leading Role,1.0,0.0,George Arliss
+2216,The Big House,1929/30,Actor -- Leading Role,1.0,0.0,Wallace Beery
+2217,The Big Pond,1929/30,Actor -- Leading Role,1.0,0.0,Maurice Chevalier
+2218,Bulldog Drummond,1929/30,Actor -- Leading Role,1.0,0.0,Ronald Colman
+2219,The Rogue Song,1929/30,Actor -- Leading Role,1.0,0.0,Lawrence Tibbett
+2220,The Devil's Holiday,1929/30,Actress -- Leading Role,1.0,0.0,Nancy Carroll
+2221,Sarah and Son,1929/30,Actress -- Leading Role,1.0,0.0,Ruth Chatterton
+2222,Anna Christie,1929/30,Actress -- Leading Role,1.0,0.0,Greta Garbo
+2223,The Divorcee,1929/30,Actress -- Leading Role,0.0,1.0,Norma Shearer
+2224,Their Own Desire,1929/30,Actress -- Leading Role,1.0,0.0,Norma Shearer
+2225,The Trespasser,1929/30,Actress -- Leading Role,1.0,0.0,Gloria Swanson
+2226,All Quiet on the Western Front,1929/30,Cinematography,1.0,0.0,All Quiet on the Western Front
+2227,Anna Christie,1929/30,Cinematography,1.0,0.0,Anna Christie
+2228,Hell's Angels,1929/30,Cinematography,1.0,0.0,Hell's Angels
+2229,The Love Parade,1929/30,Cinematography,1.0,0.0,The Love Parade
+2230,With Byrd at the South Pole,1929/30,Cinematography,0.0,1.0,With Byrd at the South Pole
+2231,Clarence Brown,1929/30,Directing,1.0,0.0,Clarence Brown
+2232,Robert Leonard,1929/30,Directing,1.0,0.0,Robert Leonard
+2233,Ernst Lubitsch,1929/30,Directing,1.0,0.0,Ernst Lubitsch
+2234,Lewis Milestone,1929/30,Directing,0.0,1.0,Lewis Milestone
+2235,King Vidor,1929/30,Directing,1.0,0.0,King Vidor
+2236,All Quiet on the Western Front,1929/30,Best Picture,0.0,1.0,All Quiet on the Western Front
+2237,The Big House,1929/30,Best Picture,1.0,0.0,The Big House
+2238,Disraeli,1929/30,Best Picture,1.0,0.0,Disraeli
+2239,The Divorcee,1929/30,Best Picture,1.0,0.0,The Divorcee
+2240,The Love Parade,1929/30,Best Picture,1.0,0.0,The Love Parade
+2241,Thunderbolt,1928/29,Actor -- Leading Role,1.0,0.0,George Bancroft
+2242,In Old Arizona,1928/29,Actor -- Leading Role,0.0,1.0,Warner Baxter
+2243,Alibi,1928/29,Actor -- Leading Role,1.0,0.0,Chester Morris
+2244,The Valiant,1928/29,Actor -- Leading Role,1.0,0.0,Paul Muni
+2245,The Patriot,1928/29,Actor -- Leading Role,1.0,0.0,Lewis Stone
+2246,Madame X,1928/29,Actress -- Leading Role,1.0,0.0,Ruth Chatterton
+2247,The Barker,1928/29,Actress -- Leading Role,1.0,0.0,Betty Compson
+2248,The Letter,1928/29,Actress -- Leading Role,1.0,0.0,Jeanne Eagels
+2249,The Divine Lady,1928/29,Actress -- Leading Role,1.0,0.0,Corinne Griffith
+2250,The Broadway Melody,1928/29,Actress -- Leading Role,1.0,0.0,Bessie Love
+2251,Coquette,1928/29,Actress -- Leading Role,0.0,1.0,Mary Pickford
+2252,George Barnes,1928/29,Cinematography,1.0,0.0,George Barnes
+2253,Clyde De Vinna,1928/29,Cinematography,0.0,1.0,Clyde De Vinna
+2254,Arthur Edeson,1928/29,Cinematography,1.0,0.0,Arthur Edeson
+2255,Ernest Palmer,1928/29,Cinematography,1.0,0.0,Ernest Palmer
+2256,John Seitz,1928/29,Cinematography,1.0,0.0,John Seitz
+2257,Lionel Barrymore,1928/29,Directing,1.0,0.0,Lionel Barrymore
+2258,Harry Beaumont,1928/29,Directing,1.0,0.0,Harry Beaumont
+2259,Irving Cummings,1928/29,Directing,1.0,0.0,Irving Cummings
+2260,Frank Lloyd,1928/29,Directing,0.0,1.0,Frank Lloyd
+2261,Frank Lloyd,1928/29,Directing,1.0,0.0,Frank Lloyd
+2262,Ernst Lubitsch,1928/29,Directing,1.0,0.0,Ernst Lubitsch
+2263,Feature Productions,1928/29,Best Picture,1.0,0.0,Feature Productions
+2264,Fox,1928/29,Best Picture,1.0,0.0,Fox
+2265,Metro-Goldwyn-Mayer,1928/29,Best Picture,0.0,1.0,Metro-Goldwyn-Mayer
+2266,Metro-Goldwyn-Mayer,1928/29,Best Picture,1.0,0.0,Metro-Goldwyn-Mayer
+2267,Paramount Famous Lasky,1928/29,Best Picture,1.0,0.0,Paramount Famous Lasky
+2268,The Noose,1927/28,Actor -- Leading Role,1.0,0.0,Richard Barthelmess
+2269,The Last Command,1927/28,Actor -- Leading Role,0.0,1.0,Emil Jannings
+2270,nan,1927/28,Actor -- Leading Role,0.0,1.0,"To Charles Chaplin, for acting, writing, directing and producing The Circus.[NOTE: The Academy Board of Judges on merit awards for individual achievements in motion picture arts during the year ending August 1, 1928, unanimously decided that your name should be removed from the competitive classes, and that a special first award be conferred upon you for writing, acting, directing and producing The Circus. The collective accomplishments thus displayed place you in a class by yourself. (Letter from the Academy to Mr. Chaplin, dated February 19, 1929.)]"
+2271,A Ship Comes In,1927/28,Actress -- Leading Role,1.0,0.0,Louise Dresser
+2272,7th Heaven,1927/28,Actress -- Leading Role,0.0,1.0,Janet Gaynor
+2273,Sadie Thompson,1927/28,Actress -- Leading Role,1.0,0.0,Gloria Swanson
+2274,George Barnes,1927/28,Cinematography,1.0,0.0,George Barnes
+2275,Charles Rosher,1927/28,Cinematography,0.0,1.0,Charles Rosher
+2276,Karl Struss,1927/28,Cinematography,0.0,1.0,Karl Struss
+2277,Lewis Milestone,1927/28,Directing,0.0,1.0,Lewis Milestone
+2278,Ted Wilde,1927/28,Directing,1.0,0.0,Ted Wilde
+2279,Frank Borzage,1927/28,Directing,0.0,1.0,Frank Borzage
+2280,Herbert Brenon,1927/28,Directing,1.0,0.0,Herbert Brenon
+2281,King Vidor,1927/28,Directing,1.0,0.0,King Vidor
+2282,"To Charles Chaplin, for acting, writing, directing and producing The Circus.[NOTE: The Academy Board of Judges on merit awards for individual achievements in motion picture arts during the year ending August 1, 1928, unanimously decided that your name should be removed from the competitive classes, and that a special first award be conferred upon you for writing, acting, directing and producing The Circus. The collective accomplishments thus displayed place you in a class by yourself. (Letter from the Academy to Mr. Chaplin, dated February 19, 1929.)]",1927/28,Directing,0.0,1.0,"To Charles Chaplin, for acting, writing, directing and producing The Circus.[NOTE: The Academy Board of Judges on merit awards for individual achievements in motion picture arts during the year ending August 1, 1928, unanimously decided that your name should be removed from the competitive classes, and that a special first award be conferred upon you for writing, acting, directing and producing The Circus. The collective accomplishments thus displayed place you in a class by yourself. (Letter from the Academy to Mr. Chaplin, dated February 19, 1929.)]"
+2283,The Caddo Company,1927/28,Best Picture,1.0,0.0,The Caddo Company
+2284,Fox,1927/28,Best Picture,1.0,0.0,Fox
+2285,Paramount Famous Lasky,1927/28,Best Picture,0.0,1.0,Paramount Famous Lasky
