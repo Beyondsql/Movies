@@ -1,0 +1,1263 @@
+,Film,Year,Num_Wins,Num_Nominations,clean_film_name,key
+0,'Round Midnight,1986,0.0,1,roundmidnight,roundmidnight1986
+1,...And Justice for All,1979,0.0,1,andjusticeforall,andjusticeforall1979
+2,12 Angry Men,1957,0.0,2,12angrymen,12angrymen1957
+3,127 Hours,2010,0.0,2,127hours,127hours2010
+4,1776,1972,0.0,1,1776,17761972
+5,1941,1979,0.0,1,1941,19411979
+6,2001: A Space Odyssey,1968,0.0,1,2001:aspaceodyssey,2001:aspaceodyssey1968
+7,21 Grams,2003,0.0,1,21grams,21grams2003
+8,42nd Street,193233,0.0,1,42ndstreet,42ndstreet193233
+9,7th Heaven,192728,1.0,1,7thheaven,7thheaven192728
+10,A Beautiful Mind,2001,2.0,3,abeautifulmind,abeautifulmind2001
+11,A Civil Action,1998,0.0,1,acivilaction,acivilaction1998
+12,A Clockwork Orange,1971,0.0,2,aclockworkorange,aclockworkorange1971
+13,A Cry in the Dark,1988,0.0,1,acryinthedark,acryinthedark1988
+14,A Double Life,1947,1.0,2,adoublelife,adoublelife1947
+15,A Farewell to Arms,193233,1.0,2,afarewelltoarms,afarewelltoarms193233
+16,A Few Good Men,1992,0.0,1,afewgoodmen,afewgoodmen1992
+17,A Fish Called Wanda,1988,0.0,1,afishcalledwanda,afishcalledwanda1988
+18,A Foreign Affair,1948,0.0,1,aforeignaffair,aforeignaffair1948
+19,A Free Soul,193031,1.0,3,afreesoul,afreesoul193031
+20,A Hatful of Rain,1957,0.0,1,ahatfulofrain,ahatfulofrain1957
+21,A Letter to Three Wives,1949,1.0,2,alettertothreewives,alettertothreewives1949
+22,A Little Princess,1995,0.0,1,alittleprincess,alittleprincess1995
+23,A Majority of One,1961,0.0,1,amajorityofone,amajorityofone1961
+24,A Man Called Peter,1955,0.0,1,amancalledpeter,amancalledpeter1955
+25,A Man and a Woman,1966,0.0,2,amanandawoman,amanandawoman1966
+26,A Man for All Seasons,1966,4.0,4,amanforallseasons,amanforallseasons1966
+27,A Midsummer Night's Dream,1935,1.0,2,amidsummernightsdream,amidsummernightsdream1935
+28,A Passage to India,1984,0.0,4,apassagetoindia,apassagetoindia1984
+29,A Patch of Blue,1965,0.0,2,apatchofblue,apatchofblue1965
+30,A Place in the Sun,1951,2.0,5,aplaceinthesun,aplaceinthesun1951
+31,A River Runs through It,1992,1.0,1,ariverrunsthroughit,ariverrunsthroughit1992
+32,A Room with a View,1986,0.0,3,aroomwithaview,aroomwithaview1986
+33,A Serious Man,2009,0.0,1,aseriousman,aseriousman2009
+34,A Ship Comes In,192728,0.0,1,ashipcomesin,ashipcomesin192728
+35,A Single Man,2009,0.0,1,asingleman,asingleman2009
+36,A Soldier's Story,1984,0.0,1,asoldiersstory,asoldiersstory1984
+37,A Song to Remember,1945,0.0,2,asongtoremember,asongtoremember1945
+38,A Special Day,1977,0.0,1,aspecialday,aspecialday1977
+39,A Star Is Born,1937,0.0,4,astarisborn,astarisborn1937
+40,A Star Is Born,1954,0.0,2,astarisborn,astarisborn1954
+41,A Star Is Born,1976,0.0,1,astarisborn,astarisborn1976
+42,A Streetcar Named Desire,1951,1.0,5,astreetcarnameddesire,astreetcarnameddesire1951
+43,A Tale of Two Cities,1936,0.0,1,ataleoftwocities,ataleoftwocities1936
+44,A Thousand Clowns,1965,0.0,1,athousandclowns,athousandclowns1965
+45,A Touch of Class,1973,1.0,2,atouchofclass,atouchofclass1973
+46,A Very Long Engagement,2004,0.0,1,averylongengagement,averylongengagement2004
+47,A Woman under the Influence,1974,0.0,2,awomanundertheinfluence,awomanundertheinfluence1974
+48,Abe Lincoln in Illinois,1940,0.0,2,abelincolninillinois,abelincolninillinois1940
+49,About Schmidt,2002,0.0,1,aboutschmidt,aboutschmidt2002
+50,Absence of Malice,1981,0.0,1,absenceofmalice,absenceofmalice1981
+51,Adaptation,2002,0.0,1,adaptation,adaptation2002
+52,Adventures of Robinson Crusoe,1954,0.0,1,adventuresofrobinsoncrusoe,adventuresofrobinsoncrusoe1954
+53,Affliction,1998,0.0,1,affliction,affliction1998
+54,Afterglow,1997,0.0,1,afterglow,afterglow1997
+55,Agnes of God,1985,0.0,1,agnesofgod,agnesofgod1985
+56,Air Force,1943,0.0,1,airforce,airforce1943
+57,Airport,1970,0.0,2,airport,airport1970
+58,Alexander's Ragtime Band,1938,0.0,1,alexandersragtimeband,alexandersragtimeband1938
+59,Alfie,1966,0.0,2,alfie,alfie1966
+60,Algiers,1938,0.0,2,algiers,algiers1938
+61,Ali,2001,0.0,1,ali,ali2001
+62,Alibi,192829,0.0,1,alibi,alibi192829
+63,Alice Adams,1935,0.0,2,aliceadams,aliceadams1935
+64,Alice Doesn't Live Here Anymore,1974,1.0,1,alicedoesntlivehereanymore,alicedoesntlivehereanymore1974
+65,Alice's Restaurant,1969,0.0,1,alicesrestaurant,alicesrestaurant1969
+66,Aliens,1986,0.0,1,aliens,aliens1986
+67,All Quiet on the Western Front,192930,1.0,2,allquietonthewesternfront,allquietonthewesternfront192930
+68,All That Jazz,1979,0.0,4,allthatjazz,allthatjazz1979
+69,All That Money Can Buy,1941,0.0,1,allthatmoneycanbuy,allthatmoneycanbuy1941
+70,"All This, and Heaven Too",1940,0.0,2,allthisandheaventoo,allthisandheaventoo1940
+71,All about Eve,1950,2.0,5,allabouteve,allabouteve1950
+72,All the Brothers Were Valiant,1953,0.0,1,allthebrotherswerevaliant,allthebrotherswerevaliant1953
+73,All the King's Men,1949,2.0,3,allthekingsmen,allthekingsmen1949
+74,All the President's Men,1976,0.0,2,allthepresidentsmen,allthepresidentsmen1976
+75,Aloma of the South Seas,1941,0.0,1,alomaofthesouthseas,alomaofthesouthseas1941
+76,Amadeus,1984,3.0,5,amadeus,amadeus1984
+77,Amarcord,1975,0.0,1,amarcord,amarcord1975
+78,America America,1963,0.0,2,americaamerica,americaamerica1963
+79,American Beauty,1999,4.0,5,americanbeauty,americanbeauty1999
+80,American Graffiti,1973,0.0,2,americangraffiti,americangraffiti1973
+81,American History X,1998,0.0,1,americanhistoryx,americanhistoryx1998
+82,Amistad,1997,0.0,1,amistad,amistad1997
+83,Amélie,2001,0.0,1,amélie,amélie2001
+84,An Affair to Remember,1957,0.0,1,anaffairtoremember,anaffairtoremember1957
+85,An American in Paris,1951,2.0,3,anamericaninparis,anamericaninparis1951
+86,An Education,2009,0.0,2,aneducation,aneducation2009
+87,An Officer and a Gentleman,1982,0.0,1,anofficerandagentleman,anofficerandagentleman1982
+88,An Unmarried Woman,1978,0.0,2,anunmarriedwoman,anunmarriedwoman1978
+89,Anastasia,1956,1.0,1,anastasia,anastasia1956
+90,Anatomy of a Murder,1959,0.0,3,anatomyofamurder,anatomyofamurder1959
+91,Anchors Aweigh,1945,0.0,3,anchorsaweigh,anchorsaweigh1945
+92,Angels with Dirty Faces,1938,0.0,2,angelswithdirtyfaces,angelswithdirtyfaces1938
+93,Anna,1987,0.0,1,anna,anna1987
+94,Anna Christie,192930,0.0,2,annachristie,annachristie192930
+95,Anna and the King of Siam,1946,1.0,1,annaandthekingofsiam,annaandthekingofsiam1946
+96,Anne of the Thousand Days,1969,0.0,4,anneofthethousanddays,anneofthethousanddays1969
+97,Annie Get Your Gun,1950,0.0,1,anniegetyourgun,anniegetyourgun1950
+98,Annie Hall,1977,3.0,4,anniehall,anniehall1977
+99,Anthony Adverse,1936,1.0,2,anthonyadverse,anthonyadverse1936
+100,Apocalypse Now,1979,1.0,3,apocalypsenow,apocalypsenow1979
+101,Apollo 13,1995,0.0,1,apollo13,apollo131995
+102,Arabian Nights,1942,0.0,1,arabiannights,arabiannights1942
+103,"Arise, My Love",1940,0.0,1,arisemylove,arisemylove1940
+104,Army Girl,1938,0.0,1,armygirl,armygirl1938
+105,Around the World in 80 Days,1956,2.0,3,aroundtheworldin80days,aroundtheworldin80days1956
+106,Arrowsmith,193132,0.0,2,arrowsmith,arrowsmith193132
+107,Arthur,1981,0.0,1,arthur,arthur1981
+108,Arthur Edeson,192829,0.0,1,arthuredeson,arthuredeson192829
+109,As Good as It Gets,1997,2.0,3,asgoodasitgets,asgoodasitgets1997
+110,Atlantic City,1981,0.0,4,atlanticcity,atlanticcity1981
+111,Atonement,2007,0.0,2,atonement,atonement2007
+112,Auntie Mame,1958,0.0,3,auntiemame,auntiemame1958
+113,Autumn Sonata,1978,0.0,1,autumnsonata,autumnsonata1978
+114,Avalon,1990,0.0,1,avalon,avalon1990
+115,Avatar,2009,1.0,3,avatar,avatar2009
+116,Awakenings,1990,0.0,2,awakenings,awakenings1990
+117,Away from Her,2007,0.0,1,awayfromher,awayfromher2007
+118,Babe,1995,0.0,2,babe,babe1995
+119,Babel,2006,0.0,2,babel,babel2006
+120,Babes in Arms,1939,0.0,1,babesinarms,babesinarms1939
+121,Baby Doll,1956,0.0,2,babydoll,babydoll1956
+122,Bad Day at Black Rock,1955,0.0,2,baddayatblackrock,baddayatblackrock1955
+123,Bad Girl,193132,1.0,2,badgirl,badgirl193132
+124,Ball of Fire,1941,0.0,1,balloffire,balloffire1941
+125,Barbary Coast,1935,0.0,1,barbarycoast,barbarycoast1935
+126,Barry Lyndon,1975,1.0,3,barrylyndon,barrylyndon1975
+127,Batman Begins,2005,0.0,1,batmanbegins,batmanbegins2005
+128,Batman Forever,1995,0.0,1,batmanforever,batmanforever1995
+129,Battleground,1949,1.0,3,battleground,battleground1949
+130,Beauty and the Beast,1991,0.0,1,beautyandthebeast,beautyandthebeast1991
+131,Becket,1964,0.0,5,becket,becket1964
+132,Becky Sharp,1935,0.0,1,beckysharp,beckysharp1935
+133,Before Night Falls,2000,0.0,1,beforenightfalls,beforenightfalls2000
+134,Being John Malkovich,1999,0.0,1,beingjohnmalkovich,beingjohnmalkovich1999
+135,Being Julia,2004,0.0,1,beingjulia,beingjulia2004
+136,Being There,1979,0.0,1,beingthere,beingthere1979
+137,Ben-Hur,1959,4.0,4,ben-hur,ben-hur1959
+138,Beneath the 12-Mile Reef,1953,0.0,1,beneaththe12-milereef,beneaththe12-milereef1953
+139,Berkeley Square,193233,0.0,1,berkeleysquare,berkeleysquare193233
+140,Big,1988,0.0,1,big,big1988
+141,Billy Elliot,2000,0.0,1,billyelliot,billyelliot2000
+142,Billy the Kid,1941,0.0,1,billythekid,billythekid1941
+143,Birdman of Alcatraz,1962,0.0,2,birdmanofalcatraz,birdmanofalcatraz1962
+144,Bitter Sweet,1940,0.0,1,bittersweet,bittersweet1940
+145,Biutiful,2010,0.0,1,biutiful,biutiful2010
+146,Black Fury,1935,0.0,1,blackfury,blackfury1935
+147,Black Hawk Down,2001,0.0,2,blackhawkdown,blackhawkdown2001
+148,Black Narcissus,1947,1.0,1,blacknarcissus,blacknarcissus1947
+149,Black Swan,2010,1.0,4,blackswan,blackswan2010
+150,Blackboard Jungle,1955,0.0,1,blackboardjungle,blackboardjungle1955
+151,Blaze,1989,0.0,1,blaze,blaze1989
+152,Blood Diamond,2006,0.0,1,blooddiamond,blooddiamond2006
+153,Blood and Sand,1941,1.0,1,bloodandsand,bloodandsand1941
+154,Blossoms in the Dust,1941,0.0,3,blossomsinthedust,blossomsinthedust1941
+155,Blow-Up,1966,0.0,1,blow-up,blow-up1966
+156,Blue Sky,1994,1.0,1,bluesky,bluesky1994
+157,Blue Valentine,2010,0.0,1,bluevalentine,bluevalentine2010
+158,Blue Velvet,1986,0.0,1,bluevelvet,bluevelvet1986
+159,Bob & Carol & Ted & Alice,1969,0.0,1,bob&carol&ted&alice,bob&carol&ted&alice1969
+160,Body and Soul,1947,0.0,1,bodyandsoul,bodyandsoul1947
+161,Bonnie and Clyde,1967,1.0,5,bonnieandclyde,bonnieandclyde1967
+162,Boom Town,1940,0.0,1,boomtown,boomtown1940
+163,Born Yesterday,1950,1.0,3,bornyesterday,bornyesterday1950
+164,Born on the Fourth of July,1989,1.0,4,bornonthefourthofjuly,bornonthefourthofjuly1989
+165,Bound for Glory,1976,1.0,2,boundforglory,boundforglory1976
+166,Boys Don't Cry,1999,1.0,1,boysdontcry,boysdontcry1999
+167,Boys Town,1938,1.0,3,boystown,boystown1938
+168,Boyz N the Hood,1991,0.0,1,boyznthehood,boyznthehood1991
+169,Braveheart,1995,3.0,3,braveheart,braveheart1995
+170,Breakfast at Tiffany's,1961,0.0,1,breakfastattiffanys,breakfastattiffanys1961
+171,Breaking Away,1979,0.0,2,breakingaway,breakingaway1979
+172,Breaking the Waves,1996,0.0,1,breakingthewaves,breakingthewaves1996
+173,Bridget Jones's Diary,2001,0.0,1,bridgetjonessdiary,bridgetjonessdiary2001
+174,Brief Encounter,1946,0.0,2,briefencounter,briefencounter1946
+175,Bright Victory,1951,0.0,1,brightvictory,brightvictory1951
+176,Broadcast News,1987,0.0,4,broadcastnews,broadcastnews1987
+177,Broadway Danny Rose,1984,0.0,1,broadwaydannyrose,broadwaydannyrose1984
+178,Broadway Melody of 1936,1935,0.0,1,broadwaymelodyof1936,broadwaymelodyof19361935
+179,Brokeback Mountain,2005,1.0,4,brokebackmountain,brokebackmountain2005
+180,Broken Arrow,1950,0.0,1,brokenarrow,brokenarrow1950
+181,Bugsy,1991,0.0,4,bugsy,bugsy1991
+182,Bulldog Drummond,192930,0.0,1,bulldogdrummond,bulldogdrummond192930
+183,Bullets over Broadway,1994,0.0,1,bulletsoverbroadway,bulletsoverbroadway1994
+184,Butch Cassidy and the Sundance Kid,1969,1.0,3,butchcassidyandthesundancekid,butchcassidyandthesundancekid1969
+185,Butterfield 8,1960,1.0,2,butterfield8,butterfield81960
+186,Butterflies Are Free,1972,0.0,1,butterfliesarefree,butterfliesarefree1972
+187,Cabaret,1972,3.0,4,cabaret,cabaret1972
+188,Caged,1950,0.0,1,caged,caged1950
+189,Camelot,1967,0.0,1,camelot,camelot1967
+190,Camille,1937,0.0,1,camille,camille1937
+191,Camille Claudel,1989,0.0,1,camilleclaudel,camilleclaudel1989
+192,Cape Fear,1991,0.0,1,capefear,capefear1991
+193,Capote,2005,1.0,3,capote,capote2005
+194,Captain Blood,1935,0.0,2,captainblood,captainblood1935
+195,Captains Courageous,1937,1.0,2,captainscourageous,captainscourageous1937
+196,Captains of the Clouds,1942,0.0,1,captainsoftheclouds,captainsoftheclouds1942
+197,Career,1959,0.0,1,career,career1959
+198,Carmen Jones,1954,0.0,1,carmenjones,carmenjones1954
+199,Carrie,1976,0.0,1,carrie,carrie1976
+200,Casablanca,1943,2.0,4,casablanca,casablanca1943
+201,Casino,1995,0.0,1,casino,casino1995
+202,Cast Away,2000,0.0,1,castaway,castaway2000
+203,Cat Ballou,1965,1.0,1,catballou,catballou1965
+204,Cat on a Hot Tin Roof,1958,0.0,5,catonahottinroof,catonahottinroof1958
+205,Cavalcade,193233,2.0,3,cavalcade,cavalcade193233
+206,Central Station,1998,0.0,1,centralstation,centralstation1998
+207,Champion,1949,0.0,2,champion,champion1949
+208,Changeling,2008,0.0,2,changeling,changeling2008
+209,Chaplin,1992,0.0,1,chaplin,chaplin1992
+210,Chapter Two,1979,0.0,1,chaptertwo,chaptertwo1979
+211,Chariots of Fire,1981,1.0,2,chariotsoffire,chariotsoffire1981
+212,Charles Rosher,192728,1.0,1,charlesrosher,charlesrosher192728
+213,Charly,1968,1.0,1,charly,charly1968
+214,Cheyenne Autumn,1964,0.0,1,cheyenneautumn,cheyenneautumn1964
+215,Chicago,2002,1.0,4,chicago,chicago2002
+216,Children of Men,2006,0.0,1,childrenofmen,childrenofmen2006
+217,Children of a Lesser God,1986,1.0,3,childrenofalessergod,childrenofalessergod1986
+218,Chinatown,1974,0.0,5,chinatown,chinatown1974
+219,Chocolat,2000,0.0,2,chocolat,chocolat2000
+220,Cimarron,193031,1.0,5,cimarron,cimarron193031
+221,Cinderella Liberty,1973,0.0,1,cinderellaliberty,cinderellaliberty1973
+222,Citizen Kane,1941,0.0,4,citizenkane,citizenkane1941
+223,City of God,2003,0.0,2,cityofgod,cityofgod2003
+224,Clarence Brown,192930,0.0,1,clarencebrown,clarencebrown192930
+225,Claudine,1974,0.0,1,claudine,claudine1974
+226,Cleopatra,1934,1.0,2,cleopatra,cleopatra1934
+227,Cleopatra,1963,1.0,3,cleopatra,cleopatra1963
+228,Close Encounters of the Third Kind,1977,1.0,2,closeencountersofthethirdkind,closeencountersofthethirdkind1977
+229,Clyde De Vinna,192829,1.0,1,clydedevinna,clydedevinna192829
+230,Coal Miner's Daughter,1980,1.0,3,coalminersdaughter,coalminersdaughter1980
+231,Cold Mountain,2003,0.0,2,coldmountain,coldmountain2003
+232,"Come Back, Little Sheba",1952,1.0,1,comebacklittlesheba,comebacklittlesheba1952
+233,Come to the Stable,1949,0.0,2,cometothestable,cometothestable1949
+234,Coming Home,1978,2.0,4,cominghome,cominghome1978
+235,Conquest,1937,0.0,1,conquest,conquest1937
+236,Cool Hand Luke,1967,0.0,1,coolhandluke,coolhandluke1967
+237,Coquette,192829,1.0,1,coquette,coquette192829
+238,Corvette K-225,1943,0.0,1,corvettek-225,corvettek-2251943
+239,Country,1984,0.0,1,country,country1984
+240,"Cousin, Cousine",1976,0.0,1,cousincousine,cousincousine1976
+241,Cover Girl,1944,0.0,1,covergirl,covergirl1944
+242,Crash,2005,1.0,2,crash,crash2005
+243,Crazy Heart,2009,1.0,1,crazyheart,crazyheart2009
+244,Cries and Whispers,1973,1.0,3,criesandwhispers,criesandwhispers1973
+245,Crimes and Misdemeanors,1989,0.0,1,crimesandmisdemeanors,crimesandmisdemeanors1989
+246,Crimes of the Heart,1986,0.0,1,crimesoftheheart,crimesoftheheart1986
+247,Crossfire,1947,0.0,2,crossfire,crossfire1947
+248,"Crouching Tiger, Hidden Dragon",2000,1.0,3,crouchingtigerhiddendragon,crouchingtigerhiddendragon2000
+249,Cyrano de Bergerac,1950,1.0,1,cyranodebergerac,cyranodebergerac1950
+250,Cyrano de Bergerac,1990,0.0,1,cyranodebergerac,cyranodebergerac1990
+251,Dances With Wolves,1990,3.0,4,danceswithwolves,danceswithwolves1990
+252,Dangerous,1935,1.0,1,dangerous,dangerous1935
+253,Dangerous Liaisons,1988,0.0,2,dangerousliaisons,dangerousliaisons1988
+254,Dark Eyes,1987,0.0,1,darkeyes,darkeyes1987
+255,Dark Victory,1939,0.0,2,darkvictory,darkvictory1939
+256,Darling,1965,1.0,3,darling,darling1965
+257,Das Boot,1982,0.0,2,dasboot,dasboot1982
+258,David Copperfield,1935,0.0,1,davidcopperfield,davidcopperfield1935
+259,David and Bathsheba,1951,0.0,1,davidandbathsheba,davidandbathsheba1951
+260,David and Lisa,1962,0.0,1,davidandlisa,davidandlisa1962
+261,Day for Night,1974,0.0,1,dayfornight,dayfornight1974
+262,Days of Heaven,1978,1.0,1,daysofheaven,daysofheaven1978
+263,Days of Wine and Roses,1962,0.0,2,daysofwineandroses,daysofwineandroses1962
+264,Dead End,1937,0.0,2,deadend,deadend1937
+265,Dead Man Walking,1995,1.0,3,deadmanwalking,deadmanwalking1995
+266,Dead Poets Society,1989,0.0,3,deadpoetssociety,deadpoetssociety1989
+267,Death of a Salesman,1951,0.0,2,deathofasalesman,deathofasalesman1951
+268,Decision before Dawn,1951,0.0,1,decisionbeforedawn,decisionbeforedawn1951
+269,Deliverance,1972,0.0,2,deliverance,deliverance1972
+270,Desire under the Elms,1958,0.0,1,desireundertheelms,desireundertheelms1958
+271,Detective Story,1951,0.0,2,detectivestory,detectivestory1951
+272,Diary of a Mad Housewife,1970,0.0,1,diaryofamadhousewife,diaryofamadhousewife1970
+273,Dick Tracy,1990,0.0,1,dicktracy,dicktracy1990
+274,Disraeli,192930,1.0,2,disraeli,disraeli192930
+275,District 9,2009,0.0,1,district9,district92009
+276,Dive Bomber,1941,0.0,1,divebomber,divebomber1941
+277,Divorce--Italian Style,1962,0.0,2,divorce--italianstyle,divorce--italianstyle1962
+278,Doctor Dolittle,1967,0.0,2,doctordolittle,doctordolittle1967
+279,Doctor Zhivago,1965,1.0,3,doctorzhivago,doctorzhivago1965
+280,Dodsworth,1936,0.0,3,dodsworth,dodsworth1936
+281,Dog Day Afternoon,1975,0.0,3,dogdayafternoon,dogdayafternoon1975
+282,Double Indemnity,1944,0.0,4,doubleindemnity,doubleindemnity1944
+283,Doubt,2008,0.0,1,doubt,doubt2008
+284,Down Argentine Way,1940,0.0,1,downargentineway,downargentineway1940
+285,Dr. Jekyll and Mr. Hyde,193132,1.0,2,drjekyllandmrhyde,drjekyllandmrhyde193132
+286,Dr. Jekyll and Mr. Hyde,1941,0.0,1,drjekyllandmrhyde,drjekyllandmrhyde1941
+287,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,0.0,3,drstrangeloveor:howilearnedtostopworryingandlovethebomb,drstrangeloveor:howilearnedtostopworryingandlovethebomb1964
+288,Dragon Seed,1944,0.0,1,dragonseed,dragonseed1944
+289,Driving Miss Daisy,1989,2.0,3,drivingmissdaisy,drivingmissdaisy1989
+290,Drums along the Mohawk,1939,0.0,1,drumsalongthemohawk,drumsalongthemohawk1939
+291,Duel in the Sun,1946,0.0,1,duelinthesun,duelinthesun1946
+292,E.T. The Extra-Terrestrial,1982,0.0,3,ettheextra-terrestrial,ettheextra-terrestrial1982
+293,Earthquake,1974,0.0,1,earthquake,earthquake1974
+294,East Lynne,193031,0.0,1,eastlynne,eastlynne193031
+295,East of Eden,1955,0.0,2,eastofeden,eastofeden1955
+296,Eastern Promises,2007,0.0,1,easternpromises,easternpromises2007
+297,Educating Rita,1983,0.0,2,educatingrita,educatingrita1983
+298,"Edward, My Son",1949,0.0,1,edwardmyson,edwardmyson1949
+299,Elizabeth,1998,0.0,3,elizabeth,elizabeth1998
+300,Elizabeth: The Golden Age,2007,0.0,1,elizabeth:thegoldenage,elizabeth:thegoldenage2007
+301,Elmer Gantry,1960,1.0,2,elmergantry,elmergantry1960
+302,Emma,193132,0.0,1,emma,emma193132
+303,Empire of the Sun,1987,0.0,1,empireofthesun,empireofthesun1987
+304,Equus,1977,0.0,1,equus,equus1977
+305,Erin Brockovich,2000,1.0,3,erinbrockovich,erinbrockovich2000
+306,Ernest Palmer,192829,0.0,1,ernestpalmer,ernestpalmer192829
+307,Ernst Lubitsch,192829,0.0,1,ernstlubitsch,ernstlubitsch192829
+308,Ernst Lubitsch,192930,0.0,1,ernstlubitsch,ernstlubitsch192930
+309,Escape Me Never,1935,0.0,1,escapemenever,escapemenever1935
+310,Eternal Sunshine of the Spotless Mind,2004,0.0,1,eternalsunshineofthespotlessmind,eternalsunshineofthespotlessmind2004
+311,Evita,1996,0.0,1,evita,evita1996
+312,Excalibur,1981,0.0,1,excalibur,excalibur1981
+313,Executive Suite,1954,0.0,1,executivesuite,executivesuite1954
+314,Exodus,1960,0.0,1,exodus,exodus1960
+315,Face to Face,1976,0.0,2,facetoface,facetoface1976
+316,Fanny,1961,0.0,3,fanny,fanny1961
+317,Fanny & Alexander,1983,1.0,2,fanny&alexander,fanny&alexander1983
+318,Fantastic Voyage,1966,0.0,1,fantasticvoyage,fantasticvoyage1966
+319,Far from Heaven,2002,0.0,2,farfromheaven,farfromheaven2002
+320,Farewell My Concubine,1993,0.0,1,farewellmyconcubine,farewellmyconcubine1993
+321,Fargo,1996,1.0,4,fargo,fargo1996
+322,Fatal Attraction,1987,0.0,3,fatalattraction,fatalattraction1987
+323,Fate Is the Hunter,1964,0.0,1,fateisthehunter,fateisthehunter1964
+324,Father of the Bride,1950,0.0,2,fatherofthebride,fatherofthebride1950
+325,Feature Productions,192829,0.0,1,featureproductions,featureproductions192829
+326,Federico Fellini's 8-1/2,1963,0.0,1,federicofellinis8-1/2,federicofellinis8-1/21963
+327,Fellini Satyricon,1970,0.0,1,fellinisatyricon,fellinisatyricon1970
+328,Fiddler on the Roof,1971,1.0,4,fiddlerontheroof,fiddlerontheroof1971
+329,Field of Dreams,1989,0.0,1,fieldofdreams,fieldofdreams1989
+330,Finding Neverland,2004,0.0,2,findingneverland,findingneverland2004
+331,First Love,1939,0.0,1,firstlove,firstlove1939
+332,Five Easy Pieces,1970,0.0,2,fiveeasypieces,fiveeasypieces1970
+333,Five Fingers,1952,0.0,1,fivefingers,fivefingers1952
+334,Five Graves to Cairo,1943,0.0,1,fivegravestocairo,fivegravestocairo1943
+335,Five Star Final,193132,0.0,1,fivestarfinal,fivestarfinal193132
+336,Flashdance,1983,0.0,1,flashdance,flashdance1983
+337,Flirtation Walk,1934,0.0,1,flirtationwalk,flirtationwalk1934
+338,Flower Drum Song,1961,0.0,1,flowerdrumsong,flowerdrumsong1961
+339,Fly Away Home,1996,0.0,1,flyawayhome,flyawayhome1996
+340,For Whom the Bell Tolls,1943,0.0,4,forwhomthebelltolls,forwhomthebelltolls1943
+341,For the Boys,1991,0.0,1,fortheboys,fortheboys1991
+342,Foreign Correspondent,1940,0.0,2,foreigncorrespondent,foreigncorrespondent1940
+343,Forrest Gump,1994,3.0,4,forrestgump,forrestgump1994
+344,Four Daughters,1938,0.0,2,fourdaughters,fourdaughters1938
+345,Four Feathers,1939,0.0,1,fourfeathers,fourfeathers1939
+346,Four Weddings and a Funeral,1994,0.0,1,fourweddingsandafuneral,fourweddingsandafuneral1994
+347,Fox,192728,0.0,1,fox,fox192728
+348,Fox,192829,0.0,1,fox,fox192829
+349,Frances,1982,0.0,1,frances,frances1982
+350,Frank Borzage,192728,1.0,1,frankborzage,frankborzage192728
+351,Frank Lloyd,192829,1.0,2,franklloyd,franklloyd192829
+352,Frida,2002,0.0,1,frida,frida2002
+353,Friendly Persuasion,1956,0.0,2,friendlypersuasion,friendlypersuasion1956
+354,From Here to Eternity,1953,3.0,6,fromheretoeternity,fromheretoeternity1953
+355,Frost/Nixon,2008,0.0,3,frost/nixon,frost/nixon2008
+356,Frozen River,2008,0.0,1,frozenriver,frozenriver2008
+357,Funny Face,1957,0.0,1,funnyface,funnyface1957
+358,Funny Girl,1968,1.0,3,funnygirl,funnygirl1968
+359,Funny Lady,1975,0.0,1,funnylady,funnylady1975
+360,Gandhi,1982,4.0,4,gandhi,gandhi1982
+361,Gangs of New York,2002,0.0,4,gangsofnewyork,gangsofnewyork2002
+362,Gaslight,1944,1.0,4,gaslight,gaslight1944
+363,Gentleman's Agreement,1947,2.0,4,gentlemansagreement,gentlemansagreement1947
+364,George Barnes,192728,0.0,1,georgebarnes,georgebarnes192728
+365,George Barnes,192829,0.0,1,georgebarnes,georgebarnes192829
+366,Georgy Girl,1966,0.0,2,georgygirl,georgygirl1966
+367,Ghost,1990,0.0,1,ghost,ghost1990
+368,Giant,1956,1.0,4,giant,giant1956
+369,Gigi,1958,3.0,3,gigi,gigi1958
+370,Girl with a Pearl Earring,2003,0.0,1,girlwithapearlearring,girlwithapearlearring2003
+371,"Give 'em Hell, Harry!",1975,0.0,1,giveemhellharry!,giveemhellharry!1975
+372,Gladiator,2000,2.0,4,gladiator,gladiator2000
+373,Gloria,1980,0.0,1,gloria,gloria1980
+374,Glory,1989,1.0,1,glory,glory1989
+375,Gods and Monsters,1998,0.0,1,godsandmonsters,godsandmonsters1998
+376,Going My Way,1944,3.0,5,goingmyway,goingmyway1944
+377,Gone with the Wind,1939,4.0,5,gonewiththewind,gonewiththewind1939
+378,Good Fellas,1990,0.0,2,goodfellas,goodfellas1990
+379,"Good Morning, Vietnam",1987,0.0,1,goodmorningvietnam,goodmorningvietnam1987
+380,"Good Night, and Good Luck.",2005,0.0,4,goodnightandgoodluck,goodnightandgoodluck2005
+381,Good Will Hunting,1997,0.0,3,goodwillhunting,goodwillhunting1997
+382,"Goodbye, Mr. Chips",1939,1.0,4,goodbyemrchips,goodbyemrchips1939
+383,"Goodbye, Mr. Chips",1969,0.0,1,goodbyemrchips,goodbyemrchips1969
+384,Gorillas in the Mist,1988,0.0,1,gorillasinthemist,gorillasinthemist1988
+385,Gosford Park,2001,0.0,2,gosfordpark,gosfordpark2001
+386,Grand Hotel,193132,1.0,1,grandhotel,grandhotel193132
+387,Grand Illusion,1938,0.0,1,grandillusion,grandillusion1938
+388,Great Expectations,1947,1.0,3,greatexpectations,greatexpectations1947
+389,Green Dolphin Street,1947,0.0,1,greendolphinstreet,greendolphinstreet1947
+390,Green Grass of Wyoming,1948,0.0,1,greengrassofwyoming,greengrassofwyoming1948
+391,Guess Who's Coming to Dinner,1967,1.0,4,guesswhoscomingtodinner,guesswhoscomingtodinner1967
+392,Gunga Din,1939,0.0,1,gungadin,gungadin1939
+393,Guys and Dolls,1955,0.0,1,guysanddolls,guysanddolls1955
+394,Gypsy,1962,0.0,1,gypsy,gypsy1962
+395,Half Nelson,2006,0.0,1,halfnelson,halfnelson2006
+396,Hamlet,1948,2.0,3,hamlet,hamlet1948
+397,Hannah and Her Sisters,1986,0.0,2,hannahandhersisters,hannahandhersisters1986
+398,Hans Christian Andersen,1952,0.0,1,hanschristianandersen,hanschristianandersen1952
+399,Harry Beaumont,192829,0.0,1,harrybeaumont,harrybeaumont192829
+400,Harry Potter and the Half-Blood Prince,2009,0.0,1,harrypotterandthehalf-bloodprince,harrypotterandthehalf-bloodprince2009
+401,Harry and Tonto,1974,1.0,1,harryandtonto,harryandtonto1974
+402,Harvey,1950,0.0,1,harvey,harvey1950
+403,Hatari!,1962,0.0,1,hatari!,hatari!1962
+404,Hawaii,1966,0.0,1,hawaii,hawaii1966
+405,Heaven Can Wait,1943,0.0,3,heavencanwait,heavencanwait1943
+406,Heaven Can Wait,1978,0.0,4,heavencanwait,heavencanwait1978
+407,"Heaven Knows, Mr. Allison",1957,0.0,1,heavenknowsmrallison,heavenknowsmrallison1957
+408,Hedda,1975,0.0,1,hedda,hedda1975
+409,Hell's Angels,192930,0.0,1,hellsangels,hellsangels192930
+410,"Hello, Dolly!",1969,0.0,2,hellodolly!,hellodolly!1969
+411,"Hello, Frisco, Hello",1943,0.0,1,hellofriscohello,hellofriscohello1943
+412,Henry & June,1990,0.0,1,henry&june,henry&june1990
+413,Henry V,1946,0.0,2,henryv,henryv1946
+414,Henry V,1989,0.0,2,henryv,henryv1989
+415,Herbert Brenon,192728,0.0,1,herbertbrenon,herbertbrenon192728
+416,Here Comes Mr. Jordan,1941,0.0,4,herecomesmrjordan,herecomesmrjordan1941
+417,Here Comes the Navy,1934,0.0,1,herecomesthenavy,herecomesthenavy1934
+418,Hester Street,1975,0.0,1,hesterstreet,hesterstreet1975
+419,High Noon,1952,1.0,3,highnoon,highnoon1952
+420,Hilary and Jackie,1998,0.0,1,hilaryandjackie,hilaryandjackie1998
+421,Hoffa,1992,0.0,1,hoffa,hoffa1992
+422,Hold Back the Dawn,1941,0.0,3,holdbackthedawn,holdbackthedawn1941
+423,Holiday,193031,0.0,1,holiday,holiday193031
+424,Home in Indiana,1944,0.0,1,homeinindiana,homeinindiana1944
+425,Hope and Glory,1987,0.0,3,hopeandglory,hopeandglory1987
+426,Hotel Rwanda,2004,0.0,1,hotelrwanda,hotelrwanda2004
+427,House of Flying Daggers,2004,0.0,1,houseofflyingdaggers,houseofflyingdaggers2004
+428,House of Sand and Fog,2003,0.0,1,houseofsandandfog,houseofsandandfog2003
+429,How Green Was My Valley,1941,3.0,3,howgreenwasmyvalley,howgreenwasmyvalley1941
+430,How the West Was Won,1963,0.0,2,howthewestwaswon,howthewestwaswon1963
+431,Howards End,1992,1.0,4,howardsend,howardsend1992
+432,Hud,1963,2.0,4,hud,hud1963
+433,"Hush...Hush, Sweet Charlotte",1964,0.0,1,hushhushsweetcharlotte,hushhushsweetcharlotte1964
+434,Hustle & Flow,2005,0.0,1,hustle&flow,hustle&flow2005
+435,I Am Sam,2001,0.0,1,iamsam,iamsam2001
+436,I Am a Fugitive from a Chain Gang,193233,0.0,2,iamafugitivefromachaingang,iamafugitivefromachaingang193233
+437,I Never Sang for My Father,1970,0.0,1,ineversangformyfather,ineversangformyfather1970
+438,I Remember Mama,1948,0.0,2,iremembermama,iremembermama1948
+439,I Want to Live!,1958,1.0,3,iwanttolive!,iwanttolive!1958
+440,I'll Cry Tomorrow,1955,0.0,2,illcrytomorrow,illcrytomorrow1955
+441,Ice Station Zebra,1968,0.0,1,icestationzebra,icestationzebra1968
+442,Imitation of Life,1934,0.0,1,imitationoflife,imitationoflife1934
+443,In America,2003,0.0,1,inamerica,inamerica2003
+444,In Cold Blood,1967,0.0,2,incoldblood,incoldblood1967
+445,In Harm's Way,1965,0.0,1,inharmsway,inharmsway1965
+446,In Old Arizona,192829,1.0,1,inoldarizona,inoldarizona192829
+447,In Old Chicago,1937,0.0,1,inoldchicago,inoldchicago1937
+448,In Which We Serve,1943,0.0,1,inwhichweserve,inwhichweserve1943
+449,In the Bedroom,2001,0.0,3,inthebedroom,inthebedroom2001
+450,In the Heat of the Night,1967,2.0,3,intheheatofthenight,intheheatofthenight1967
+451,In the Name of the Father,1993,0.0,3,inthenameofthefather,inthenameofthefather1993
+452,In the Valley of Elah,2007,0.0,1,inthevalleyofelah,inthevalleyofelah2007
+453,Inception,2010,1.0,2,inception,inception2010
+454,Indochine,1992,0.0,1,indochine,indochine1992
+455,Inglourious Basterds,2009,0.0,3,inglouriousbasterds,inglouriousbasterds2009
+456,Inherit the Wind,1960,0.0,2,inheritthewind,inheritthewind1960
+457,Interiors,1978,0.0,2,interiors,interiors1978
+458,Intermezzo,1939,0.0,1,intermezzo,intermezzo1939
+459,Interrupted Melody,1955,0.0,1,interruptedmelody,interruptedmelody1955
+460,Invictus,2009,0.0,1,invictus,invictus2009
+461,Iris,2001,0.0,1,iris,iris2001
+462,Irma La Douce,1963,0.0,2,irmaladouce,irmaladouce1963
+463,Ironweed,1987,0.0,2,ironweed,ironweed1987
+464,Irving Cummings,192829,0.0,1,irvingcummings,irvingcummings192829
+465,Is Paris Burning?,1966,0.0,1,isparisburning?,isparisburning?1966
+466,Isadora,1968,0.0,1,isadora,isadora1968
+467,Islands in the Stream,1977,0.0,1,islandsinthestream,islandsinthestream1977
+468,It Happened One Night,1934,4.0,4,ithappenedonenight,ithappenedonenight1934
+469,"It's a Mad, Mad, Mad, Mad World",1963,0.0,1,itsamadmadmadmadworld,itsamadmadmadmadworld1963
+470,It's a Wonderful Life,1946,0.0,3,itsawonderfullife,itsawonderfullife1946
+471,Ivanhoe,1952,0.0,2,ivanhoe,ivanhoe1952
+472,JFK,1991,1.0,3,jfk,jfk1991
+473,Jaws,1975,0.0,1,jaws,jaws1975
+474,Jerry Maguire,1996,0.0,2,jerrymaguire,jerrymaguire1996
+475,Jezebel,1938,1.0,3,jezebel,jezebel1938
+476,Joan of Arc,1948,1.0,2,joanofarc,joanofarc1948
+477,John Seitz,192829,0.0,1,johnseitz,johnseitz192829
+478,Johnny Belinda,1948,1.0,5,johnnybelinda,johnnybelinda1948
+479,Jolson Sings Again,1949,0.0,1,jolsonsingsagain,jolsonsingsagain1949
+480,Jonathan Livingston Seagull,1973,0.0,1,jonathanlivingstonseagull,jonathanlivingstonseagull1973
+481,Juarez,1939,0.0,1,juarez,juarez1939
+482,Judgment at Nuremberg,1961,1.0,5,judgmentatnuremberg,judgmentatnuremberg1961
+483,Julia,1977,0.0,4,julia,julia1977
+484,Julie & Julia,2009,0.0,1,julie&julia,julie&julia2009
+485,Julius Caesar,1953,0.0,3,juliuscaesar,juliuscaesar1953
+486,Jungle Book,1942,0.0,1,junglebook,junglebook1942
+487,Juno,2007,0.0,3,juno,juno2007
+488,Karl Struss,192728,1.0,1,karlstruss,karlstruss192728
+489,King Kong,1976,0.0,1,kingkong,kingkong1976
+490,King Rat,1965,0.0,1,kingrat,kingrat1965
+491,King Solomon's Mines,1950,1.0,2,kingsolomonsmines,kingsolomonsmines1950
+492,King Vidor,192728,0.0,1,kingvidor,kingvidor192728
+493,King Vidor,192930,0.0,1,kingvidor,kingvidor192930
+494,Kings Row,1942,0.0,3,kingsrow,kingsrow1942
+495,Kismet,1944,0.0,1,kismet,kismet1944
+496,Kiss of the Spider Woman,1985,1.0,3,kissofthespiderwoman,kissofthespiderwoman1985
+497,Kitty Foyle,1940,1.0,3,kittyfoyle,kittyfoyle1940
+498,Klute,1971,1.0,1,klute,klute1971
+499,Kotch,1971,0.0,1,kotch,kotch1971
+500,Kramer vs. Kramer,1979,3.0,4,kramervskramer,kramervskramer1979
+501,Kundun,1997,0.0,1,kundun,kundun1997
+502,L.A. Confidential,1997,0.0,3,laconfidential,laconfidential1997
+503,La Cage aux Folles,1979,0.0,1,lacageauxfolles,lacageauxfolles1979
+504,La Dolce Vita,1961,0.0,1,ladolcevita,ladolcevita1961
+505,La Vie en Rose,2007,1.0,1,lavieenrose,lavieenrose2007
+506,Lady Sings the Blues,1972,0.0,1,ladysingstheblues,ladysingstheblues1972
+507,Lady for a Day,193233,0.0,3,ladyforaday,ladyforaday193233
+508,Lady in the Dark,1944,0.0,1,ladyinthedark,ladyinthedark1944
+509,Lady of the Tropics,1939,0.0,1,ladyofthetropics,ladyofthetropics1939
+510,Lassie Come Home,1943,0.0,1,lassiecomehome,lassiecomehome1943
+511,Last Tango in Paris,1973,0.0,2,lasttangoinparis,lasttangoinparis1973
+512,Laura,1944,1.0,2,laura,laura1944
+513,Lawrence of Arabia,1962,3.0,4,lawrenceofarabia,lawrenceofarabia1962
+514,Leave Her to Heaven,1945,1.0,2,leavehertoheaven,leavehertoheaven1945
+515,Leaving Las Vegas,1995,1.0,3,leavinglasvegas,leavinglasvegas1995
+516,Legends of the Fall,1994,1.0,1,legendsofthefall,legendsofthefall1994
+517,Lenny,1974,0.0,5,lenny,lenny1974
+518,Les Miserables,1935,0.0,2,lesmiserables,lesmiserables1935
+519,Letters from Iwo Jima,2006,0.0,2,lettersfromiwojima,lettersfromiwojima2006
+520,Lewis Milestone,192728,1.0,1,lewismilestone,lewismilestone192728
+521,Lewis Milestone,192930,1.0,1,lewismilestone,lewismilestone192930
+522,Libeled Lady,1936,0.0,1,libeledlady,libeledlady1936
+523,Life Is Beautiful,1998,1.0,3,lifeisbeautiful,lifeisbeautiful1998
+524,Life with Father,1947,0.0,2,lifewithfather,lifewithfather1947
+525,Lifeboat,1944,0.0,2,lifeboat,lifeboat1944
+526,Lili,1953,0.0,3,lili,lili1953
+527,Lilies of the Field,1963,1.0,3,liliesofthefield,liliesofthefield1963
+528,Lionel Barrymore,192829,0.0,1,lionelbarrymore,lionelbarrymore192829
+529,Little Children,2006,0.0,1,littlechildren,littlechildren2006
+530,Little Miss Sunshine,2006,0.0,1,littlemisssunshine,littlemisssunshine2006
+531,Little Women,193233,0.0,2,littlewomen,littlewomen193233
+532,Little Women,1949,0.0,1,littlewomen,littlewomen1949
+533,Little Women,1994,0.0,1,littlewomen,littlewomen1994
+534,Logan's Run,1976,0.0,1,logansrun,logansrun1976
+535,Long Day's Journey into Night,1962,0.0,1,longdaysjourneyintonight,longdaysjourneyintonight1962
+536,Looking for Mr. Goodbar,1977,0.0,1,lookingformrgoodbar,lookingformrgoodbar1977
+537,Lorenzo's Oil,1992,0.0,1,lorenzosoil,lorenzosoil1992
+538,Lost Horizon,1937,0.0,1,losthorizon,losthorizon1937
+539,Lost in Translation,2003,0.0,3,lostintranslation,lostintranslation2003
+540,Louisiana Purchase,1941,0.0,1,louisianapurchase,louisianapurchase1941
+541,Love Affair,1939,0.0,2,loveaffair,loveaffair1939
+542,Love Field,1992,0.0,1,lovefield,lovefield1992
+543,Love Is a Many-Splendored Thing,1955,0.0,3,loveisamany-splendoredthing,loveisamany-splendoredthing1955
+544,Love Letters,1945,0.0,1,loveletters,loveletters1945
+545,Love Me or Leave Me,1955,0.0,1,lovemeorleaveme,lovemeorleaveme1955
+546,Love Story,1970,0.0,4,lovestory,lovestory1970
+547,Love with the Proper Stranger,1963,0.0,2,lovewiththeproperstranger,lovewiththeproperstranger1963
+548,Lust for Life,1956,0.0,1,lustforlife,lustforlife1956
+549,M*A*S*H,1970,0.0,2,m*a*s*h,m*a*s*h1970
+550,Mad about Music,1938,0.0,1,madaboutmusic,madaboutmusic1938
+551,Madame Curie,1943,0.0,4,madamecurie,madamecurie1943
+552,Madame X,192829,0.0,1,madamex,madamex192829
+553,Magnificent Obsession,1954,0.0,1,magnificentobsession,magnificentobsession1954
+554,Malcolm X,1992,0.0,1,malcolmx,malcolmx1992
+555,Malèna,2000,0.0,1,malèna,malèna2000
+556,Maria Full of Grace,2004,0.0,1,mariafullofgrace,mariafullofgrace2004
+557,Marie Antoinette,1938,0.0,1,marieantoinette,marieantoinette1938
+558,Marooned,1969,0.0,1,marooned,marooned1969
+559,Marriage Italian Style,1964,0.0,1,marriageitalianstyle,marriageitalianstyle1964
+560,Martin Luther,1953,0.0,1,martinluther,martinluther1953
+561,Marty,1955,3.0,4,marty,marty1955
+562,Marvin's Room,1996,0.0,1,marvinsroom,marvinsroom1996
+563,Mary Poppins,1964,1.0,4,marypoppins,marypoppins1964
+564,"Mary, Queen of Scots",1971,0.0,1,maryqueenofscots,maryqueenofscots1971
+565,Master and Commander: The Far Side of the World,2003,1.0,3,masterandcommander:thefarsideoftheworld,masterandcommander:thefarsideoftheworld2003
+566,Matewan,1987,0.0,1,matewan,matewan1987
+567,McCabe & Mrs. Miller,1971,0.0,1,mccabe&mrsmiller,mccabe&mrsmiller1971
+568,Meet Me in St. Louis,1944,0.0,1,meetmeinstlouis,meetmeinstlouis1944
+569,Memoirs of a Geisha,2005,1.0,1,memoirsofageisha,memoirsofageisha2005
+570,Meredith Willson's The Music Man,1962,0.0,1,meredithwillsonsthemusicman,meredithwillsonsthemusicman1962
+571,Merrily We Live,1938,0.0,1,merrilywelive,merrilywelive1938
+572,Metro-Goldwyn-Mayer,192829,1.0,2,metro-goldwyn-mayer,metro-goldwyn-mayer192829
+573,Michael Clayton,2007,0.0,3,michaelclayton,michaelclayton2007
+574,Michael Collins,1996,0.0,1,michaelcollins,michaelcollins1996
+575,Midnight Cowboy,1969,2.0,4,midnightcowboy,midnightcowboy1969
+576,Midnight Express,1978,0.0,2,midnightexpress,midnightexpress1978
+577,Mildred Pierce,1945,1.0,3,mildredpierce,mildredpierce1945
+578,Milk,2008,1.0,3,milk,milk2008
+579,Million Dollar Baby,2004,3.0,4,milliondollarbaby,milliondollarbaby2004
+580,Million Dollar Mermaid,1952,0.0,1,milliondollarmermaid,milliondollarmermaid1952
+581,Min and Bill,193031,1.0,1,minandbill,minandbill193031
+582,Miracle on 34th Street,1947,0.0,1,miracleon34thstreet,miracleon34thstreet1947
+583,Misery,1990,1.0,1,misery,misery1990
+584,Missing,1982,0.0,3,missing,missing1982
+585,Mississippi Burning,1988,1.0,4,mississippiburning,mississippiburning1988
+586,Mister Roberts,1955,0.0,1,misterroberts,misterroberts1955
+587,Mogambo,1953,0.0,1,mogambo,mogambo1953
+588,Mona Lisa,1986,0.0,1,monalisa,monalisa1986
+589,Monster,2003,1.0,1,monster,monster2003
+590,Monster's Ball,2001,1.0,1,monstersball,monstersball2001
+591,Moonstruck,1987,1.0,3,moonstruck,moonstruck1987
+592,Moontide,1942,0.0,1,moontide,moontide1942
+593,Morgan!,1966,0.0,1,morgan!,morgan!1966
+594,Morituri,1965,0.0,1,morituri,morituri1965
+595,Morning Glory,193233,1.0,1,morningglory,morningglory193233
+596,Morocco,193031,0.0,3,morocco,morocco193031
+597,Mother Wore Tights,1947,0.0,1,motherworetights,motherworetights1947
+598,Moulin Rouge,1952,0.0,3,moulinrouge,moulinrouge1952
+599,Moulin Rouge,2001,0.0,3,moulinrouge,moulinrouge2001
+600,Mourning Becomes Electra,1947,0.0,2,mourningbecomeselectra,mourningbecomeselectra1947
+601,Mr. & Mrs. Bridge,1990,0.0,1,mr&mrsbridge,mr&mrsbridge1990
+602,Mr. Deeds Goes to Town,1936,1.0,3,mrdeedsgoestotown,mrdeedsgoestotown1936
+603,Mr. Holland's Opus,1995,0.0,1,mrhollandsopus,mrhollandsopus1995
+604,Mr. Skeffington,1944,0.0,1,mrskeffington,mrskeffington1944
+605,Mr. Smith Goes to Washington,1939,0.0,3,mrsmithgoestowashington,mrsmithgoestowashington1939
+606,Mrs. Brown,1997,0.0,1,mrsbrown,mrsbrown1997
+607,Mrs. Henderson Presents,2005,0.0,1,mrshendersonpresents,mrshendersonpresents2005
+608,Mrs. Miniver,1942,4.0,5,mrsminiver,mrsminiver1942
+609,Mrs. Parkington,1944,0.0,1,mrsparkington,mrsparkington1944
+610,Mulholland Drive,2001,0.0,1,mulhollanddrive,mulhollanddrive2001
+611,Munich,2005,0.0,2,munich,munich2005
+612,Murder on the Orient Express,1974,0.0,2,murderontheorientexpress,murderontheorientexpress1974
+613,Murphy's Romance,1985,0.0,2,murphysromance,murphysromance1985
+614,Music Box,1989,0.0,1,musicbox,musicbox1989
+615,Music of the Heart,1999,0.0,1,musicoftheheart,musicoftheheart1999
+616,Mutiny on the Bounty,1935,1.0,5,mutinyonthebounty,mutinyonthebounty1935
+617,Mutiny on the Bounty,1962,0.0,2,mutinyonthebounty,mutinyonthebounty1962
+618,My Cousin Rachel,1952,0.0,1,mycousinrachel,mycousinrachel1952
+619,My Fair Lady,1964,4.0,4,myfairlady,myfairlady1964
+620,My Favorite Year,1982,0.0,1,myfavoriteyear,myfavoriteyear1982
+621,My Foolish Heart,1949,0.0,1,myfoolishheart,myfoolishheart1949
+622,My Left Foot,1989,1.0,3,myleftfoot,myleftfoot1989
+623,My Life as a Dog,1987,0.0,1,mylifeasadog,mylifeasadog1987
+624,My Man Godfrey,1936,0.0,3,mymangodfrey,mymangodfrey1936
+625,My Sister Eileen,1942,0.0,1,mysistereileen,mysistereileen1942
+626,Mystic River,2003,1.0,3,mysticriver,mysticriver2003
+627,Nashville,1975,0.0,2,nashville,nashville1975
+628,National Velvet,1945,0.0,2,nationalvelvet,nationalvelvet1945
+629,Naughty Marietta,1935,0.0,1,naughtymarietta,naughtymarietta1935
+630,Navajo,1952,0.0,1,navajo,navajo1952
+631,Nell,1994,0.0,1,nell,nell1994
+632,Network,1976,2.0,6,network,network1976
+633,Never on Sunday,1960,0.0,2,neveronsunday,neveronsunday1960
+634,Nicholas and Alexandra,1971,0.0,3,nicholasandalexandra,nicholasandalexandra1971
+635,Night Must Fall,1937,0.0,1,nightmustfall,nightmustfall1937
+636,Ninotchka,1939,0.0,2,ninotchka,ninotchka1939
+637,Nixon,1995,0.0,1,nixon,nixon1995
+638,No Country for Old Men,2007,2.0,3,nocountryforoldmen,nocountryforoldmen2007
+639,Nobody's Fool,1994,0.0,1,nobodysfool,nobodysfool1994
+640,None but the Lonely Heart,1944,0.0,1,nonebutthelonelyheart,nonebutthelonelyheart1944
+641,Norma Rae,1979,1.0,2,normarae,normarae1979
+642,North Country,2005,0.0,1,northcountry,northcountry2005
+643,North West Mounted Police,1940,0.0,1,northwestmountedpolice,northwestmountedpolice1940
+644,Northwest Passage,1940,0.0,1,northwestpassage,northwestpassage1940
+645,Notes on a Scandal,2006,0.0,1,notesonascandal,notesonascandal2006
+646,"Now, Voyager",1942,0.0,1,nowvoyager,nowvoyager1942
+647,"O Brother, Where Art Thou?",2000,0.0,1,obrotherwhereartthou?,obrotherwhereartthou?2000
+648,Of Human Bondage,1934,0.0,1,ofhumanbondage,ofhumanbondage1934
+649,Of Mice and Men,1939,0.0,2,ofmiceandmen,ofmiceandmen1939
+650,Oklahoma!,1955,0.0,1,oklahoma!,oklahoma!1955
+651,Oliver!,1968,2.0,4,oliver!,oliver!1968
+652,On Golden Pond,1981,2.0,5,ongoldenpond,ongoldenpond1981
+653,On the Waterfront,1954,4.0,4,onthewaterfront,onthewaterfront1954
+654,One Flew over the Cuckoo's Nest,1975,4.0,5,oneflewoverthecuckoosnest,oneflewoverthecuckoosnest1975
+655,One Foot in Heaven,1941,0.0,1,onefootinheaven,onefootinheaven1941
+656,One Hour with You,193132,0.0,1,onehourwithyou,onehourwithyou193132
+657,One Hundred Men and a Girl,1937,0.0,1,onehundredmenandagirl,onehundredmenandagirl1937
+658,One Night of Love,1934,0.0,3,onenightoflove,onenightoflove1934
+659,One True Thing,1998,0.0,1,onetruething,onetruething1998
+660,"One, Two, Three",1961,0.0,1,onetwothree,onetwothree1961
+661,One-Eyed Jacks,1961,0.0,1,one-eyedjacks,one-eyedjacks1961
+662,Only Angels Have Wings,1939,0.0,1,onlyangelshavewings,onlyangelshavewings1939
+663,Only When I Laugh,1981,0.0,1,onlywhenilaugh,onlywhenilaugh1981
+664,Operator 13,1934,0.0,1,operator13,operator131934
+665,Ordinary People,1980,2.0,3,ordinarypeople,ordinarypeople1980
+666,Othello,1965,0.0,1,othello,othello1965
+667,Our Town,1940,0.0,2,ourtown,ourtown1940
+668,Out of Africa,1985,3.0,4,outofafrica,outofafrica1985
+669,Pan's Labyrinth,2006,1.0,1,panslabyrinth,panslabyrinth2006
+670,Paramount Famous Lasky,192728,1.0,1,paramountfamouslasky,paramountfamouslasky192728
+671,Paramount Famous Lasky,192829,0.0,1,paramountfamouslasky,paramountfamouslasky192829
+672,Passion Fish,1992,0.0,1,passionfish,passionfish1992
+673,Patton,1970,3.0,4,patton,patton1970
+674,Peggy Sue Got Married,1986,0.0,2,peggysuegotmarried,peggysuegotmarried1986
+675,Pelle the Conqueror,1988,0.0,1,pelletheconqueror,pelletheconqueror1988
+676,Penny Serenade,1941,0.0,1,pennyserenade,pennyserenade1941
+677,Pepe,1960,0.0,1,pepe,pepe1960
+678,Peyton Place,1957,0.0,4,peytonplace,peytonplace1957
+679,Phantom of the Opera,1943,1.0,1,phantomoftheopera,phantomoftheopera1943
+680,Philadelphia,1993,1.0,1,philadelphia,philadelphia1993
+681,Picnic,1955,0.0,2,picnic,picnic1955
+682,Pillow Talk,1959,0.0,1,pillowtalk,pillowtalk1959
+683,Pinky,1949,0.0,1,pinky,pinky1949
+684,Pirates of the Caribbean: The Curse of the Black Pearl,2003,0.0,1,piratesofthecaribbean:thecurseoftheblackpearl,piratesofthecaribbean:thecurseoftheblackpearl2003
+685,Places in the Heart,1984,1.0,3,placesintheheart,placesintheheart1984
+686,Platoon,1986,2.0,3,platoon,platoon1986
+687,Pollock,2000,0.0,1,pollock,pollock2000
+688,Porgy and Bess,1959,0.0,1,porgyandbess,porgyandbess1959
+689,Portrait of Jennie,1948,0.0,1,portraitofjennie,portraitofjennie1948
+690,Possessed,1947,0.0,1,possessed,possessed1947
+691,Postcards from the Edge,1990,0.0,1,postcardsfromtheedge,postcardsfromtheedge1990
+692,Precious: Based on the Novel 'Push' by Sapphire,2009,0.0,3,precious:basedonthenovelpushbysapphire,precious:basedonthenovelpushbysapphire2009
+693,Pretty Woman,1990,0.0,1,prettywoman,prettywoman1990
+694,Pride & Prejudice,2005,0.0,1,pride&prejudice,pride&prejudice2005
+695,Prince of Foxes,1949,0.0,1,princeoffoxes,princeoffoxes1949
+696,Private Benjamin,1980,0.0,1,privatebenjamin,privatebenjamin1980
+697,Private Worlds,1935,0.0,1,privateworlds,privateworlds1935
+698,Prizzi's Honor,1985,0.0,3,prizzishonor,prizzishonor1985
+699,Psycho,1960,0.0,2,psycho,psycho1960
+700,Pulp Fiction,1994,0.0,3,pulpfiction,pulpfiction1994
+701,Pygmalion,1938,0.0,3,pygmalion,pygmalion1938
+702,Queen Bee,1955,0.0,1,queenbee,queenbee1955
+703,Quills,2000,0.0,1,quills,quills2000
+704,Quiz Show,1994,0.0,2,quizshow,quizshow1994
+705,Quo Vadis,1951,0.0,2,quovadis,quovadis1951
+706,Rabbit Hole,2010,0.0,1,rabbithole,rabbithole2010
+707,Rachel Getting Married,2008,0.0,1,rachelgettingmarried,rachelgettingmarried2008
+708,"Rachel, Rachel",1968,0.0,2,rachelrachel,rachelrachel1968
+709,Raging Bull,1980,1.0,4,ragingbull,ragingbull1980
+710,Ragtime,1981,0.0,1,ragtime,ragtime1981
+711,Raiders of the Lost Ark,1981,0.0,3,raidersofthelostark,raidersofthelostark1981
+712,Rain Man,1988,3.0,4,rainman,rainman1988
+713,Raintree County,1957,0.0,1,raintreecounty,raintreecounty1957
+714,Rambling Rose,1991,0.0,1,ramblingrose,ramblingrose1991
+715,Ran,1985,0.0,2,ran,ran1985
+716,Random Harvest,1942,0.0,3,randomharvest,randomharvest1942
+717,Ray,2004,1.0,3,ray,ray2004
+718,Reap the Wild Wind,1942,0.0,1,reapthewildwind,reapthewildwind1942
+719,Rear Window,1954,0.0,2,rearwindow,rearwindow1954
+720,Rebecca,1940,2.0,5,rebecca,rebecca1940
+721,Red,1994,0.0,2,red,red1994
+722,Reds,1981,2.0,5,reds,reds1981
+723,Requiem for a Dream,2000,0.0,1,requiemforadream,requiemforadream2000
+724,Resurrection,1980,0.0,1,resurrection,resurrection1980
+725,"Reuben, Reuben",1983,0.0,1,reubenreuben,reubenreuben1983
+726,Reunion in Vienna,193233,0.0,1,reunioninvienna,reunioninvienna193233
+727,Reversal of Fortune,1990,1.0,2,reversaloffortune,reversaloffortune1990
+728,Richard III,1956,0.0,1,richardiii,richardiii1956
+729,Road to Perdition,2002,1.0,1,roadtoperdition,roadtoperdition2002
+730,Robert Leonard,192930,0.0,1,robertleonard,robertleonard192930
+731,Rocky,1976,2.0,4,rocky,rocky1976
+732,Rogue Cop,1954,0.0,1,roguecop,roguecop1954
+733,Roman Holiday,1953,1.0,4,romanholiday,romanholiday1953
+734,Romeo and Juliet,1936,0.0,2,romeoandjuliet,romeoandjuliet1936
+735,Romeo and Juliet,1968,1.0,3,romeoandjuliet,romeoandjuliet1968
+736,Room at the Top,1959,1.0,4,roomatthetop,roomatthetop1959
+737,Ruggles of Red Gap,1935,0.0,1,rugglesofredgap,rugglesofredgap1935
+738,Runaway Train,1985,0.0,1,runawaytrain,runawaytrain1985
+739,Ryan's Daughter,1970,1.0,2,ryansdaughter,ryansdaughter1970
+740,Sabrina,1954,0.0,3,sabrina,sabrina1954
+741,Sadie Thompson,192728,0.0,1,sadiethompson,sadiethompson192728
+742,Sahara,1943,0.0,1,sahara,sahara1943
+743,Salvador,1986,0.0,1,salvador,salvador1986
+744,"Same Time, Next Year",1978,0.0,2,sametimenextyear,sametimenextyear1978
+745,Samson and Delilah,1950,0.0,1,samsonanddelilah,samsonanddelilah1950
+746,San Francisco,1936,0.0,3,sanfrancisco,sanfrancisco1936
+747,Sand,1949,0.0,1,sand,sand1949
+748,Sands of Iwo Jima,1949,0.0,1,sandsofiwojima,sandsofiwojima1949
+749,Sarah and Son,192930,0.0,1,sarahandson,sarahandson192930
+750,Saturday Night Fever,1977,0.0,1,saturdaynightfever,saturdaynightfever1977
+751,Save the Tiger,1973,1.0,1,savethetiger,savethetiger1973
+752,Saving Private Ryan,1998,2.0,4,savingprivateryan,savingprivateryan1998
+753,Sayonara,1957,0.0,4,sayonara,sayonara1957
+754,Scent of a Woman,1992,1.0,3,scentofawoman,scentofawoman1992
+755,Schindler's List,1993,3.0,4,schindlerslist,schindlerslist1993
+756,Seabiscuit,2003,0.0,2,seabiscuit,seabiscuit2003
+757,Seance on a Wet Afternoon,1964,0.0,1,seanceonawetafternoon,seanceonawetafternoon1964
+758,Searching for Bobby Fischer,1993,0.0,1,searchingforbobbyfischer,searchingforbobbyfischer1993
+759,Seconds,1966,0.0,1,seconds,seconds1966
+760,Secrets & Lies,1996,0.0,3,secrets&lies,secrets&lies1996
+761,Sense and Sensibility,1995,0.0,3,senseandsensibility,senseandsensibility1995
+762,Separate Tables,1958,1.0,4,separatetables,separatetables1958
+763,Sergeant York,1941,1.0,4,sergeantyork,sergeantyork1941
+764,Serpico,1973,0.0,1,serpico,serpico1973
+765,Seven Beauties,1976,0.0,2,sevenbeauties,sevenbeauties1976
+766,Seven Brides for Seven Brothers,1954,0.0,2,sevenbridesforsevenbrothers,sevenbridesforsevenbrothers1954
+767,Shadowlands,1993,0.0,1,shadowlands,shadowlands1993
+768,Shakespeare in Love,1998,2.0,4,shakespeareinlove,shakespeareinlove1998
+769,Shane,1953,1.0,3,shane,shane1953
+770,Shanghai Express,193132,1.0,3,shanghaiexpress,shanghaiexpress193132
+771,Shanghai Triad,1995,0.0,1,shanghaitriad,shanghaitriad1995
+772,She Done Him Wrong,193233,0.0,1,shedonehimwrong,shedonehimwrong193233
+773,She Wore a Yellow Ribbon,1949,1.0,1,sheworeayellowribbon,sheworeayellowribbon1949
+774,Shine,1996,1.0,3,shine,shine1996
+775,Ship of Fools,1965,1.0,4,shipoffools,shipoffools1965
+776,Shirley Valentine,1989,0.0,1,shirleyvalentine,shirleyvalentine1989
+777,Short Cuts,1993,0.0,1,shortcuts,shortcuts1993
+778,Show Boat,1951,0.0,1,showboat,showboat1951
+779,Sideways,2004,0.0,2,sideways,sideways2004
+780,Silkwood,1983,0.0,2,silkwood,silkwood1983
+781,Since You Went Away,1944,0.0,3,sinceyouwentaway,sinceyouwentaway1944
+782,Sister Kenny,1946,0.0,1,sisterkenny,sisterkenny1946
+783,Sitting Pretty,1948,0.0,1,sittingpretty,sittingpretty1948
+784,Six Degrees of Separation,1993,0.0,1,sixdegreesofseparation,sixdegreesofseparation1993
+785,Skippy,193031,1.0,3,skippy,skippy193031
+786,Sleepy Hollow,1999,0.0,1,sleepyhollow,sleepyhollow1999
+787,Sleuth,1972,0.0,3,sleuth,sleuth1972
+788,Sling Blade,1996,0.0,1,slingblade,slingblade1996
+789,Slumdog Millionaire,2008,3.0,3,slumdogmillionaire,slumdogmillionaire2008
+790,Smash-Up--The Story of a Woman,1947,0.0,1,smash-up--thestoryofawoman,smash-up--thestoryofawoman1947
+791,Smilin' Through,193233,0.0,1,smilinthrough,smilinthrough193233
+792,Snow Falling on Cedars,1999,0.0,1,snowfallingoncedars,snowfallingoncedars1999
+793,So Proudly We Hail!,1943,0.0,1,soproudlywehail!,soproudlywehail!1943
+794,Some Came Running,1958,0.0,1,somecamerunning,somecamerunning1958
+795,Some Like It Hot,1959,0.0,3,somelikeithot,somelikeithot1959
+796,Somebody Up There Likes Me,1956,1.0,1,somebodyuptherelikesme,somebodyuptherelikesme1956
+797,Something's Gotta Give,2003,0.0,1,somethingsgottagive,somethingsgottagive2003
+798,Sons and Lovers,1960,1.0,4,sonsandlovers,sonsandlovers1960
+799,Sophie's Choice,1982,1.0,2,sophieschoice,sophieschoice1982
+800,"Sorry, Wrong Number",1948,0.0,1,sorrywrongnumber,sorrywrongnumber1948
+801,Sounder,1972,0.0,3,sounder,sounder1972
+802,South Pacific,1958,0.0,1,southpacific,southpacific1958
+803,Spartacus,1960,1.0,1,spartacus,spartacus1960
+804,Spellbound,1945,0.0,3,spellbound,spellbound1945
+805,Splendor in the Grass,1961,0.0,1,splendorinthegrass,splendorinthegrass1961
+806,Spring Parade,1940,0.0,1,springparade,springparade1940
+807,Stage Door,1937,0.0,2,stagedoor,stagedoor1937
+808,Stagecoach,1939,0.0,3,stagecoach,stagecoach1939
+809,Stagecoach to Fury,1956,0.0,1,stagecoachtofury,stagecoachtofury1956
+810,Stalag 17,1953,1.0,2,stalag17,stalag171953
+811,Stand and Deliver,1988,0.0,1,standanddeliver,standanddeliver1988
+812,Star Trek IV: The Voyage Home,1986,0.0,1,startrekiv:thevoyagehome,startrekiv:thevoyagehome1986
+813,Star Wars,1977,0.0,2,starwars,starwars1977
+814,Star!,1968,0.0,1,star!,star!1968
+815,Starman,1984,0.0,1,starman,starman1984
+816,Starting Over,1979,0.0,1,startingover,startingover1979
+817,State Fair,193233,0.0,1,statefair,statefair193233
+818,Stella Dallas,1937,0.0,1,stelladallas,stelladallas1937
+819,Strangers on a Train,1951,0.0,1,strangersonatrain,strangersonatrain1951
+820,Sudden Fear,1952,0.0,2,suddenfear,suddenfear1952
+821,"Suddenly, Last Summer",1959,0.0,2,suddenlylastsummer,suddenlylastsummer1959
+822,Suez,1938,0.0,1,suez,suez1938
+823,"Summer Wishes, Winter Dreams",1973,0.0,1,summerwisheswinterdreams,summerwisheswinterdreams1973
+824,Summer and Smoke,1961,0.0,1,summerandsmoke,summerandsmoke1961
+825,Summer of '42,1971,0.0,1,summerof42,summerof421971
+826,Summertime,1955,0.0,2,summertime,summertime1955
+827,Sun Valley Serenade,1941,0.0,1,sunvalleyserenade,sunvalleyserenade1941
+828,Sunday Bloody Sunday,1971,0.0,3,sundaybloodysunday,sundaybloodysunday1971
+829,Sundown,1941,0.0,1,sundown,sundown1941
+830,Sunrise at Campobello,1960,0.0,1,sunriseatcampobello,sunriseatcampobello1960
+831,Sunset Blvd.,1950,0.0,5,sunsetblvd,sunsetblvd1950
+832,Suspicion,1941,1.0,2,suspicion,suspicion1941
+833,Svengali,193031,0.0,1,svengali,svengali193031
+834,Sweeney Todd The Demon Barber of Fleet Street,2007,0.0,1,sweeneytoddthedemonbarberoffleetstreet,sweeneytoddthedemonbarberoffleetstreet2007
+835,Sweet Bird of Youth,1962,0.0,1,sweetbirdofyouth,sweetbirdofyouth1962
+836,Sweet Dreams,1985,0.0,1,sweetdreams,sweetdreams1985
+837,Sweet and Lowdown,1999,0.0,1,sweetandlowdown,sweetandlowdown1999
+838,Tabu,193031,1.0,1,tabu,tabu193031
+839,"Take a Letter, Darling",1942,0.0,1,takealetterdarling,takealetterdarling1942
+840,Talk to Her,2002,0.0,1,talktoher,talktoher2002
+841,Taxi Driver,1976,0.0,2,taxidriver,taxidriver1976
+842,Ted Wilde,192728,0.0,1,tedwilde,tedwilde192728
+843,Ten Gentlemen from West Point,1942,0.0,1,tengentlemenfromwestpoint,tengentlemenfromwestpoint1942
+844,Tender Mercies,1983,1.0,3,tendermercies,tendermercies1983
+845,Tequila Sunrise,1988,0.0,1,tequilasunrise,tequilasunrise1988
+846,Terminator 2: Judgment Day,1991,0.0,1,terminator2:judgmentday,terminator2:judgmentday1991
+847,Terms of Endearment,1983,3.0,4,termsofendearment,termsofendearment1983
+848,Tess,1980,1.0,3,tess,tess1980
+849,Test Pilot,1938,0.0,1,testpilot,testpilot1938
+850,Testament,1983,0.0,1,testament,testament1983
+851,That Hamilton Woman,1941,0.0,1,thathamiltonwoman,thathamiltonwoman1941
+852,The Absent Minded Professor,1961,0.0,1,theabsentmindedprofessor,theabsentmindedprofessor1961
+853,The Abyss,1989,0.0,1,theabyss,theabyss1989
+854,The Accidental Tourist,1988,0.0,1,theaccidentaltourist,theaccidentaltourist1988
+855,The Accused,1988,1.0,1,theaccused,theaccused1988
+856,The Adventures of Robin Hood,1938,0.0,1,theadventuresofrobinhood,theadventuresofrobinhood1938
+857,The Affairs of Cellini,1934,0.0,2,theaffairsofcellini,theaffairsofcellini1934
+858,The African Queen,1951,1.0,3,theafricanqueen,theafricanqueen1951
+859,The Agony and the Ecstasy,1965,0.0,1,theagonyandtheecstasy,theagonyandtheecstasy1965
+860,The Alamo,1960,0.0,2,thealamo,thealamo1960
+861,The Americanization of Emily,1964,0.0,1,theamericanizationofemily,theamericanizationofemily1964
+862,The Apartment,1960,2.0,5,theapartment,theapartment1960
+863,The Apostle,1997,0.0,1,theapostle,theapostle1997
+864,The Asphalt Jungle,1950,0.0,2,theasphaltjungle,theasphaltjungle1950
+865,The Assassination of Jesse James by the Coward Robert Ford,2007,0.0,1,theassassinationofjessejamesbythecowardrobertford,theassassinationofjessejamesbythecowardrobertford2007
+866,The Aviator,2004,1.0,4,theaviator,theaviator2004
+867,The Awful Truth,1937,1.0,3,theawfultruth,theawfultruth1937
+868,The Bad Seed,1956,0.0,2,thebadseed,thebadseed1956
+869,The Bad and the Beautiful,1952,1.0,2,thebadandthebeautiful,thebadandthebeautiful1952
+870,The Balcony,1963,0.0,1,thebalcony,thebalcony1963
+871,The Barker,192829,0.0,1,thebarker,thebarker192829
+872,The Barkleys of Broadway,1949,0.0,1,thebarkleysofbroadway,thebarkleysofbroadway1949
+873,The Barretts of Wimpole Street,1934,0.0,2,thebarrettsofwimpolestreet,thebarrettsofwimpolestreet1934
+874,The Battle of Algiers,1968,0.0,1,thebattleofalgiers,thebattleofalgiers1968
+875,The Bells of St. Mary's,1945,0.0,4,thebellsofstmarys,thebellsofstmarys1945
+876,The Best Years of Our Lives,1946,3.0,3,thebestyearsofourlives,thebestyearsofourlives1946
+877,The Big Chill,1983,0.0,1,thebigchill,thebigchill1983
+878,The Big Fisherman,1959,0.0,1,thebigfisherman,thebigfisherman1959
+879,The Big House,192930,0.0,2,thebighouse,thebighouse192930
+880,The Big Pond,192930,0.0,1,thebigpond,thebigpond192930
+881,The Big Sky,1952,0.0,1,thebigsky,thebigsky1952
+882,The Bishop's Wife,1947,0.0,2,thebishopswife,thebishopswife1947
+883,The Black Dahlia,2006,0.0,1,theblackdahlia,theblackdahlia2006
+884,The Black Hole,1979,0.0,1,theblackhole,theblackhole1979
+885,The Black Swan,1942,1.0,1,theblackswan,theblackswan1942
+886,The Blind Side,2009,1.0,2,theblindside,theblindside2009
+887,The Blue Bird,1940,0.0,1,thebluebird,thebluebird1940
+888,The Blue Lagoon,1980,0.0,1,thebluelagoon,thebluelagoon1980
+889,The Blue Veil,1951,0.0,1,theblueveil,theblueveil1951
+890,The Bostonians,1984,0.0,1,thebostonians,thebostonians1984
+891,The Boys from Brazil,1978,0.0,1,theboysfrombrazil,theboysfrombrazil1978
+892,The Bridge on the River Kwai,1957,4.0,4,thebridgeontheriverkwai,thebridgeontheriverkwai1957
+893,The Bridges of Madison County,1995,0.0,1,thebridgesofmadisoncounty,thebridgesofmadisoncounty1995
+894,The Broadway Melody,192829,0.0,1,thebroadwaymelody,thebroadwaymelody192829
+895,The Buccaneer,1938,0.0,1,thebuccaneer,thebuccaneer1938
+896,The Buddy Holly Story,1978,0.0,1,thebuddyhollystory,thebuddyhollystory1978
+897,The Caddo Company,192728,0.0,1,thecaddocompany,thecaddocompany192728
+898,The Caine Mutiny,1954,0.0,2,thecainemutiny,thecainemutiny1954
+899,The Cardinal,1963,0.0,2,thecardinal,thecardinal1963
+900,The Caretakers,1963,0.0,1,thecaretakers,thecaretakers1963
+901,The Champ,193132,1.0,3,thechamp,thechamp193132
+902,The Children's Hour,1961,0.0,1,thechildrenshour,thechildrenshour1961
+903,The China Syndrome,1979,0.0,2,thechinasyndrome,thechinasyndrome1979
+904,The Chocolate Soldier,1941,0.0,1,thechocolatesoldier,thechocolatesoldier1941
+905,The Cider House Rules,1999,0.0,2,theciderhouserules,theciderhouserules1999
+906,The Citadel,1938,0.0,3,thecitadel,thecitadel1938
+907,The Client,1994,0.0,1,theclient,theclient1994
+908,The Collector,1965,0.0,2,thecollector,thecollector1965
+909,The Color Purple,1985,0.0,3,thecolorpurple,thecolorpurple1985
+910,The Color of Money,1986,1.0,1,thecolorofmoney,thecolorofmoney1986
+911,The Constant Nymph,1943,0.0,1,theconstantnymph,theconstantnymph1943
+912,The Contender,2000,0.0,1,thecontender,thecontender2000
+913,The Conversation,1974,0.0,1,theconversation,theconversation1974
+914,The Country Girl,1954,1.0,5,thecountrygirl,thecountrygirl1954
+915,The Crusades,1935,0.0,1,thecrusades,thecrusades1935
+916,The Crying Game,1992,0.0,3,thecryinggame,thecryinggame1992
+917,The Curious Case of Benjamin Button,2008,0.0,4,thecuriouscaseofbenjaminbutton,thecuriouscaseofbenjaminbutton2008
+918,The Dark Angel,1935,0.0,1,thedarkangel,thedarkangel1935
+919,The Dark Knight,2008,0.0,1,thedarkknight,thedarkknight2008
+920,The Day of the Locust,1975,0.0,1,thedayofthelocust,thedayofthelocust1975
+921,The Deer Hunter,1978,2.0,4,thedeerhunter,thedeerhunter1978
+922,The Defiant Ones,1958,1.0,5,thedefiantones,thedefiantones1958
+923,The Departed,2006,2.0,2,thedeparted,thedeparted2006
+924,The Devil Wears Prada,2006,0.0,1,thedevilwearsprada,thedevilwearsprada2006
+925,The Devil's Holiday,192930,0.0,1,thedevilsholiday,thedevilsholiday192930
+926,The Diary of Anne Frank,1959,1.0,3,thediaryofannefrank,thediaryofannefrank1959
+927,The Divine Lady,192829,0.0,1,thedivinelady,thedivinelady192829
+928,The Diving Bell and the Butterfly,2007,0.0,2,thedivingbellandthebutterfly,thedivingbellandthebutterfly2007
+929,The Divorcee,192930,1.0,2,thedivorcee,thedivorcee192930
+930,The Dresser,1983,0.0,4,thedresser,thedresser1983
+931,The Eddy Duchin Story,1956,0.0,1,theeddyduchinstory,theeddyduchinstory1956
+932,The Egyptian,1954,0.0,1,theegyptian,theegyptian1954
+933,The Elephant Man,1980,0.0,3,theelephantman,theelephantman1980
+934,The Emigrants,1972,0.0,3,theemigrants,theemigrants1972
+935,The End of the Affair,1999,0.0,2,theendoftheaffair,theendoftheaffair1999
+936,The English Patient,1996,3.0,5,theenglishpatient,theenglishpatient1996
+937,The Entertainer,1960,0.0,1,theentertainer,theentertainer1960
+938,The Exorcist,1973,0.0,4,theexorcist,theexorcist1973
+939,The Fabulous Baker Boys,1989,0.0,2,thefabulousbakerboys,thefabulousbakerboys1989
+940,The Facts of Life,1960,0.0,1,thefactsoflife,thefactsoflife1960
+941,The Fallen Idol,1949,0.0,1,thefallenidol,thefallenidol1949
+942,The Farmer's Daughter,1947,1.0,1,thefarmersdaughter,thefarmersdaughter1947
+943,The Field,1990,0.0,1,thefield,thefield1990
+944,The Fighter,2010,0.0,2,thefighter,thefighter2010
+945,The Fisher King,1991,0.0,1,thefisherking,thefisherking1991
+946,The Five Pennies,1959,0.0,1,thefivepennies,thefivepennies1959
+947,The Fixer,1968,0.0,1,thefixer,thefixer1968
+948,The Flame and the Arrow,1950,0.0,1,theflameandthearrow,theflameandthearrow1950
+949,The Formula,1980,0.0,1,theformula,theformula1980
+950,The Fortune Cookie,1966,0.0,1,thefortunecookie,thefortunecookie1966
+951,The Four Poster,1953,0.0,1,thefourposter,thefourposter1953
+952,The French Connection,1971,3.0,4,thefrenchconnection,thefrenchconnection1971
+953,The French Lieutenant's Woman,1981,0.0,1,thefrenchlieutenantswoman,thefrenchlieutenantswoman1981
+954,The Frogmen,1951,0.0,1,thefrogmen,thefrogmen1951
+955,The Front Page,193031,0.0,3,thefrontpage,thefrontpage193031
+956,The Fugitive,1993,0.0,2,thefugitive,thefugitive1993
+957,The Full Monty,1997,0.0,2,thefullmonty,thefullmonty1997
+958,The Furies,1950,0.0,1,thefuries,thefuries1950
+959,The Gay Divorcee,1934,0.0,1,thegaydivorcee,thegaydivorcee1934
+960,The General Died at Dawn,1936,0.0,1,thegeneraldiedatdawn,thegeneraldiedatdawn1936
+961,The Ghost and Mrs. Muir,1947,0.0,1,theghostandmrsmuir,theghostandmrsmuir1947
+962,The Godfather,1972,2.0,3,thegodfather,thegodfather1972
+963,The Godfather Part II,1974,2.0,3,thegodfatherpartii,thegodfatherpartii1974
+964,"The Godfather, Part III",1990,0.0,3,thegodfatherpartiii,thegodfatherpartiii1990
+965,The Good Earth,1937,2.0,4,thegoodearth,thegoodearth1937
+966,The Goodbye Girl,1977,1.0,3,thegoodbyegirl,thegoodbyegirl1977
+967,The Gorgeous Hussy,1936,0.0,1,thegorgeoushussy,thegorgeoushussy1936
+968,The Graduate,1967,1.0,5,thegraduate,thegraduate1967
+969,The Grapes of Wrath,1940,1.0,3,thegrapesofwrath,thegrapesofwrath1940
+970,The Great Dictator,1940,0.0,2,thegreatdictator,thegreatdictator1940
+971,The Great Race,1965,0.0,1,thegreatrace,thegreatrace1965
+972,The Great Santini,1980,0.0,1,thegreatsantini,thegreatsantini1980
+973,The Great Victor Herbert,1939,0.0,1,thegreatvictorherbert,thegreatvictorherbert1939
+974,The Great Waltz,1938,1.0,1,thegreatwaltz,thegreatwaltz1938
+975,The Great White Hope,1970,0.0,2,thegreatwhitehope,thegreatwhitehope1970
+976,The Great Ziegfeld,1936,2.0,3,thegreatziegfeld,thegreatziegfeld1936
+977,The Greatest Show on Earth,1952,1.0,2,thegreatestshowonearth,thegreatestshowonearth1952
+978,The Greatest Story Ever Told,1965,0.0,1,thegreateststoryevertold,thegreateststoryevertold1965
+979,The Green Goddess,192930,0.0,1,thegreengoddess,thegreengoddess192930
+980,The Green Mile,1999,0.0,1,thegreenmile,thegreenmile1999
+981,The Green Years,1946,0.0,1,thegreenyears,thegreenyears1946
+982,The Grifters,1990,0.0,2,thegrifters,thegrifters1990
+983,The Guardsman,193132,0.0,2,theguardsman,theguardsman193132
+984,The Guns of Navarone,1961,0.0,2,thegunsofnavarone,thegunsofnavarone1961
+985,The Happy Ending,1969,0.0,1,thehappyending,thehappyending1969
+986,The Harder They Fall,1956,0.0,1,thehardertheyfall,thehardertheyfall1956
+987,The Hasty Heart,1949,0.0,1,thehastyheart,thehastyheart1949
+988,The Heart Is a Lonely Hunter,1968,0.0,1,theheartisalonelyhunter,theheartisalonelyhunter1968
+989,The Heiress,1949,1.0,4,theheiress,theheiress1949
+990,The High and the Mighty,1954,0.0,1,thehighandthemighty,thehighandthemighty1954
+991,The Hindenburg,1975,0.0,1,thehindenburg,thehindenburg1975
+992,The Hospital,1971,0.0,1,thehospital,thehospital1971
+993,The Hours,2002,1.0,3,thehours,thehours2002
+994,The House of Rothschild,1934,0.0,1,thehouseofrothschild,thehouseofrothschild1934
+995,The Human Comedy,1943,0.0,4,thehumancomedy,thehumancomedy1943
+996,The Hurricane,1999,0.0,1,thehurricane,thehurricane1999
+997,The Hurt Locker,2009,2.0,4,thehurtlocker,thehurtlocker2009
+998,The Hustler,1961,1.0,5,thehustler,thehustler1961
+999,The Illusionist,2006,0.0,1,theillusionist,theillusionist2006
+1000,The Informer,1935,2.0,3,theinformer,theinformer1935
+1001,The Inn of the Sixth Happiness,1958,0.0,1,theinnofthesixthhappiness,theinnofthesixthhappiness1958
+1002,The Insider,1999,0.0,4,theinsider,theinsider1999
+1003,The Invaders,1942,0.0,1,theinvaders,theinvaders1942
+1004,The Jolson Story,1946,0.0,2,thejolsonstory,thejolsonstory1946
+1005,The Keys of the Kingdom,1945,0.0,2,thekeysofthekingdom,thekeysofthekingdom1945
+1006,The Kids Are All Right,2010,0.0,2,thekidsareallright,thekidsareallright2010
+1007,The Killers,1946,0.0,1,thekillers,thekillers1946
+1008,The Killing Fields,1984,1.0,4,thekillingfields,thekillingfields1984
+1009,The King and I,1956,1.0,5,thekingandi,thekingandi1956
+1010,The King's Speech,2010,3.0,4,thekingsspeech,thekingsspeech2010
+1011,The L-Shaped Room,1963,0.0,1,thel-shapedroom,thel-shapedroom1963
+1012,The Last Angry Man,1959,0.0,1,thelastangryman,thelastangryman1959
+1013,The Last Command,192728,1.0,1,thelastcommand,thelastcommand192728
+1014,The Last Detail,1973,0.0,1,thelastdetail,thelastdetail1973
+1015,The Last Emperor,1987,3.0,3,thelastemperor,thelastemperor1987
+1016,The Last King of Scotland,2006,1.0,1,thelastkingofscotland,thelastkingofscotland2006
+1017,The Last Picture Show,1971,0.0,3,thelastpictureshow,thelastpictureshow1971
+1018,The Last Station,2009,0.0,1,thelaststation,thelaststation2009
+1019,The Last Temptation of Christ,1988,0.0,1,thelasttemptationofchrist,thelasttemptationofchrist1988
+1020,The Lavender Hill Mob,1952,0.0,1,thelavenderhillmob,thelavenderhillmob1952
+1021,The Letter,192829,0.0,1,theletter,theletter192829
+1022,The Letter,1940,0.0,4,theletter,theletter1940
+1023,The Life of Emile Zola,1937,1.0,3,thelifeofemilezola,thelifeofemilezola1937
+1024,The Lion in Winter,1968,1.0,4,thelioninwinter,thelioninwinter1968
+1025,The Little Foxes,1941,0.0,3,thelittlefoxes,thelittlefoxes1941
+1026,The Lives of a Bengal Lancer,1935,0.0,2,thelivesofabengallancer,thelivesofabengallancer1935
+1027,The Long Voyage Home,1940,0.0,2,thelongvoyagehome,thelongvoyagehome1940
+1028,The Longest Day,1962,1.0,2,thelongestday,thelongestday1962
+1029,The Lord of the Rings: The Fellowship of the Ring,2001,1.0,3,thelordoftherings:thefellowshipofthering,thelordoftherings:thefellowshipofthering2001
+1030,The Lord of the Rings: The Return of the King,2003,2.0,2,thelordoftherings:thereturnoftheking,thelordoftherings:thereturnoftheking2003
+1031,The Lord of the Rings: The Two Towers,2002,0.0,1,thelordoftherings:thetwotowers,thelordoftherings:thetwotowers2002
+1032,The Lost Weekend,1945,3.0,4,thelostweekend,thelostweekend1945
+1033,The Love Parade,192930,0.0,2,theloveparade,theloveparade192930
+1034,The Lover,1992,0.0,1,thelover,thelover1992
+1035,The Loves of Carmen,1948,0.0,1,thelovesofcarmen,thelovesofcarmen1948
+1036,The Madness of King George,1994,0.0,1,themadnessofkinggeorge,themadnessofkinggeorge1994
+1037,The Magnificent Ambersons,1942,0.0,2,themagnificentambersons,themagnificentambersons1942
+1038,The Magnificent Yankee,1950,0.0,1,themagnificentyankee,themagnificentyankee1950
+1039,The Maltese Falcon,1941,0.0,1,themaltesefalcon,themaltesefalcon1941
+1040,The Man Who Wasn't There,2001,0.0,1,themanwhowasntthere,themanwhowasntthere2001
+1041,The Man in the Glass Booth,1975,0.0,1,themanintheglassbooth,themanintheglassbooth1975
+1042,The Man with the Golden Arm,1955,0.0,1,themanwiththegoldenarm,themanwiththegoldenarm1955
+1043,The Mark,1961,0.0,1,themark,themark1961
+1044,The Member of the Wedding,1952,0.0,1,thememberofthewedding,thememberofthewedding1952
+1045,The Mikado,1939,0.0,1,themikado,themikado1939
+1046,The Miracle Worker,1962,1.0,2,themiracleworker,themiracleworker1962
+1047,The Mission,1986,1.0,3,themission,themission1986
+1048,The Moon Is Blue,1953,0.0,1,themoonisblue,themoonisblue1953
+1049,The More the Merrier,1943,0.0,3,themorethemerrier,themorethemerrier1943
+1050,The Morning After,1986,0.0,1,themorningafter,themorningafter1986
+1051,The Naked City,1948,1.0,1,thenakedcity,thenakedcity1948
+1052,The Natural,1984,0.0,1,thenatural,thenatural1984
+1053,The New World,2005,0.0,1,thenewworld,thenewworld2005
+1054,The Night of the Iguana,1964,0.0,1,thenightoftheiguana,thenightoftheiguana1964
+1055,The Noose,192728,0.0,1,thenoose,thenoose192728
+1056,The North Star,1943,0.0,1,thenorthstar,thenorthstar1943
+1057,The Nun's Story,1959,0.0,4,thenunsstory,thenunsstory1959
+1058,The Old Man and the Sea,1958,0.0,2,theoldmanandthesea,theoldmanandthesea1958
+1059,The Ox-Bow Incident,1943,0.0,1,theox-bowincident,theox-bowincident1943
+1060,The Passion of the Christ,2004,0.0,1,thepassionofthechrist,thepassionofthechrist2004
+1061,The Patriot,192829,0.0,1,thepatriot,thepatriot192829
+1062,The Patriot,2000,0.0,1,thepatriot,thepatriot2000
+1063,The Pawnbroker,1965,0.0,1,thepawnbroker,thepawnbroker1965
+1064,The People vs. Larry Flynt,1996,0.0,2,thepeoplevslarryflynt,thepeoplevslarryflynt1996
+1065,The Phantom of the Opera,2004,0.0,1,thephantomoftheopera,thephantomoftheopera2004
+1066,The Philadelphia Story,1940,1.0,4,thephiladelphiastory,thephiladelphiastory1940
+1067,The Pianist,2002,2.0,4,thepianist,thepianist2002
+1068,The Piano,1993,1.0,4,thepiano,thepiano1993
+1069,The Picture of Dorian Gray,1945,1.0,1,thepictureofdoriangray,thepictureofdoriangray1945
+1070,The Pied Piper,1942,0.0,3,thepiedpiper,thepiedpiper1942
+1071,The Player,1992,0.0,1,theplayer,theplayer1992
+1072,The Poseidon Adventure,1972,0.0,1,theposeidonadventure,theposeidonadventure1972
+1073,The Postman (Il Postino),1995,0.0,3,thepostman(ilpostino),thepostman(ilpostino)1995
+1074,The Prestige,2006,0.0,1,theprestige,theprestige2006
+1075,The Pride of the Yankees,1942,0.0,4,theprideoftheyankees,theprideoftheyankees1942
+1076,The Prime of Miss Jean Brodie,1969,1.0,1,theprimeofmissjeanbrodie,theprimeofmissjeanbrodie1969
+1077,The Prince of Tides,1991,0.0,3,theprinceoftides,theprinceoftides1991
+1078,The Private Life of Henry VIII,193233,1.0,2,theprivatelifeofhenryviii,theprivatelifeofhenryviii193233
+1079,The Private Lives of Elizabeth and Essex,1939,0.0,1,theprivatelivesofelizabethandessex,theprivatelivesofelizabethandessex1939
+1080,The Professionals,1966,0.0,2,theprofessionals,theprofessionals1966
+1081,The Pumpkin Eater,1964,0.0,1,thepumpkineater,thepumpkineater1964
+1082,The Pursuit of Happyness,2006,0.0,1,thepursuitofhappyness,thepursuitofhappyness2006
+1083,The Queen,2006,1.0,3,thequeen,thequeen2006
+1084,The Quiet American,2002,0.0,1,thequietamerican,thequietamerican2002
+1085,The Quiet Man,1952,2.0,3,thequietman,thequietman1952
+1086,The Rainmaker,1956,0.0,1,therainmaker,therainmaker1956
+1087,The Rains Came,1939,0.0,1,therainscame,therainscame1939
+1088,The Razor's Edge,1946,0.0,1,therazorsedge,therazorsedge1946
+1089,The Reader,2008,1.0,4,thereader,thereader2008
+1090,The Red Shoes,1948,0.0,1,theredshoes,theredshoes1948
+1091,The Remains of the Day,1993,0.0,4,theremainsoftheday,theremainsoftheday1993
+1092,The Right Stuff,1983,0.0,2,therightstuff,therightstuff1983
+1093,The Right to Love,193031,0.0,1,therighttolove,therighttolove193031
+1094,The River,1984,0.0,2,theriver,theriver1984
+1095,The Robe,1953,0.0,3,therobe,therobe1953
+1096,The Rogue Song,192930,0.0,1,theroguesong,theroguesong192930
+1097,The Rose,1979,0.0,1,therose,therose1979
+1098,The Rose Tattoo,1955,2.0,3,therosetattoo,therosetattoo1955
+1099,The Royal Family of Broadway,193031,0.0,1,theroyalfamilyofbroadway,theroyalfamilyofbroadway193031
+1100,The Ruling Class,1972,0.0,1,therulingclass,therulingclass1972
+1101,The Russians Are Coming The Russians Are Coming,1966,0.0,2,therussiansarecomingtherussiansarecoming,therussiansarecomingtherussiansarecoming1966
+1102,The Sand Pebbles,1966,0.0,3,thesandpebbles,thesandpebbles1966
+1103,The Savages,2007,0.0,1,thesavages,thesavages2007
+1104,The Search,1948,0.0,2,thesearch,thesearch1948
+1105,The Shawshank Redemption,1994,0.0,3,theshawshankredemption,theshawshankredemption1994
+1106,The Shop on Main Street,1966,0.0,1,theshoponmainstreet,theshoponmainstreet1966
+1107,The Sign of the Cross,193233,0.0,1,thesignofthecross,thesignofthecross193233
+1108,The Silence of the Lambs,1991,4.0,4,thesilenceofthelambs,thesilenceofthelambs1991
+1109,The Silver Chalice,1954,0.0,1,thesilverchalice,thesilverchalice1954
+1110,The Sin of Madelon Claudet,193132,1.0,1,thesinofmadelonclaudet,thesinofmadelonclaudet193132
+1111,The Sixth Sense,1999,0.0,2,thesixthsense,thesixthsense1999
+1112,The Smiling Lieutenant,193132,0.0,1,thesmilinglieutenant,thesmilinglieutenant193132
+1113,The Snake Pit,1948,0.0,3,thesnakepit,thesnakepit1948
+1114,The Snows of Kilimanjaro,1952,0.0,1,thesnowsofkilimanjaro,thesnowsofkilimanjaro1952
+1115,The Social Network,2010,0.0,4,thesocialnetwork,thesocialnetwork2010
+1116,The Song of Bernadette,1943,2.0,4,thesongofbernadette,thesongofbernadette1943
+1117,The Sound of Music,1965,2.0,4,thesoundofmusic,thesoundofmusic1965
+1118,The Southerner,1945,0.0,1,thesoutherner,thesoutherner1945
+1119,The Spanish Main,1945,0.0,1,thespanishmain,thespanishmain1945
+1120,The Spy Who Came In from the Cold,1965,0.0,1,thespywhocameinfromthecold,thespywhocameinfromthecold1965
+1121,The Star,1952,0.0,1,thestar,thestar1952
+1122,The Sterile Cuckoo,1969,0.0,1,thesterilecuckoo,thesterilecuckoo1969
+1123,The Sting,1973,2.0,4,thesting,thesting1973
+1124,The Story of Adele H.,1975,0.0,1,thestoryofadeleh,thestoryofadeleh1975
+1125,The Story of Louis Pasteur,1936,1.0,2,thestoryoflouispasteur,thestoryoflouispasteur1936
+1126,The Straight Story,1999,0.0,1,thestraightstory,thestraightstory1999
+1127,The Stunt Man,1980,0.0,2,thestuntman,thestuntman1980
+1128,The Subject Was Roses,1968,0.0,1,thesubjectwasroses,thesubjectwasroses1968
+1129,The Sundowners,1960,0.0,3,thesundowners,thesundowners1960
+1130,The Sunshine Boys,1975,0.0,1,thesunshineboys,thesunshineboys1975
+1131,The Sweet Hereafter,1997,0.0,1,thesweethereafter,thesweethereafter1997
+1132,The Talk of the Town,1942,0.0,2,thetalkofthetown,thetalkofthetown1942
+1133,The Ten Commandments,1956,0.0,2,thetencommandments,thetencommandments1956
+1134,The Thief of Bagdad,1940,1.0,1,thethiefofbagdad,thethiefofbagdad1940
+1135,The Thin Man,1934,0.0,3,thethinman,thethinman1934
+1136,The Thin Red Line,1998,0.0,3,thethinredline,thethinredline1998
+1137,The Third Man,1950,1.0,2,thethirdman,thethirdman1950
+1138,The Three Faces of Eve,1957,1.0,1,thethreefacesofeve,thethreefacesofeve1957
+1139,The Three Musketeers,1948,0.0,1,thethreemusketeers,thethreemusketeers1948
+1140,The Towering Inferno,1974,1.0,2,thetoweringinferno,thetoweringinferno1974
+1141,The Treasure of the Sierra Madre,1948,1.0,2,thetreasureofthesierramadre,thetreasureofthesierramadre1948
+1142,The Trespasser,192930,0.0,1,thetrespasser,thetrespasser192930
+1143,The Trip to Bountiful,1985,1.0,1,thetriptobountiful,thetriptobountiful1985
+1144,The Truman Show,1998,0.0,1,thetrumanshow,thetrumanshow1998
+1145,The Turning Point,1977,0.0,5,theturningpoint,theturningpoint1977
+1146,The Unbearable Lightness of Being,1988,0.0,1,theunbearablelightnessofbeing,theunbearablelightnessofbeing1988
+1147,The Uninvited,1944,0.0,1,theuninvited,theuninvited1944
+1148,The Unsinkable Molly Brown,1964,0.0,2,theunsinkablemollybrown,theunsinkablemollybrown1964
+1149,The Valiant,192829,0.0,1,thevaliant,thevaliant192829
+1150,The Valley of Decision,1945,0.0,1,thevalleyofdecision,thevalleyofdecision1945
+1151,The Verdict,1982,0.0,3,theverdict,theverdict1982
+1152,The Visitor,2008,0.0,1,thevisitor,thevisitor2008
+1153,The Way We Were,1973,0.0,2,thewaywewere,thewaywewere1973
+1154,The Whisperers,1967,0.0,1,thewhisperers,thewhisperers1967
+1155,The White Cliffs of Dover,1944,0.0,1,thewhitecliffsofdover,thewhitecliffsofdover1944
+1156,The White Parade,1934,0.0,1,thewhiteparade,thewhiteparade1934
+1157,The White Ribbon,2009,0.0,1,thewhiteribbon,thewhiteribbon2009
+1158,The Wings of the Dove,1997,0.0,2,thewingsofthedove,thewingsofthedove1997
+1159,The Wiz,1978,0.0,1,thewiz,thewiz1978
+1160,The Wizard of Oz,1939,0.0,2,thewizardofoz,thewizardofoz1939
+1161,The Wonderful World of the Brothers Grimm,1962,0.0,1,thewonderfulworldofthebrothersgrimm,thewonderfulworldofthebrothersgrimm1962
+1162,The Wrestler,2008,0.0,1,thewrestler,thewrestler2008
+1163,The Yearling,1946,1.0,5,theyearling,theyearling1946
+1164,The Young Lions,1958,0.0,1,theyounglions,theyounglions1958
+1165,The Young Philadelphians,1959,0.0,1,theyoungphiladelphians,theyoungphiladelphians1959
+1166,The Young in Heart,1938,0.0,1,theyounginheart,theyounginheart1938
+1167,Their Own Desire,192930,0.0,1,theirowndesire,theirowndesire192930
+1168,Thelma & Louise,1991,0.0,4,thelma&louise,thelma&louise1991
+1169,Theodora Goes Wild,1936,0.0,1,theodoragoeswild,theodoragoeswild1936
+1170,There Will Be Blood,2007,2.0,4,therewillbeblood,therewillbeblood2007
+1171,"They Shoot Horses, Don't They?",1969,0.0,2,theyshoothorsesdontthey?,theyshoothorsesdontthey?1969
+1172,Thirty Seconds over Tokyo,1944,0.0,1,thirtysecondsovertokyo,thirtysecondsovertokyo1944
+1173,This Sporting Life,1963,0.0,2,thissportinglife,thissportinglife1963
+1174,This above All,1942,0.0,1,thisaboveall,thisaboveall1942
+1175,Thousands Cheer,1943,0.0,1,thousandscheer,thousandscheer1943
+1176,Three Coins in the Fountain,1954,1.0,2,threecoinsinthefountain,threecoinsinthefountain1954
+1177,Three Comrades,1938,0.0,1,threecomrades,threecomrades1938
+1178,Three Smart Girls,1936,0.0,1,threesmartgirls,threesmartgirls1936
+1179,Thunderbolt,192829,0.0,1,thunderbolt,thunderbolt192829
+1180,Titanic,1997,3.0,4,titanic,titanic1997
+1181,To Catch a Thief,1955,1.0,1,tocatchathief,tocatchathief1955
+1182,"To Charles Chaplin, for acting, writing, directing and producing The Circus.[NOTE: The Academy Board of Judges on merit awards for individual achievements in motion picture arts during the year ending August 1, 1928, unanimously decided that your name should be removed from the competitive classes, and that a special first award be conferred upon you for writing, acting, directing and producing The Circus. The collective accomplishments thus displayed place you in a class by yourself. (Letter from the Academy to Mr. Chaplin, dated February 19, 1929.)]",192728,1.0,1,tocharleschaplinforactingwritingdirectingandproducingthecircus[note:theacademyboardofjudgesonmeritawardsforindividualachievementsinmotionpictureartsduringtheyearendingaugust11928unanimouslydecidedthatyournameshouldberemovedfromthecompetitiveclassesandthataspecialfirstawardbeconferreduponyouforwritingactingdirectingandproducingthecircusthecollectiveaccomplishmentsthusdisplayedplaceyouinaclassbyyourself(letterfromtheacademytomrchaplindatedfebruary191929)],tocharleschaplinforactingwritingdirectingandproducingthecircus[note:theacademyboardofjudgesonmeritawardsforindividualachievementsinmotionpictureartsduringtheyearendingaugust11928unanimouslydecidedthatyournameshouldberemovedfromthecompetitiveclassesandthataspecialfirstawardbeconferreduponyouforwritingactingdirectingandproducingthecircusthecollectiveaccomplishmentsthusdisplayedplaceyouinaclassbyyourself(letterfromtheacademytomrchaplindatedfebruary191929)]192728
+1183,To Each His Own,1946,1.0,1,toeachhisown,toeachhisown1946
+1184,To Kill a Mockingbird,1962,1.0,4,tokillamockingbird,tokillamockingbird1962
+1185,"To Oliver Marsh and Allen Davey for the color cinematography of the Metro-Goldwyn-Mayer production, Sweethearts.",1938,1.0,1,toolivermarshandallendaveyforthecolorcinematographyofthemetro-goldwyn-mayerproductionsweethearts,toolivermarshandallendaveyforthecolorcinematographyofthemetro-goldwyn-mayerproductionsweethearts1938
+1186,"To W. Howard Greene and Harold Rosson for the color cinematography of the Selznick International Production, The Garden of Allah.",1936,1.0,1,towhowardgreeneandharoldrossonforthecolorcinematographyoftheselznickinternationalproductionthegardenofallah,towhowardgreeneandharoldrossonforthecolorcinematographyoftheselznickinternationalproductionthegardenofallah1936
+1187,To W. Howard Greene for the color photography of A Star Is Born. (This Award was recommended by a committee of leading cinematographers after viewing all the color pictures made during the year.),1937,1.0,1,towhowardgreeneforthecolorphotographyofastarisborn(thisawardwasrecommendedbyacommitteeofleadingcinematographersafterviewingallthecolorpicturesmadeduringtheyear),towhowardgreeneforthecolorphotographyofastarisborn(thisawardwasrecommendedbyacommitteeofleadingcinematographersafterviewingallthecolorpicturesmadeduringtheyear)1937
+1188,To the Shores of Tripoli,1942,0.0,1,totheshoresoftripoli,totheshoresoftripoli1942
+1189,Tom & Viv,1994,0.0,1,tom&viv,tom&viv1994
+1190,Tom Jones,1963,2.0,3,tomjones,tomjones1963
+1191,Tommy,1975,0.0,1,tommy,tommy1975
+1192,Tootsie,1982,0.0,4,tootsie,tootsie1982
+1193,Top Hat,1935,0.0,1,tophat,tophat1935
+1194,Tora! Tora! Tora!,1970,0.0,1,tora!tora!tora!,tora!tora!tora!1970
+1195,Toy Story 3,2010,0.0,1,toystory3,toystory32010
+1196,Trader Horn,193031,0.0,1,traderhorn,traderhorn193031
+1197,Traffic,2000,1.0,2,traffic,traffic2000
+1198,Training Day,2001,1.0,1,trainingday,trainingday2001
+1199,Transamerica,2005,0.0,1,transamerica,transamerica2005
+1200,Travels with My Aunt,1972,0.0,2,travelswithmyaunt,travelswithmyaunt1972
+1201,Tribute,1980,0.0,1,tribute,tribute1980
+1202,True Grit,1969,1.0,1,truegrit,truegrit1969
+1203,True Grit,2010,0.0,4,truegrit,truegrit2010
+1204,Tumbleweeds,1999,0.0,1,tumbleweeds,tumbleweeds1999
+1205,Twelve O'Clock High,1949,0.0,2,twelveoclockhigh,twelveoclockhigh1949
+1206,Two Women,1961,1.0,1,twowomen,twowomen1961
+1207,Two for the Seesaw,1962,0.0,1,twofortheseesaw,twofortheseesaw1962
+1208,Ulee's Gold,1997,0.0,1,uleesgold,uleesgold1997
+1209,Under the Volcano,1984,0.0,1,underthevolcano,underthevolcano1984
+1210,Unfaithful,2002,0.0,1,unfaithful,unfaithful2002
+1211,Unforgiven,1992,2.0,4,unforgiven,unforgiven1992
+1212,United 93,2006,0.0,1,united93,united932006
+1213,Up,2009,0.0,1,up,up2009
+1214,Up in the Air,2009,0.0,3,upintheair,upintheair2009
+1215,Valiant Is the Word for Carrie,1936,0.0,1,valiantisthewordforcarrie,valiantisthewordforcarrie1936
+1216,Venus,2006,0.0,1,venus,venus2006
+1217,Vera Drake,2004,0.0,2,veradrake,veradrake2004
+1218,Victor/Victoria,1982,0.0,1,victor/victoria,victor/victoria1982
+1219,Viva Villa!,1934,0.0,1,vivavilla!,vivavilla!1934
+1220,Viva Zapata!,1952,0.0,1,vivazapata!,vivazapata!1952
+1221,Vivacious Lady,1938,0.0,1,vivaciouslady,vivaciouslady1938
+1222,Volver,2006,0.0,1,volver,volver2006
+1223,Wag the Dog,1997,0.0,1,wagthedog,wagthedog1997
+1224,Wait until Dark,1967,0.0,1,waituntildark,waituntildark1967
+1225,Wake Island,1942,0.0,2,wakeisland,wakeisland1942
+1226,Walk the Line,2005,1.0,2,walktheline,walktheline2005
+1227,Wall Street,1987,1.0,1,wallstreet,wallstreet1987
+1228,War and Peace,1956,0.0,2,warandpeace,warandpeace1956
+1229,WarGames,1983,0.0,1,wargames,wargames1983
+1230,Watch on the Rhine,1943,1.0,2,watchontherhine,watchontherhine1943
+1231,Waterloo Bridge,1940,0.0,1,waterloobridge,waterloobridge1940
+1232,West Side Story,1961,3.0,3,westsidestory,westsidestory1961
+1233,Whale Rider,2003,0.0,1,whalerider,whalerider2003
+1234,What Ever Happened to Baby Jane?,1962,0.0,2,whateverhappenedtobabyjane?,whateverhappenedtobabyjane?1962
+1235,What's Love Got to Do with It,1993,0.0,2,whatslovegottodowithit,whatslovegottodowithit1993
+1236,When My Baby Smiles at Me,1948,0.0,1,whenmybabysmilesatme,whenmybabysmilesatme1948
+1237,When Worlds Collide,1951,0.0,1,whenworldscollide,whenworldscollide1951
+1238,White Banners,1938,0.0,1,whitebanners,whitebanners1938
+1239,Who Framed Roger Rabbit,1988,0.0,1,whoframedrogerrabbit,whoframedrogerrabbit1988
+1240,Who's Afraid of Virginia Woolf?,1966,2.0,5,whosafraidofvirginiawoolf?,whosafraidofvirginiawoolf?1966
+1241,Wild Is the Wind,1957,0.0,2,wildisthewind,wildisthewind1957
+1242,Wilson,1944,1.0,4,wilson,wilson1944
+1243,Wings over Honolulu,1937,0.0,1,wingsoverhonolulu,wingsoverhonolulu1937
+1244,Winter's Bone,2010,0.0,2,wintersbone,wintersbone2010
+1245,With Byrd at the South Pole,192930,1.0,1,withbyrdatthesouthpole,withbyrdatthesouthpole192930
+1246,With a Song in My Heart,1952,0.0,1,withasonginmyheart,withasonginmyheart1952
+1247,Witness,1985,0.0,4,witness,witness1985
+1248,Witness for the Prosecution,1957,0.0,3,witnessfortheprosecution,witnessfortheprosecution1957
+1249,Woman in the Dunes,1965,0.0,1,womaninthedunes,womaninthedunes1965
+1250,Woman of the Year,1942,0.0,1,womanoftheyear,womanoftheyear1942
+1251,Women in Love,1970,1.0,3,womeninlove,womeninlove1970
+1252,Working Girl,1988,0.0,3,workinggirl,workinggirl1988
+1253,Wuthering Heights,1939,1.0,4,wutheringheights,wutheringheights1939
+1254,Wyatt Earp,1994,0.0,1,wyattearp,wyattearp1994
+1255,Yankee Doodle Dandy,1942,1.0,3,yankeedoodledandy,yankeedoodledandy1942
+1256,You Can Count on Me,2000,0.0,1,youcancountonme,youcancountonme2000
+1257,You Can't Take It with You,1938,2.0,3,youcanttakeitwithyou,youcanttakeitwithyou1938
+1258,Z,1969,0.0,2,z,z1969
+1259,Zelig,1983,0.0,1,zelig,zelig1983
+1260,Zorba the Greek,1964,1.0,4,zorbathegreek,zorbathegreek1964
+1261,nan,192728,1.0,1,nan,nan192728
